@@ -18664,3 +18664,508 @@ Version 1.25.158593
 13:55:06.212 <cleanup> Depleted:"Binoculars" at [6249,12221] damage=0.16
 13:55:06.212 <cleanup> Remove:"Binoculars" at [6249,12221] damage=0.16
 13:55:06.212 <cleanup> Depleted:"Broom" at [6268,3772] damage=0.13
+13:55:06.212 <cleanup> Remove:"Broom" at [6268,3772] damage=0.13
+13:55:06.212   Items deleted: 4, of: 4
+13:55:06.540 <cleanup> Depleted:"Hoodie_Red" at [4458,3914] damage=0.39
+13:55:06.540 <cleanup> Remove:"Hoodie_Red" at [4458,3914] damage=0.39
+13:55:06.540   Items deleted: 1, of: 1
+13:55:06.868 <cleanup> Depleted:"Sickle" at [3659,2443] damage=0.80
+13:55:06.868 <cleanup> Remove:"Sickle" at [3659,2443] damage=0.80
+13:55:06.868 <cleanup> Depleted:"Hammer" at [3406,3967] damage=0.68
+13:55:06.868 <cleanup> Remove:"Hammer" at [3406,3967] damage=0.68
+13:55:06.868 <cleanup> Depleted:"Mag_P1_8Rnd" at [3051,7801] damage=0.41
+13:55:06.868 <cleanup> Remove:"Mag_P1_8Rnd" at [3051,7801] damage=0.41
+13:55:06.868 <cleanup> Depleted:"DressShoes_Sunburst" at [2737,5323] damage=0.69
+13:55:06.868 <cleanup> Remove:"DressShoes_Sunburst" at [2737,5323] damage=0.69
+13:55:06.868 <cleanup> Depleted:"Flashlight" at [2726,5322] damage=0.29
+13:55:06.868 <cleanup> Remove:"Flashlight" at [2726,5322] damage=0.29
+13:55:06.868   Items deleted: 5, of: 5
+13:55:07.196 <cleanup> Depleted:"Pitchfork" at [2095,11336] damage=0.46
+13:55:07.196 <cleanup> Remove:"Pitchfork" at [2095,11336] damage=0.46
+13:55:07.196 <cleanup> Depleted:"NBCPantsGray" at [1640,14349] damage=0.35
+13:55:07.196 <cleanup> Remove:"NBCPantsGray" at [1640,14349] damage=0.35
+13:55:07.196 <cleanup> Depleted:"Ammo_556x45" at [1444,13694] damage=0.00
+13:55:07.196 <cleanup> Remove:"Ammo_556x45" at [1444,13694] damage=0.00
+13:55:07.196 <cleanup> Depleted:"Hammer" at [1888,2177] damage=0.49
+13:55:07.196 <cleanup> Remove:"Hammer" at [1888,2177] damage=0.49
+13:55:07.196 <cleanup> Depleted:"Bandana_Greenpattern" at [1688,3836] damage=0.77
+13:55:07.196 <cleanup> Remove:"Bandana_Greenpattern" at [1688,3836] damage=0.77
+13:55:07.196   Items deleted: 5, of: 5
+13:55:07.524 <cleanup> Remove:"ZmbM_JoggerSkinny_Blue" at [7606,5072] damage=0.00 DE="InfectedVillage"
+13:55:07.524 <cleanup> Remove:"ZmbM_Jacket_blue" at [7584,5079] damage=0.00 DE="InfectedVillage"
+13:55:07.524 <cleanup> Depleted:"MediumGasCanister" at [389,5172] damage=0.82
+13:55:07.524 <cleanup> Remove:"MediumGasCanister" at [389,5172] damage=0.82
+13:55:07.524 <cleanup> Depleted:"HuntingJacket_Spring" at [578,11122] damage=0.20
+13:55:07.524 <cleanup> Remove:"HuntingJacket_Spring" at [578,11122] damage=0.20
+13:55:07.524   Items deleted: 4, of: 4
+13:55:17.146 [Disconnect]: Start script disconnect 605079917 (dbCharacterId 4 dbPlayerId 4) logoutTime 15
+13:55:29.501 ------------------------------------
+13:55:29.501   ***  CE Loop took 26.9 (sec)...
+13:55:29.501 players: 1, loot: 22349, infected: 109, animals: 155
+13:55:29.501 ------------------------------------
+13:55:32.158 CHAR_DEBUG - SAVE
+13:55:32.158     player GreatExponent47 (dpnid = 605079917)
+13:55:32.158     Identity: playerID = 4 , charID = 4
+13:55:32.158     Person  : playerID = 4 , charID = 4
+13:55:32.158 CHAR_DEBUG - EXIT
+13:55:32.158     player C0EEE5CEAE7BCAD074E6F7067933E842BD5DA55B (dpnid = 605079917)
+13:55:32.158     Person  : playerID = 4 , charID = 4
+13:55:32.158 [Disconnect]: Finish script disconnect 605079917 (C0EEE5CEAE7BCAD074E6F7067933E842BD5DA55B)
+13:55:32.158 [Disconnect]: DisconnectPlayerFinish 605079917
+13:55:32.252 [Disconnect]: Remove player info 605079917
+13:55:32.268 [Disconnect]: Player destroy 605079917 
+13:55:34.955 Reloading Userlist ban.txt
+13:55:34.970 <cleanup> Depleted:"Ammo_12gaPellets" at [7948,11975] damage=0.00
+13:55:34.970 <cleanup> Remove:"Ammo_12gaPellets" at [7948,11975] damage=0.00
+13:55:34.970   Items deleted: 1, of: 1
+13:55:35.298 <cleanup> Remove:"Apple" at [7475,5107] damage=0.90
+13:55:35.298 <cleanup> Depleted:"Ammo_380" at [7523,5189] damage=0.50
+13:55:35.298 <cleanup> Remove:"Ammo_380" at [7523,5189] damage=0.50
+13:55:35.298 <cleanup> Remove:"Plum" at [7513,5155] damage=0.60
+13:55:35.298 <cleanup> Remove:"Plum" at [7513,5154] damage=0.90
+13:55:35.298 <cleanup> Remove:"Apple" at [7530,5171] damage=0.60
+13:55:35.298   Items deleted: 5, of: 5
+13:55:35.626 <cleanup> Depleted:"SkateHelmet_Green" at [6360,2248] damage=0.19
+13:55:35.626 <cleanup> Remove:"SkateHelmet_Green" at [6360,2248] damage=0.19
+13:55:35.626 <cleanup> Depleted:"Pickaxe" at [5869,11433] damage=0.16
+13:55:35.626 <cleanup> Remove:"Pickaxe" at [5869,11433] damage=0.16
+13:55:35.626   Items deleted: 2, of: 2
+13:55:35.954 <cleanup> Depleted:"LugWrench" at [5013,13493] damage=0.57
+13:55:35.954 <cleanup> Remove:"LugWrench" at [5013,13493] damage=0.57
+13:55:35.954 <cleanup> Depleted:"FryingPan" at [4332,13069] damage=0.41
+13:55:35.954 <cleanup> Remove:"FryingPan" at [4332,13069] damage=0.41
+13:55:35.954 <cleanup> Depleted:"Mag_1911_7Rnd" at [4950,2466] damage=0.82
+13:55:35.954 <cleanup> Remove:"Mag_1911_7Rnd" at [4950,2466] damage=0.82
+13:55:35.954 <cleanup> Depleted:"TrackSuitJacket_Green" at [3875,9033] damage=0.76
+13:55:35.954 <cleanup> Remove:"TrackSuitJacket_Green" at [3875,9033] damage=0.76
+13:55:35.954 <cleanup> Depleted:"UKAssVest_Khaki" at [4408,10874] damage=0.77
+13:55:35.954 <cleanup> Remove:"UKAssVest_Khaki" at [4408,10874] damage=0.77
+13:55:35.954   Items deleted: 5, of: 5
+13:55:36.282 <cleanup> Depleted:"Ssh68Helmet" at [3676,5989] damage=0.57
+13:55:36.282 <cleanup> Remove:"Ssh68Helmet" at [3676,5989] damage=0.57
+13:55:36.282 <cleanup> Depleted:"ZmijovkaCap_Brown" at [3700,8254] damage=0.63
+13:55:36.282 <cleanup> Remove:"ZmijovkaCap_Brown" at [3700,8254] damage=0.63
+13:55:36.282 <cleanup> Depleted:"Ushanka_Black" at [3017,2549] damage=0.18
+13:55:36.282 <cleanup> Remove:"Ushanka_Black" at [3017,2549] damage=0.18
+13:55:36.282   Items deleted: 3, of: 3
+13:55:36.610 <cleanup> Depleted:"Canteen" at [1844,2244] damage=0.19
+13:55:36.610 <cleanup> Remove:"Canteen" at [1844,2244] damage=0.19
+13:55:36.610 <cleanup> Depleted:"Thermometer" at [2466,11022] damage=0.82
+13:55:36.610 <cleanup> Remove:"Thermometer" at [2466,11022] damage=0.82
+13:55:36.610 <cleanup> Depleted:"BeanieHat_Black" at [2473,9626] damage=0.82
+13:55:36.610 <cleanup> Remove:"BeanieHat_Black" at [2473,9626] damage=0.82
+13:55:36.610   Items deleted: 3, of: 3
+13:55:53.341 Saved 0 players ...
+13:55:53.560 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] PolicePants missing:10 [cnt:10, nom:20, min:10]
+13:55:53.560   Adding PolicePants at [11069,12463]
+13:55:53.560   Adding PolicePants at [12056,3614]
+13:55:53.560   Adding PolicePants at [2777,1238]
+13:55:53.560   Adding PolicePants at [12922,10186]
+13:55:53.560   Adding PolicePants at [2725,5369]
+13:55:53.560   Adding PolicePants at [6003,10354]
+13:55:53.560   Adding PolicePants at [3421,13011]
+13:55:53.560   Adding PolicePants at [11486,14480]
+13:55:53.560   Adding PolicePants at [13839,13219]
+13:55:53.560   Adding PolicePants at [6200,2916]
+13:55:53.560   [CE][LootRespawner] (PRIDummy) :: PolicePants respawned:10, tests:10 missing:0
+13:55:53.669 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Hammer missing:5 [cnt:40, nom:45, min:40]
+13:55:53.669   Adding Hammer at [13006,5493]
+13:55:53.669   Adding Hammer at [11745,12186]
+13:55:53.669   Adding Hammer at [11253,6576]
+13:55:53.669 !!! [CE][Point] Removing 6302.112305, 6096.448730 from Land_Shed_M3
+13:55:53.669   Adding Hammer at [6730,14212]
+13:55:53.669   Adding Hammer at [12831,10175]
+13:55:53.669   [CE][LootRespawner] (PRIDummy) :: Hammer respawned:5, tests:6 missing:0
+13:55:55.746 <cleanup> Depleted:"ZmbM_FarmerFat_Blue" at [7807,5096] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 100
+13:55:55.746 <cleanup> Depleted:"ZmbM_VillagerOld_White" at [7764,5163] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 100
+13:55:55.746 <cleanup> Depleted:"ZmbF_JoggerSkinny_Brown" at [7793,5173] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 100
+13:55:55.746 <cleanup> Depleted:"ZmbF_JoggerSkinny_Blue" at [7776,5187] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 100
+13:55:55.746   Items batched for deletion: 4, of: 33
+13:55:55.746 <cleanup> Depleted:"ZmbM_Jacket_beige" at [7675,5183] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 151
+13:55:55.746 <cleanup> Depleted:"ZmbM_Jacket_khaki" at [7646,5191] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 151
+13:55:55.746 <cleanup> Depleted:"ZmbM_FarmerFat_Brown" at [7646,5183] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 151
+13:55:55.746 <cleanup> Depleted:"ZmbF_MilkMaidOld_Grey" at [7669,5133] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 151
+13:55:55.746   Items batched for deletion: 4, of: 91
+13:55:55.746 <cleanup> Depleted:"ZmbF_VillagerOld_Red" at [7444,4981] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 152
+13:55:55.746 <cleanup> Depleted:"ZmbM_VillagerOld_White" at [7448,5015] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 152
+13:55:55.746 <cleanup> Depleted:"ZmbM_Jacket_khaki" at [7481,5000] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 152
+13:55:55.746 <cleanup> Depleted:"ZmbM_FarmerFat_Brown" at [7525,5007] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 152
+13:55:55.746   Items batched for deletion: 4, of: 96
+13:55:55.746 <cleanup> Depleted:"ZmbF_MilkMaidOld_Beige" at [7526,5264] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 153
+13:55:55.746 <cleanup> Depleted:"ZmbM_JoggerSkinny_Blue" at [7566,5272] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 153
+13:55:55.746 <cleanup> Depleted:"ZmbF_JoggerSkinny_Blue" at [7526,5180] damage=1.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 153
+13:55:55.746   Items batched for deletion: 3, of: 43
+13:55:55.746 <cleanup> Depleted:"ZmbF_JoggerSkinny_Brown" at [7469,5127] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 154
+13:55:55.746 <cleanup> Depleted:"ZmbM_Jacket_greenchecks" at [7430,5112] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 154
+13:55:55.746 <cleanup> Depleted:"ZmbM_Jacket_blue" at [7478,5075] damage=0.00 DE="InfectedVillage"
+13:55:55.746  DE: InfectedVillage Zone index: 154
+13:55:55.746   Items batched for deletion: 3, of: 104
+13:55:58.918 ------------------------------------
+13:55:58.918   ***  CE Loop took 26.9 (sec)...
+13:55:58.918 players: 0, loot: 22274, infected: 107, animals: 155
+13:55:58.918 Idle Mode Counting in 60 (sec)!
+13:55:58.918 ------------------------------------
+13:56:00.89   Adding Grenade_ChemGas at [2733,5372]
+13:56:00.89   Adding Grenade_ChemGas at [2738,5368]
+13:56:00.89   Adding Grenade_ChemGas at [2743,5389]
+13:56:00.89 String "STR_DN_UNKNOWN" not found (not in localization table)
+13:56:02.198 [A2S] received data
+13:56:02.198 [A2S] A2S_INFO
+13:56:02.198 [A2S] received data
+13:56:02.198 [A2S] A2S_PLAYER
+13:56:02.198 [A2S] received data
+13:56:02.198 [A2S] A2S_RULES
+13:56:03.401 <cleanup> Depleted:"Pate" at [12317,10828] damage=0.70
+13:56:03.401 <cleanup> Remove:"Pate" at [12317,10828] damage=0.70
+13:56:03.401   Items deleted: 1, of: 1
+13:56:04.385 <cleanup> Depleted:"DarkMotoHelmet_Green" at [7785,5269] damage=0.70
+13:56:04.385 <cleanup> Remove:"DarkMotoHelmet_Green" at [7785,5269] damage=0.70
+13:56:04.385 <cleanup> Depleted:"GasMask" at [7785,14773] damage=0.35
+13:56:04.385 <cleanup> Remove:"GasMask" at [7785,14773] damage=0.35
+13:56:04.385 <cleanup> Depleted:"SodaCan_Fronta" at [8204,12204] damage=0.56
+13:56:04.385 <cleanup> Remove:"SodaCan_Fronta" at [8204,12204] damage=0.56
+13:56:04.385 <cleanup> Depleted:"TrackSuitJacket_Red" at [7960,12517] damage=0.82
+13:56:04.385 <cleanup> Remove:"TrackSuitJacket_Red" at [7960,12517] damage=0.82
+13:56:04.385   Items deleted: 4, of: 4
+13:56:04.713 <cleanup> Depleted:"Pear" at [7576,5202] damage=0.60
+13:56:04.713 <cleanup> Remove:"Pear" at [7576,5202] damage=0.60
+13:56:04.713 <cleanup> Depleted:"Plum" at [7448,5168] damage=0.60
+13:56:04.713 <cleanup> Remove:"Plum" at [7448,5168] damage=0.60
+13:56:04.713 <cleanup> Depleted:"Pear" at [7569,5201] damage=0.90
+13:56:04.713 <cleanup> Remove:"Pear" at [7569,5201] damage=0.90
+13:56:04.713 <cleanup> Depleted:"AthleticShoes_Brown" at [6662,2383] damage=0.36
+13:56:04.713 <cleanup> Remove:"AthleticShoes_Brown" at [6662,2383] damage=0.36
+13:56:04.713   Items deleted: 4, of: 4
+13:56:05.41 <cleanup> Depleted:"Breeches_Beetcheck" at [5461,8511] damage=0.82
+13:56:05.41 <cleanup> Remove:"Breeches_Beetcheck" at [5461,8511] damage=0.82
+13:56:05.41 <cleanup> Depleted:"MilitaryBoots_Beige" at [5261,10008] damage=0.16
+13:56:05.41 <cleanup> Remove:"MilitaryBoots_Beige" at [5261,10008] damage=0.16
+13:56:05.41 <cleanup> Depleted:"Chemlight_Green" at [5660,3002] damage=0.49
+13:56:05.41 <cleanup> Remove:"Chemlight_Green" at [5660,3002] damage=0.49
+13:56:05.41   Items deleted: 3, of: 3
+13:56:05.369 <cleanup> Depleted:"PistolSuppressor" at [4398,10816] damage=0.44
+13:56:05.369 <cleanup> Remove:"PistolSuppressor" at [4398,10816] damage=0.44
+13:56:05.369   Items deleted: 1, of: 1
+13:56:05.697 <cleanup> Depleted:"Chemlight_Blue" at [3604,2515] damage=0.69
+13:56:05.697 <cleanup> Remove:"Chemlight_Blue" at [3604,2515] damage=0.69
+13:56:05.697 <cleanup> Depleted:"Blowtorch" at [3279,12951] damage=0.56
+13:56:05.697 <cleanup> Remove:"Blowtorch" at [3279,12951] damage=0.56
+13:56:05.697   Items deleted: 2, of: 2
+13:56:06.25 <cleanup> Depleted:"Wellies_Brown" at [1683,5100] damage=0.82
+13:56:06.25 <cleanup> Remove:"Wellies_Brown" at [1683,5100] damage=0.82
+13:56:06.25 <cleanup> Depleted:"MP5_PlasticHndgrd" at [1566,14031] damage=0.35
+13:56:06.25 <cleanup> Remove:"MP5_PlasticHndgrd" at [1566,14031] damage=0.35
+13:56:06.25   Items deleted: 2, of: 2
+13:56:06.353 <cleanup> Remove:"ZmbM_Jacket_beige" at [7675,5183] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbF_VillagerOld_Red" at [7444,4981] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbM_Jacket_khaki" at [7646,5191] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbF_MilkMaidOld_Beige" at [7526,5264] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbM_FarmerFat_Blue" at [7807,5096] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbM_VillagerOld_White" at [7764,5163] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbM_JoggerSkinny_Blue" at [7566,5272] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbF_JoggerSkinny_Brown" at [7793,5173] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbF_JoggerSkinny_Blue" at [7776,5187] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbM_VillagerOld_White" at [7448,5015] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbF_JoggerSkinny_Blue" at [7526,5180] damage=1.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbM_Jacket_khaki" at [7481,5000] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbF_JoggerSkinny_Brown" at [7469,5127] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbM_FarmerFat_Brown" at [7646,5183] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbM_Jacket_greenchecks" at [7430,5112] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbF_MilkMaidOld_Grey" at [7669,5133] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbM_FarmerFat_Brown" at [7525,5007] damage=0.00 DE="InfectedVillage"
+13:56:06.353 <cleanup> Remove:"ZmbM_Jacket_blue" at [7478,5075] damage=0.00 DE="InfectedVillage"
+13:56:06.353   Items deleted: 18, of: 18
+13:56:25.164 <cleanup> Depleted:"ZmbF_VillagerOld_Green" at [7580,5250] damage=0.00 DE="InfectedVillage"
+13:56:25.164  DE: InfectedVillage Zone index: 153
+13:56:25.164   Items batched for deletion: 1, of: 65
+13:56:25.929 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+13:56:28.335 ------------------------------------
+13:56:28.335   ***  CE Loop took 26.9 (sec)...
+13:56:28.335 players: 0, loot: 22280, infected: 107, animals: 154
+13:56:28.335 Idle Mode Counting in 33 (sec)!
+13:56:28.335 ------------------------------------
+13:56:32.492 <cleanup> Depleted:"TShirt_Blue" at [13990,13405] damage=0.80
+13:56:32.492 <cleanup> Remove:"TShirt_Blue" at [13990,13405] damage=0.80
+13:56:32.492   Items deleted: 1, of: 1
+13:56:33.804 <cleanup> Depleted:"SlacksPants_Blue" at [8569,11925] damage=0.46
+13:56:33.804 <cleanup> Remove:"SlacksPants_Blue" at [8569,11925] damage=0.46
+13:56:33.804 <cleanup> Depleted:"HandSaw" at [7980,3122] damage=0.78
+13:56:33.804 <cleanup> Remove:"HandSaw" at [7980,3122] damage=0.78
+13:56:33.804   Items deleted: 2, of: 2
+13:56:34.132 <cleanup> Depleted:"Ammo_12gaPellets" at [6750,2526] damage=0.70
+13:56:34.132 <cleanup> Remove:"Ammo_12gaPellets" at [6750,2526] damage=0.70
+13:56:34.132 <cleanup> Depleted:"MiniDress_Pink" at [6608,2655] damage=0.44
+13:56:34.132 <cleanup> Remove:"MiniDress_Pink" at [6608,2655] damage=0.44
+13:56:34.132   Items deleted: 2, of: 2
+13:56:34.460 <cleanup> Depleted:"AKS74U_Bttstck" at [5227,2143] damage=0.77
+13:56:34.460 <cleanup> Remove:"AKS74U_Bttstck" at [5227,2143] damage=0.77
+13:56:34.460 <cleanup> Depleted:"Screwdriver" at [6027,10468] damage=0.73
+13:56:34.460 <cleanup> Remove:"Screwdriver" at [6027,10468] damage=0.73
+13:56:34.460 <cleanup> Depleted:"FarmingHoe" at [6277,14902] damage=0.74
+13:56:34.460 <cleanup> Remove:"FarmingHoe" at [6277,14902] damage=0.74
+13:56:34.460   Items deleted: 3, of: 3
+13:56:34.788 <cleanup> Depleted:"CargoPants_Green" at [4145,8960] damage=0.11
+13:56:34.788 <cleanup> Remove:"CargoPants_Green" at [4145,8960] damage=0.11
+13:56:34.788 <cleanup> Depleted:"WaterBottle" at [4245,9195] damage=0.63
+13:56:34.788 <cleanup> Remove:"WaterBottle" at [4245,9195] damage=0.63
+13:56:34.788 <cleanup> Depleted:"SurgicalMask" at [4778,10328] damage=0.35
+13:56:34.788 <cleanup> Remove:"SurgicalMask" at [4778,10328] damage=0.35
+13:56:34.788   Items deleted: 3, of: 3
+13:56:35.116 <cleanup> Depleted:"MiniDress_BrownChecker" at [3366,4960] damage=0.16
+13:56:35.116 <cleanup> Remove:"MiniDress_BrownChecker" at [3366,4960] damage=0.16
+13:56:35.116 <cleanup> Depleted:"CivilianBelt" at [3513,13059] damage=0.78
+13:56:35.116 <cleanup> Remove:"CivilianBelt" at [3513,13059] damage=0.78
+13:56:35.116   Items deleted: 2, of: 2
+13:56:35.444 <cleanup> Depleted:"Ammo_45ACP" at [1989,13832] damage=0.70
+13:56:35.444 <cleanup> Remove:"Ammo_45ACP" at [1989,13832] damage=0.70
+13:56:35.444 <cleanup> Depleted:"Skirt_Yellow" at [2533,9776] damage=0.20
+13:56:35.444 <cleanup> Remove:"Skirt_Yellow" at [2533,9776] damage=0.20
+13:56:35.444 <cleanup> Depleted:"Screwdriver" at [2334,5263] damage=0.24
+13:56:35.444 <cleanup> Remove:"Screwdriver" at [2334,5263] damage=0.24
+13:56:35.444 <cleanup> Depleted:"HuntingJacket_Summer" at [2181,7930] damage=0.82
+13:56:35.444 <cleanup> Remove:"HuntingJacket_Summer" at [2181,7930] damage=0.82
+13:56:35.444 <cleanup> Depleted:"GorkaEJacket_PautRev" at [1894,13706] damage=0.05
+13:56:35.444 <cleanup> Remove:"GorkaEJacket_PautRev" at [1894,13706] damage=0.05
+13:56:35.444 <cleanup> Depleted:"PistolSuppressor" at [2473,5103] damage=0.75
+13:56:35.444 <cleanup> Remove:"PistolSuppressor" at [2473,5103] damage=0.75
+13:56:35.444   Items deleted: 6, of: 6
+13:56:35.772 <cleanup> Remove:"ZmbF_VillagerOld_Green" at [7580,5250] damage=0.00 DE="InfectedVillage"
+13:56:35.772 <cleanup> Depleted:"Hatchet" at [214,11870] damage=0.21
+13:56:35.772 <cleanup> Remove:"Hatchet" at [214,11870] damage=0.21
+13:56:35.772 <cleanup> Depleted:"PumpkinSeedsPack" at [1205,8724] damage=0.18
+13:56:35.772 <cleanup> Remove:"PumpkinSeedsPack" at [1205,8724] damage=0.18
+13:56:35.772   Items deleted: 3, of: 3
+13:56:52.393 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Pate missing:5 [cnt:18, nom:23, min:18]
+13:56:52.393   Adding Pate at [12619,9538]
+13:56:52.393   Adding Pate at [6132,3026]
+13:56:52.393   Adding Pate at [10583,2315]
+13:56:52.393   Adding Pate at [12314,10827]
+13:56:52.393   Adding Pate at [6353,2245]
+13:56:52.393   [CE][LootRespawner] (PRIDummy) :: Pate respawned:5, tests:5 missing:0
+13:56:52.503 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] MP5_PlasticHndgrd missing:2 [cnt:2, nom:4, min:2]
+13:56:52.503   Adding MP5_PlasticHndgrd at [1544,14134]
+13:56:52.503   Adding MP5_PlasticHndgrd at [2481,5189]
+13:56:52.503   [CE][LootRespawner] (PRIDummy) :: MP5_PlasticHndgrd respawned:2, tests:2 missing:0
+13:56:57.751 ------------------------------------
+13:56:57.751   ***  CE Loop took 26.9 (sec)...
+13:56:57.751 players: 0, loot: 22258, infected: 89, animals: 154
+13:56:57.751 Idle Mode Counting in 6 (sec)!
+13:56:57.751 ------------------------------------
+13:57:03.219 <cleanup> Depleted:"ZagorkyPeanuts" at [7697,8689] damage=0.30
+13:57:03.219 <cleanup> Remove:"ZagorkyPeanuts" at [7697,8689] damage=0.30
+13:57:03.219 <cleanup> Depleted:"BurlapSack" at [7949,12832] damage=0.48
+13:57:03.219 <cleanup> Remove:"BurlapSack" at [7949,12832] damage=0.48
+13:57:03.219   Items deleted: 2, of: 2
+13:57:03.547 <cleanup> Depleted:"FlatCap_Blue" at [6759,2640] damage=0.47
+13:57:03.547 <cleanup> Remove:"FlatCap_Blue" at [6759,2640] damage=0.47
+13:57:03.547 <cleanup> Depleted:"MotoHelmet_White" at [7471,2672] damage=0.68
+13:57:03.547 <cleanup> Remove:"MotoHelmet_White" at [7471,2672] damage=0.68
+13:57:03.547 <cleanup> Depleted:"DisinfectantAlcohol" at [7308,3223] damage=0.57
+13:57:03.547 <cleanup> Remove:"DisinfectantAlcohol" at [7308,3223] damage=0.57
+13:57:03.547 <cleanup> Depleted:"HunterPants_Summer" at [7653,11185] damage=0.82
+13:57:03.547 <cleanup> Remove:"HunterPants_Summer" at [7653,11185] damage=0.82
+13:57:03.547 <cleanup> Depleted:"Skirt_Yellow" at [6637,2646] damage=0.19
+13:57:03.547 <cleanup> Remove:"Skirt_Yellow" at [6637,2646] damage=0.19
+13:57:03.547   Items deleted: 5, of: 5
+13:57:03.875 <cleanup> Depleted:"SmallGasCanister" at [6040,3257] damage=0.82
+13:57:03.875 <cleanup> Remove:"SmallGasCanister" at [6040,3257] damage=0.82
+13:57:03.875   Items deleted: 1, of: 1
+13:57:04.203 <cleanup> Depleted:"HuntingJacket_Winter" at [4959,5637] damage=0.49
+13:57:04.203 <cleanup> Remove:"HuntingJacket_Winter" at [4959,5637] damage=0.49
+13:57:04.203 <cleanup> Depleted:"HighCapacityVest_Black" at [4862,10204] damage=0.29
+13:57:04.203 <cleanup> Remove:"HighCapacityVest_Black" at [4862,10204] damage=0.29
+13:57:04.203   Items deleted: 2, of: 2
+13:57:04.531 <cleanup> Depleted:"Pitchfork" at [3056,7751] damage=0.54
+13:57:04.531 <cleanup> Remove:"Pitchfork" at [3056,7751] damage=0.54
+13:57:04.531 <cleanup> Depleted:"Ammo_9x19" at [3347,13004] damage=0.00
+13:57:04.531 <cleanup> Remove:"Ammo_9x19" at [3347,13004] damage=0.00
+13:57:04.531 <cleanup> Depleted:"Bear_Pink" at [2633,12321] damage=0.03
+13:57:04.531 <cleanup> Remove:"Bear_Pink" at [2633,12321] damage=0.03
+13:57:04.531 <cleanup> Depleted:"BeanieHat_Brown" at [2838,8126] damage=0.82
+13:57:04.531 <cleanup> Remove:"BeanieHat_Brown" at [2838,8126] damage=0.82
+13:57:04.531 <cleanup> Depleted:"CanOpener" at [2981,12554] damage=0.32
+13:57:04.531 <cleanup> Remove:"CanOpener" at [2981,12554] damage=0.32
+13:57:04.531   Items deleted: 5, of: 5
+13:57:04.734 [IdleMode] Entering IN - save processed
+13:57:06.171 ------------------------------------
+13:57:06.171   ***  CE Loop took 7.7 (sec)...
+13:57:06.171 Idle Mode Active!
+13:57:06.171 ------------------------------------
+13:57:11.529 ------------------------------------
+13:57:11.529   ***  CE Loop took 4.9 (sec)...
+13:57:11.529 Idle Mode Active!
+13:57:11.529 ------------------------------------
+13:57:16.887 ------------------------------------
+13:57:16.887   ***  CE Loop took 4.9 (sec)...
+13:57:16.887 Idle Mode Active!
+13:57:16.887 ------------------------------------
+13:57:22.248 ------------------------------------
+13:57:22.248   ***  CE Loop took 4.9 (sec)...
+13:57:22.248 Idle Mode Active!
+13:57:22.248 ------------------------------------
+13:57:27.606 ------------------------------------
+13:57:27.606   ***  CE Loop took 4.9 (sec)...
+13:57:27.606 Idle Mode Active!
+13:57:27.606 ------------------------------------
+13:57:32.953 ------------------------------------
+13:57:32.953   ***  CE Loop took 4.9 (sec)...
+13:57:32.953 Idle Mode Active!
+13:57:32.953 ------------------------------------
+13:57:38.311 ------------------------------------
+13:57:38.311   ***  CE Loop took 4.9 (sec)...
+13:57:38.311 Idle Mode Active!
+13:57:38.311 ------------------------------------
+13:57:43.669 ------------------------------------
+13:57:43.669   ***  CE Loop took 4.9 (sec)...
+13:57:43.669 Idle Mode Active!
+13:57:43.669 ------------------------------------
+13:57:49.27 ------------------------------------
+13:57:49.27   ***  CE Loop took 4.9 (sec)...
+13:57:49.27 Idle Mode Active!
+13:57:49.27 ------------------------------------
+13:57:50.324 [A2S] received data
+13:57:50.324 [A2S] A2S_INFO
+13:57:50.324 [A2S] received data
+13:57:50.324 [A2S] A2S_PLAYER
+13:57:50.324 [A2S] received data
+13:57:50.324 [A2S] A2S_RULES
+13:57:54.120 [A2S] received data
+13:57:54.120 [A2S] A2S_INFO
+13:57:54.120 [A2S] received data
+13:57:54.120 [A2S] A2S_PLAYER
+13:57:54.120 [A2S] received data
+13:57:54.120 [A2S] A2S_RULES
+13:57:54.386 ------------------------------------
+13:57:54.386   ***  CE Loop took 4.9 (sec)...
+13:57:54.386 Idle Mode Active!
+13:57:54.386 ------------------------------------
+13:57:59.744 ------------------------------------
+13:57:59.744   ***  CE Loop took 4.9 (sec)...
+13:57:59.744 Idle Mode Active!
+13:57:59.744 ------------------------------------
+13:58:05.102 ------------------------------------
+13:58:05.102   ***  CE Loop took 4.9 (sec)...
+13:58:05.102 Idle Mode Active!
+13:58:05.102 ------------------------------------
+13:58:10.460 ------------------------------------
+13:58:10.460   ***  CE Loop took 4.9 (sec)...
+13:58:10.460 Idle Mode Active!
+13:58:10.460 ------------------------------------
+13:58:15.818 ------------------------------------
+13:58:15.818   ***  CE Loop took 4.9 (sec)...
+13:58:15.818 Idle Mode Active!
+13:58:15.818 ------------------------------------
+13:58:21.189 ------------------------------------
+13:58:21.189   ***  CE Loop took 4.9 (sec)...
+13:58:21.189 Idle Mode Active!
+13:58:21.189 ------------------------------------
+13:58:26.547 ------------------------------------
+13:58:26.547   ***  CE Loop took 4.9 (sec)...
+13:58:26.547 Idle Mode Active!
+13:58:26.547 ------------------------------------
+13:58:31.907 ------------------------------------
+13:58:31.907   ***  CE Loop took 4.9 (sec)...
+13:58:31.907 Idle Mode Active!
+13:58:31.907 ------------------------------------
+13:58:37.265 ------------------------------------
+13:58:37.265   ***  CE Loop took 4.9 (sec)...
+13:58:37.265 Idle Mode Active!
+13:58:37.265 ------------------------------------
+13:58:42.623 ------------------------------------
+13:58:42.623   ***  CE Loop took 4.9 (sec)...
+13:58:42.623 Idle Mode Active!
+13:58:42.623 ------------------------------------
+13:58:47.981 ------------------------------------
+13:58:47.981   ***  CE Loop took 4.9 (sec)...
+13:58:47.981 Idle Mode Active!
+13:58:47.981 ------------------------------------
+13:58:53.339 ------------------------------------
+13:58:53.339   ***  CE Loop took 4.9 (sec)...
+13:58:53.339 Idle Mode Active!
+13:58:53.339 ------------------------------------
+13:58:58.698 ------------------------------------
+13:58:58.698   ***  CE Loop took 4.9 (sec)...
+13:58:58.698 Idle Mode Active!
+13:58:58.698 ------------------------------------
+13:59:04.56 ------------------------------------
+13:59:04.56   ***  CE Loop took 4.9 (sec)...
+13:59:04.56 Idle Mode Active!
+13:59:04.56 ------------------------------------
+13:59:09.414 ------------------------------------
+13:59:09.414   ***  CE Loop took 4.9 (sec)...
+13:59:09.414 Idle Mode Active!
+13:59:09.414 ------------------------------------
+13:59:14.772 ------------------------------------
+13:59:14.772   ***  CE Loop took 4.9 (sec)...
+13:59:14.772 Idle Mode Active!
+13:59:14.772 ------------------------------------
+13:59:20.130 ------------------------------------
+13:59:20.130   ***  CE Loop took 4.9 (sec)...
+13:59:20.130 Idle Mode Active!
+13:59:20.130 ------------------------------------
+13:59:24.164 [A2S] received data
+13:59:24.164 [A2S] A2S_INFO
+13:59:24.164 [A2S] received data
+13:59:24.164 [A2S] A2S_PLAYER
+13:59:24.164 [A2S] received data
+13:59:24.164 [A2S] A2S_RULES
+13:59:25.476 ------------------------------------
+13:59:25.476   ***  CE Loop took 4.9 (sec)...
+13:59:25.476 Idle Mode Active!
+13:59:25.476 ------------------------------------
+13:59:30.830 ------------------------------------
+13:59:30.830   ***  CE Loop took 4.9 (sec)...
+13:59:30.830 Idle Mode Active!
+13:59:30.830 ------------------------------------
+13:59:36.188 ------------------------------------
+13:59:36.188   ***  CE Loop took 4.9 (sec)...
+13:59:36.188 Idle Mode Active!
+13:59:36.188 ------------------------------------
+13:59:41.546 ------------------------------------
+13:59:41.546   ***  CE Loop took 4.9 (sec)...
+13:59:41.546 Idle Mode Active!
+13:59:41.546 ------------------------------------
+13:59:46.904 ------------------------------------
+13:59:46.904   ***  CE Loop took 4.9 (sec)...
+13:59:46.904 Idle Mode Active!
+13:59:46.904 ------------------------------------
+13:59:52.262 ------------------------------------
+13:59:52.262   ***  CE Loop took 4.9 (sec)...
+13:59:52.262 Idle Mode Active!
+13:59:52.262 ------------------------------------
+13:59:57.620 ------------------------------------
+13:59:57.620   ***  CE Loop took 4.9 (sec)...
+13:59:57.620 Idle Mode Active!
+13:59:57.620 ------------------------------------
+14:00:02.979 ------------------------------------
+14:00:02.979   ***  CE Loop took 4.9 (sec)...
+14:00:02.979 Idle Mode Active!
+14:00:02.979 ------------------------------------
+14:00:08.337 ------------------------------------
+14:00:08.337   ***  CE Loop took 4.9 (sec)...
+14:00:08.337 Idle Mode Active!
+14:00:08.337 ------------------------------------
+14:00:13.695 ------------------------------------
+14:00:13.695   ***  CE Loop took 4.9 (sec)...
+14:00:13.695 Idle Mode Active!
+14:00:13.695 ------------------------------------
+14:00:19.53 ------------------------------------
+14:00:19.53   ***  CE Loop took 4.9 (sec)...
+14:00:19.53 Idle Mode Active!
