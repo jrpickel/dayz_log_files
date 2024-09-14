@@ -4724,3 +4724,207 @@ Version 1.25.158593
  0:02:28.184 [CE][Links] found 8 total links between groups, of 49
  0:02:28.184 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_black_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
  0:02:28.184   Adding BalaclavaMask_Beige at [6457,2546]
+ 0:02:28.184   Adding Ammo_22 at [6460,2544]
+ 0:02:28.184 [CE][VehicleRespawner] (PRIPoliceSituation) :: Respawning: "StaticPoliceSituation"
+ 0:02:28.793   Adding Apple at [9663,1796]
+ 0:02:29.559 ------------------------------------
+ 0:02:29.559   ***  CE Loop took 26.9 (sec)...
+ 0:02:29.559 players: 1, loot: 22699, infected: 132, animals: 165
+ 0:02:29.559 ------------------------------------
+ 0:02:34.672 Warning: No components in dz\water\ponds\pond_small_04.p3d:geometry
+ 0:02:34.688 <cleanup> Depleted:"Grenade_ChemGas" at [9485,8820] damage=0.00
+ 0:02:34.688 <cleanup> Remove:"Grenade_ChemGas" at [9485,8820] damage=0.00
+ 0:02:34.688   Items deleted: 1, of: 19
+ 0:02:35.344 <cleanup> Depleted:"Grenade_ChemGas" at [7245,7011] damage=0.00
+ 0:02:35.344 <cleanup> Remove:"Grenade_ChemGas" at [7245,7011] damage=0.00
+ 0:02:35.344   Items deleted: 1, of: 1
+ 0:02:36.00 <cleanup> Depleted:"Grenade_ChemGas" at [4534,9636] damage=0.00
+ 0:02:36.00 <cleanup> Remove:"Grenade_ChemGas" at [4534,9636] damage=0.00
+ 0:02:36.00   Items deleted: 1, of: 1
+ 0:02:44.92 Reloading Userlist ban.txt
+ 0:02:58.964 ------------------------------------
+ 0:02:58.964   ***  CE Loop took 26.9 (sec)...
+ 0:02:58.964 players: 1, loot: 22834, infected: 132, animals: 165
+ 0:02:58.964 ------------------------------------
+ 0:02:59.495 [A2S] received data
+ 0:02:59.495 [A2S] A2S_INFO
+ 0:02:59.495 [A2S] received data
+ 0:02:59.495 [A2S] A2S_PLAYER
+ 0:02:59.495 [A2S] received data
+ 0:02:59.495 [A2S] A2S_RULES
+ 0:03:04.103 <cleanup> Depleted:"Apple" at [9668,1786] damage=0.60
+ 0:03:04.103 <cleanup> Depleted:"Apple" at [9692,1796] damage=0.82
+ 0:03:04.103   Items deleted: 0, of: 20
+ 0:03:28.374 ------------------------------------
+ 0:03:28.374   ***  CE Loop took 26.9 (sec)...
+ 0:03:28.374 players: 1, loot: 22831, infected: 132, animals: 165
+ 0:03:28.374 ------------------------------------
+ 0:03:33.518   Items deleted: 0, of: 20
+ 0:03:34.830 <cleanup> Depleted:"Grenade_ChemGas" at [5045,9870] damage=0.00
+ 0:03:34.830 <cleanup> Remove:"Grenade_ChemGas" at [5045,9870] damage=0.00
+ 0:03:34.830   Items deleted: 1, of: 1
+ 0:03:52.217 CHAR_DEBUG - SAVE
+ 0:03:52.217     player iamanoob0420 (dpnid = 1812664603)
+ 0:03:52.217     Identity: playerID = 1 , charID = 1
+ 0:03:52.217     Person  : playerID = 1 , charID = 1
+ 0:03:52.217 Saved 1 players ...
+ 0:03:55.388 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:03:57.794 ------------------------------------
+ 0:03:57.794   ***  CE Loop took 26.9 (sec)...
+ 0:03:57.794 players: 1, loot: 22831, infected: 132, animals: 165
+ 0:03:57.794 ------------------------------------
+ 0:04:02.933 <cleanup> Depleted:"AgaricusMushroom" at [9795,1816] damage=0.60
+ 0:04:02.933   Items deleted: 0, of: 21
+ 0:04:04.245 <cleanup> Depleted:"Grenade_ChemGas" at [5054,9859] damage=0.00
+ 0:04:04.245 <cleanup> Remove:"Grenade_ChemGas" at [5054,9859] damage=0.00
+ 0:04:04.245   Items deleted: 1, of: 1
+ 0:04:14.259 [A2S] received data
+ 0:04:14.259 [A2S] A2S_INFO
+ 0:04:14.259 [A2S] received data
+ 0:04:14.259 [A2S] A2S_PLAYER
+ 0:04:14.259 [A2S] received data
+ 0:04:14.259 [A2S] A2S_RULES
+ 0:04:22.751 [A2S] received data
+ 0:04:22.751 [A2S] A2S_INFO
+ 0:04:22.751 [A2S] received data
+ 0:04:22.751 [A2S] A2S_PLAYER
+ 0:04:22.751 [A2S] received data
+ 0:04:22.751 [A2S] A2S_RULES
+ 0:04:27.203 ------------------------------------
+ 0:04:27.203   ***  CE Loop took 26.9 (sec)...
+ 0:04:27.203 players: 1, loot: 22830, infected: 132, animals: 165
+ 0:04:27.203 ------------------------------------
+ 0:04:32.347 <cleanup> Depleted:"PleurotusMushroom" at [9785,1817] damage=0.90
+ 0:04:32.347   Items deleted: 0, of: 22
+ 0:04:56.623 ------------------------------------
+ 0:04:56.623   ***  CE Loop took 26.9 (sec)...
+ 0:04:56.623 players: 1, loot: 22829, infected: 132, animals: 165
+ 0:04:56.623 ------------------------------------
+ 0:05:01.757 <cleanup> Depleted:"PleurotusMushroom" at [9791,1815] damage=0.90
+ 0:05:01.757 <cleanup> Depleted:"AgaricusMushroom" at [9785,1859] damage=0.60
+ 0:05:01.757   Items deleted: 0, of: 24
+ 0:05:03.69 <cleanup> Depleted:"Grenade_ChemGas" at [4528,9624] damage=0.00
+ 0:05:03.69 <cleanup> Remove:"Grenade_ChemGas" at [4528,9624] damage=0.00
+ 0:05:03.69   Items deleted: 1, of: 1
+ 0:05:03.397 <cleanup> Depleted:"MilitaryBeret_ChDKZ" at [3426,3297] damage=0.72 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"MilitaryBeret_ChDKZ" at [3426,3297] damage=0.72 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Depleted:"GorkaEJacket_PautRev" at [3427,3292] damage=0.82 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"GorkaEJacket_PautRev" at [3427,3292] damage=0.82 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Depleted:"BallisticHelmet_Woodland" at [3431,3298] damage=0.82 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"BallisticHelmet_Woodland" at [3431,3298] damage=0.82 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Depleted:"WeaponCleaningKit" at [3434,3294] damage=0.08 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"WeaponCleaningKit" at [3434,3294] damage=0.08 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Depleted:"GhillieSuit_Mossy" at [3431,3292] damage=0.21 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"GhillieSuit_Mossy" at [3431,3292] damage=0.21 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Depleted:"AK74_Hndgrd" at [3432,3295] damage=0.71 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"AK74_Hndgrd" at [3432,3295] damage=0.71 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Depleted:"AmmoBox" at [3428,3298] damage=0.69 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"AmmoBox" at [3428,3298] damage=0.69 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Depleted:"Mag_VSS_10Rnd" at [3431,3296] damage=0.09 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"Mag_VSS_10Rnd" at [3431,3296] damage=0.09 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Depleted:"USMCPants_Desert" at [3431,3296] damage=0.82 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"USMCPants_Desert" at [3431,3296] damage=0.82 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Depleted:"Mag_FNX45_15Rnd" at [3424,3297] damage=0.50 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"Mag_FNX45_15Rnd" at [3424,3297] damage=0.50 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Depleted:"WoolGlovesFingerless_Green" at [3430,3297] damage=0.75 DE="StaticHeliCrash" id=61
+ 0:05:03.397 <cleanup> Remove:"WoolGlovesFingerless_Green" at [3430,3297] damage=0.75 DE="StaticHeliCrash" id=61
+ 0:05:03.397   Items deleted: 11, of: 11
+ 0:05:04.53 <cleanup> Depleted:"Wreck_UH1Y" at [1631,15057] damage=0.00 DE="StaticHeliCrash" id=62
+ 0:05:04.53 <cleanup> Remove:"Wreck_UH1Y" at [1631,15057] damage=0.00 DE="StaticHeliCrash" id=62
+ 0:05:04.53 Removing assigned zone of spawner SECArmy
+ 0:05:04.53 <cleanup> Depleted:"ZmbM_PatrolNormal_Autumn" at [1631,15056] damage=0.00 DE="StaticHeliCrash"
+ 0:05:04.53 <cleanup> Remove:"ZmbM_PatrolNormal_Autumn" at [1631,15056] damage=0.00 DE="StaticHeliCrash"
+ 0:05:04.53 <cleanup> Depleted:"ZmbM_PatrolNormal_Autumn" at [1640,15066] damage=0.00 DE="StaticHeliCrash"
+ 0:05:04.53 <cleanup> Remove:"ZmbM_PatrolNormal_Autumn" at [1640,15066] damage=0.00 DE="StaticHeliCrash"
+ 0:05:04.53 <cleanup> Depleted:"Wreck_UH1Y" at [4988,8938] damage=0.00 DE="StaticHeliCrash" id=63
+ 0:05:04.53 <cleanup> Remove:"Wreck_UH1Y" at [4988,8938] damage=0.00 DE="StaticHeliCrash" id=63
+ 0:05:04.53 Removing assigned zone of spawner SECArmy
+ 0:05:04.53 <cleanup> Depleted:"Wreck_UH1Y" at [3429,3294] damage=0.00 DE="StaticHeliCrash" id=61
+ 0:05:04.53 <cleanup> Remove:"Wreck_UH1Y" at [3429,3294] damage=0.00 DE="StaticHeliCrash" id=61
+ 0:05:04.53 Removing assigned zone of spawner SECArmy
+ 0:05:04.53 <cleanup> Depleted:"ZmbM_PatrolNormal_Flat" at [3423,3296] damage=0.00 DE="StaticHeliCrash"
+ 0:05:04.53 <cleanup> Remove:"ZmbM_PatrolNormal_Flat" at [3423,3296] damage=0.00 DE="StaticHeliCrash"
+ 0:05:04.53 <cleanup> Depleted:"ZmbM_SoldierNormal" at [5001,8951] damage=0.00 DE="StaticHeliCrash"
+ 0:05:04.53 <cleanup> Remove:"ZmbM_SoldierNormal" at [5001,8951] damage=0.00 DE="StaticHeliCrash"
+ 0:05:04.53   Items deleted: 7, of: 7
+ 0:05:04.53   Items batched for deletion: 0, of: 21770
+ 0:05:04.53   Items batched for deletion: 14, of: 21770
+ 0:05:04.69   Items batched for deletion: 12, of: 21770
+ 0:05:23.612 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 0:05:26.17 ------------------------------------
+ 0:05:26.17   ***  CE Loop took 26.9 (sec)...
+ 0:05:26.17 players: 1, loot: 22829, infected: 132, animals: 165
+ 0:05:26.17 ------------------------------------
+ 0:05:27.814 [A2S] received data
+ 0:05:27.814 [A2S] A2S_INFO
+ 0:05:27.814 [A2S] received data
+ 0:05:27.814 [A2S] A2S_PLAYER
+ 0:05:27.814 [A2S] received data
+ 0:05:27.814 [A2S] A2S_RULES
+ 0:05:31.158   Items deleted: 0, of: 24
+ 0:05:32.470 <cleanup> Remove:"Ammo_40mm_Smoke_Green" at [4985,8939] damage=0.70 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"OKZKCap_Green" at [4994,8936] damage=0.68 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"Mag_CMAG_30Rnd" at [4985,8938] damage=0.61 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"OKZKCap_Beige" at [4992,8936] damage=0.79 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"Compass" at [4990,8940] damage=0.43 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"USMCPants_Woodland" at [4986,8940] damage=0.43 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"Ammo_FlareRed" at [4990,8935] damage=0.30 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"NBCHoodGray" at [4988,8940] damage=0.07 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"GhillieAtt_Mossy" at [4994,8939] damage=0.64 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"AKS74U_Bttstck" at [4987,8938] damage=0.41 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"USMCPants_Desert" at [4992,8940] damage=0.14 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"Sweater_Green" at [4985,8933] damage=0.82 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"GhillieBushrag_Mossy" at [4991,8935] damage=0.12 DE="StaticHeliCrash" id=63
+ 0:05:32.470 <cleanup> Remove:"AK_RailHndgrd" at [4988,8935] damage=0.82 DE="StaticHeliCrash" id=63
+ 0:05:32.470   Items deleted: 14, of: 14
+ 0:05:33.126 <cleanup> Remove:"WoolGloves_Green" at [1631,15053] damage=0.19 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"TTSKOBoots" at [1630,15052] damage=0.20 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"GhillieTop_Mossy" at [1627,15057] damage=0.67 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"CombatKnife" at [1632,15055] damage=0.59 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"M65Jacket_Khaki" at [1626,15056] damage=0.82 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"BUISOptic" at [1634,15060] damage=0.11 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"ACOGOptic_6x" at [1632,15057] damage=0.25 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"AmmoBox_556x45_20Rnd" at [1630,15060] damage=0.62 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"GhillieHood_Mossy" at [1630,15059] damage=0.25 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"MP5k_StockBttstck" at [1628,15051] damage=0.52 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"Ammo_FlareBlue" at [1629,15059] damage=0.30 DE="StaticHeliCrash" id=62
+ 0:05:33.126 <cleanup> Remove:"CoyoteBag_Green" at [1634,15058] damage=0.19 DE="StaticHeliCrash" id=62
+ 0:05:33.126   Items deleted: 12, of: 12
+ 0:05:33.454 <cleanup> Depleted:"ZmbM_PatrolNormal_PautRev" at [4984,8939] damage=0.00 DE="StaticHeliCrash"
+ 0:05:33.454 <cleanup> Remove:"ZmbM_PatrolNormal_PautRev" at [4984,8939] damage=0.00 DE="StaticHeliCrash"
+ 0:05:33.454   Items deleted: 1, of: 1
+ 0:05:55.433 ------------------------------------
+ 0:05:55.433   ***  CE Loop took 26.9 (sec)...
+ 0:05:55.433 players: 1, loot: 22800, infected: 128, animals: 165
+ 0:05:55.433 ------------------------------------
+ 0:06:00.573   Items deleted: 0, of: 24
+ 0:06:19.271 CHAR_DEBUG - SAVE
+ 0:06:19.271     player iamanoob0420 (dpnid = 1812664603)
+ 0:06:19.271     Identity: playerID = 1 , charID = 1
+ 0:06:19.271     Person  : playerID = 1 , charID = 1
+ 0:06:19.271 Saved 1 players ...
+ 0:06:24.845 ------------------------------------
+ 0:06:24.845   ***  CE Loop took 26.9 (sec)...
+ 0:06:24.845 players: 1, loot: 22770, infected: 127, animals: 165
+ 0:06:24.845 ------------------------------------
+ 0:06:25.876 [Disconnect]: Client 1812664603 early disconnect
+ 0:06:26.392 [Disconnect]: Start script disconnect 1812664603 (dbCharacterId 1 dbPlayerId 1) logoutTime 0
+ 0:06:26.923 [Disconnect]: Remove player info 1812664603
+ 0:06:26.923 CHAR_DEBUG - SAVE
+ 0:06:26.923     player iamanoob0420 (dpnid = 1812664603)
+ 0:06:26.923     Identity: playerID = 1 , charID = 1
+ 0:06:26.923     Person  : playerID = 1 , charID = 1
+ 0:06:26.923 CHAR_DEBUG - EXIT
+ 0:06:26.923     player F38F8C9D48FB9ACD520C60A3918C5D780C7F35A9 (dpnid = 1812664603)
+ 0:06:26.923     Person  : playerID = 1 , charID = 1
+ 0:06:26.923 [Disconnect]: Finish script disconnect 1812664603 (F38F8C9D48FB9ACD520C60A3918C5D780C7F35A9)
+ 0:06:26.923 NetServer::LogoutFinished: player=1812664603 - !users.get
+ 0:06:26.923 [Disconnect]: DisconnectPlayerFinish 1812664603
+ 0:06:26.923 NetServer::SendMsg: cannot find channel #1812664603, users.card=0
+ 0:06:26.923 NetServer: users.get failed when sending to 1812664603
+ 0:06:26.923 Message not sent - error 0, message ID = ffffffff, to 1812664603 (iamanoob0420)
+ 0:06:27.438 [Disconnect]: Player destroy 1812664603 
+ 0:06:28.126 [A2S] destroying...
+ 0:06:28.126 [A2S] receive problem
+ 0:06:28.126 [A2S] run finished
+ 0:06:34.172  --- Termination successfully completed --- 
