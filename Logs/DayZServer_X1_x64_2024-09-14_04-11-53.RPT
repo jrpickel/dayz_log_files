@@ -16912,3 +16912,256 @@ Version 1.25.158593
  8:11:11.611   Items deleted: 19, of: 19
  8:11:13.17   Adding Grenade_ChemGas at [10423,8918]
  8:11:13.17   Adding Grenade_ChemGas at [10422,8911]
+ 8:11:13.17   Adding Grenade_ChemGas at [10421,8909]
+ 8:11:13.17 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 8:11:33.588 ------------------------------------
+ 8:11:33.588   ***  CE Loop took 26.9 (sec)...
+ 8:11:33.588 players: 1, loot: 22799, infected: 119, animals: 153
+ 8:11:33.588 ------------------------------------
+ 8:11:37.743 <cleanup> Depleted:"Pear" at [12991,8202] damage=0.56
+ 8:11:37.743 <cleanup> Remove:"Pear" at [12991,8202] damage=0.56
+ 8:11:37.743 <cleanup> Depleted:"Plum" at [12971,8267] damage=0.60
+ 8:11:37.743 <cleanup> Remove:"Plum" at [12971,8267] damage=0.60
+ 8:11:37.743 <cleanup> Depleted:"Pear" at [12996,8261] damage=0.90
+ 8:11:37.743 <cleanup> Remove:"Pear" at [12996,8261] damage=0.90
+ 8:11:37.743 <cleanup> Depleted:"Pear" at [12982,8310] damage=0.60
+ 8:11:37.743 <cleanup> Remove:"Pear" at [12982,8310] damage=0.60
+ 8:11:37.743   Items deleted: 4, of: 4
+ 8:11:38.399 <cleanup> Depleted:"Mp133Shotgun" at [10465,2286] damage=0.32
+ 8:11:38.399 <cleanup> Remove:"Mp133Shotgun" at [10465,2286] damage=0.32
+ 8:11:38.399   Items deleted: 1, of: 1
+ 8:11:40.695 <cleanup> Depleted:"TShirt_Grey" at [1625,11998] damage=0.12
+ 8:11:40.695 <cleanup> Remove:"TShirt_Grey" at [1625,11998] damage=0.12
+ 8:11:40.695   Items deleted: 1, of: 1
+ 8:11:41.23 <cleanup> Depleted:"ZmbM_usSoldier_Officer_Desert" at [1530,13624] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Remove:"ZmbM_usSoldier_Officer_Desert" at [1530,13624] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Depleted:"ZmbM_PatrolNormal_Autumn" at [1497,13624] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Remove:"ZmbM_PatrolNormal_Autumn" at [1497,13624] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Depleted:"ZmbM_SoldierNormal" at [1496,13640] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Remove:"ZmbM_SoldierNormal" at [1496,13640] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Depleted:"ZmbM_PatrolNormal_Summer" at [1516,13623] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Remove:"ZmbM_PatrolNormal_Summer" at [1516,13623] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Depleted:"ZmbM_PatrolNormal_Flat" at [1479,13645] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Remove:"ZmbM_PatrolNormal_Flat" at [1479,13645] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Depleted:"ZmbM_PatrolNormal_PautRev" at [1515,13635] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Remove:"ZmbM_PatrolNormal_PautRev" at [1515,13635] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Depleted:"ZmbM_PatrolNormal_Autumn" at [1481,13588] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Remove:"ZmbM_PatrolNormal_Autumn" at [1481,13588] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Depleted:"ZmbM_PatrolNormal_PautRev" at [1504,13639] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Remove:"ZmbM_PatrolNormal_PautRev" at [1504,13639] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Depleted:"ZmbM_usSoldier_Heavy_Woodland" at [1512,13659] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23 <cleanup> Remove:"ZmbM_usSoldier_Heavy_Woodland" at [1512,13659] damage=1.00 DE="InfectedArmyHard"
+ 8:11:41.23   Items deleted: 9, of: 9
+ 8:11:49.115 !!! Failed to write [Storage] data to file "C:\SERVICES\ni10301496_1_local\dayzxb\mpmissions\dayzOffline.chernarusplus\storage_15737152\data\dynamic_005.002" - failed to open the file.
+ 8:11:53.36 Reloading Userlist ban.txt
+ 8:11:57.645 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] TShirt_Beige missing:2 [cnt:1, nom:3, min:1]
+ 8:11:57.645   Adding TShirt_Beige at [12108,9124]
+ 8:11:57.645   Adding TShirt_Beige at [12933,6753]
+ 8:11:57.645   [CE][LootRespawner] (PRIDummy) :: TShirt_Beige respawned:2, tests:2 missing:0
+ 8:11:57.816   Adding Grenade_ChemGas at [1153,7234]
+ 8:11:57.816   Adding Grenade_ChemGas at [1162,7234]
+ 8:11:57.816   Adding Grenade_ChemGas at [1163,7241]
+ 8:11:57.816 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 8:12:03.03 ------------------------------------
+ 8:12:03.03   ***  CE Loop took 26.9 (sec)...
+ 8:12:03.03 players: 1, loot: 22792, infected: 100, animals: 153
+ 8:12:03.03 ------------------------------------
+ 8:12:07.158 <cleanup> Depleted:"Pear" at [12946,8119] damage=0.28
+ 8:12:07.158 <cleanup> Remove:"Pear" at [12946,8119] damage=0.28
+ 8:12:07.158 <cleanup> Depleted:"Pear" at [12973,8263] damage=0.90
+ 8:12:07.158 <cleanup> Remove:"Pear" at [12973,8263] damage=0.90
+ 8:12:07.158 <cleanup> Depleted:"Pear" at [13026,7672] damage=0.90
+ 8:12:07.158 <cleanup> Remove:"Pear" at [13026,7672] damage=0.90
+ 8:12:07.158   Items deleted: 3, of: 3
+ 8:12:08.798 <cleanup> Depleted:"Glock19" at [7167,7673] damage=0.34
+ 8:12:08.798 <cleanup> Remove:"Glock19" at [7167,7673] damage=0.34
+ 8:12:08.798   Items deleted: 1, of: 1
+ 8:12:26.837 CHAR_DEBUG - SAVE
+ 8:12:26.837     player CoS TheD (dpnid = 1159425056)
+ 8:12:26.837     Identity: playerID = 3 , charID = 3
+ 8:12:26.837     Person  : playerID = 3 , charID = 3
+ 8:12:26.837 Saved 1 players ...
+ 8:12:27.55 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] TShirt_Grey missing:2 [cnt:1, nom:3, min:1]
+ 8:12:27.55   Adding TShirt_Grey at [11281,6559]
+ 8:12:27.55   Adding TShirt_Grey at [10640,2321]
+ 8:12:27.55   [CE][LootRespawner] (PRIDummy) :: TShirt_Grey respawned:2, tests:2 missing:0
+ 8:12:30.09 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 8:12:32.415 ------------------------------------
+ 8:12:32.415   ***  CE Loop took 26.9 (sec)...
+ 8:12:32.415 players: 1, loot: 22783, infected: 100, animals: 153
+ 8:12:32.415 ------------------------------------
+ 8:12:36.570 <cleanup> Depleted:"Plum" at [12999,8196] damage=0.60
+ 8:12:36.570 <cleanup> Remove:"Plum" at [12999,8196] damage=0.60
+ 8:12:36.570 <cleanup> Depleted:"Plum" at [12974,8307] damage=0.90
+ 8:12:36.570 <cleanup> Remove:"Plum" at [12974,8307] damage=0.90
+ 8:12:36.570 <cleanup> Depleted:"Plum" at [12998,8195] damage=0.82
+ 8:12:36.570 <cleanup> Remove:"Plum" at [12998,8195] damage=0.82
+ 8:12:36.570 <cleanup> Depleted:"Pear" at [12993,8264] damage=0.60
+ 8:12:36.570 <cleanup> Remove:"Pear" at [12993,8264] damage=0.60
+ 8:12:36.570 <cleanup> Depleted:"Pear" at [12972,8265] damage=0.11
+ 8:12:36.570 <cleanup> Remove:"Pear" at [12972,8265] damage=0.11
+ 8:12:36.570   Items deleted: 5, of: 5
+ 8:12:36.898 <cleanup> Depleted:"Mag_CZ61_20Rnd" at [12050,3603] damage=0.82
+ 8:12:36.898 <cleanup> Remove:"Mag_CZ61_20Rnd" at [12050,3603] damage=0.82
+ 8:12:36.898   Items deleted: 1, of: 1
+ 8:12:37.226 <cleanup> Depleted:"Glock19" at [11065,12497] damage=0.03
+ 8:12:37.226 <cleanup> Remove:"Glock19" at [11065,12497] damage=0.03
+ 8:12:37.226   Items deleted: 1, of: 1
+ 8:12:37.554 <cleanup> Depleted:"PolicePants" at [9536,8801] damage=0.31
+ 8:12:37.554 <cleanup> Remove:"PolicePants" at [9536,8801] damage=0.31
+ 8:12:37.554   Items deleted: 1, of: 1
+ 8:12:38.539 <cleanup> Depleted:"CanvasPantsMidi_Grey" at [5368,8554] damage=0.63
+ 8:12:38.539 <cleanup> Remove:"CanvasPantsMidi_Grey" at [5368,8554] damage=0.63
+ 8:12:38.539   Items deleted: 1, of: 1
+ 8:12:39.851 <cleanup> Ruined Lifetime:"ZmbM_PatrolNormal_Autumn" at [1149,7252] damage=1.00 DE="InfectedArmyHard"
+ 8:12:39.851 <cleanup> Ruined Lifetime:"ZmbM_PatrolNormal_Autumn" at [1165,7254] damage=1.00 DE="InfectedArmyHard"
+ 8:12:39.851 <cleanup> Ruined Lifetime:"ZmbM_usSoldier_normal_Woodland" at [1196,7235] damage=1.00 DE="InfectedArmyHard"
+ 8:12:39.851 <cleanup> Ruined Lifetime:"ZmbM_SoldierNormal" at [1123,7250] damage=1.00 DE="InfectedArmyHard"
+ 8:12:39.851 <cleanup> Ruined Lifetime:"ZmbM_PatrolNormal_PautRev" at [1148,7234] damage=1.00 DE="InfectedArmyHard"
+ 8:12:39.851 <cleanup> Ruined Lifetime:"ZmbM_SoldierNormal" at [1159,7236] damage=1.00 DE="InfectedArmyHard"
+ 8:12:39.851 <cleanup> Ruined Lifetime:"ZmbM_SoldierNormal" at [1156,7234] damage=1.00 DE="InfectedArmyHard"
+ 8:13:01.830 ------------------------------------
+ 8:13:01.830   ***  CE Loop took 26.9 (sec)...
+ 8:13:01.830 players: 1, loot: 22789, infected: 100, animals: 153
+ 8:13:01.830 ------------------------------------
+ 8:13:05.985 <cleanup> Depleted:"SmallStone" at [13017,7676] damage=0.00
+ 8:13:05.985 <cleanup> Remove:"SmallStone" at [13017,7676] damage=0.00
+ 8:13:05.985 <cleanup> Depleted:"PolicePants" at [13839,13216] damage=0.20
+ 8:13:05.985 <cleanup> Remove:"PolicePants" at [13839,13216] damage=0.20
+ 8:13:05.985 <cleanup> Depleted:"Pear" at [13025,7669] damage=0.26
+ 8:13:05.985 <cleanup> Remove:"Pear" at [13025,7669] damage=0.26
+ 8:13:05.985 <cleanup> Depleted:"Apple" at [12936,7986] damage=0.82
+ 8:13:05.985 <cleanup> Remove:"Apple" at [12936,7986] damage=0.82
+ 8:13:05.985 <cleanup> Depleted:"LactariusMushroom" at [13030,7393] damage=0.60
+ 8:13:05.985 <cleanup> Remove:"LactariusMushroom" at [13030,7393] damage=0.60
+ 8:13:05.985   Items deleted: 5, of: 5
+ 8:13:08.610 <cleanup> Depleted:"TShirt_Beige" at [3087,7862] damage=0.38
+ 8:13:08.610 <cleanup> Remove:"TShirt_Beige" at [3087,7862] damage=0.38
+ 8:13:08.610   Items deleted: 1, of: 1
+ 8:13:18.14 [A2S] received data
+ 8:13:18.14 [A2S] A2S_INFO
+ 8:13:18.14 [A2S] received data
+ 8:13:18.14 [A2S] A2S_PLAYER
+ 8:13:18.14 [A2S] received data
+ 8:13:18.14 [A2S] A2S_RULES
+ 8:13:31.242 ------------------------------------
+ 8:13:31.242   ***  CE Loop took 26.9 (sec)...
+ 8:13:31.242 players: 1, loot: 22778, infected: 100, animals: 153
+ 8:13:31.242 ------------------------------------
+ 8:13:35.397 <cleanup> Depleted:"Apple" at [12900,8133] damage=0.90
+ 8:13:35.397 <cleanup> Remove:"Apple" at [12900,8133] damage=0.90
+ 8:13:35.397 <cleanup> Depleted:"Apple" at [12885,8126] damage=0.60
+ 8:13:35.397 <cleanup> Remove:"Apple" at [12885,8126] damage=0.60
+ 8:13:35.397   Items deleted: 2, of: 2
+ 8:13:35.725 <cleanup> Depleted:"TShirt_Grey" at [12124,7218] damage=0.72
+ 8:13:35.725 <cleanup> Remove:"TShirt_Grey" at [12124,7218] damage=0.72
+ 8:13:35.725   Items deleted: 1, of: 1
+ 8:13:35.803 [A2S] received data
+ 8:13:35.803 [A2S] A2S_INFO
+ 8:13:35.803 [A2S] received data
+ 8:13:35.803 [A2S] A2S_PLAYER
+ 8:13:35.803 [A2S] received data
+ 8:13:35.803 [A2S] A2S_RULES
+ 8:13:38.21 <cleanup> Depleted:"PoliceVest" at [3568,2426] damage=0.82
+ 8:13:38.21 <cleanup> Remove:"PoliceVest" at [3568,2426] damage=0.82
+ 8:13:38.21   Items deleted: 1, of: 1
+ 8:13:58.251 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 8:14:00.657 ------------------------------------
+ 8:14:00.657   ***  CE Loop took 26.9 (sec)...
+ 8:14:00.657 players: 1, loot: 22771, infected: 100, animals: 153
+ 8:14:00.657 ------------------------------------
+ 8:14:04.812 <cleanup> Depleted:"Pear" at [12982,8307] damage=0.90
+ 8:14:04.812 <cleanup> Remove:"Pear" at [12982,8307] damage=0.90
+ 8:14:04.812   Items deleted: 1, of: 1
+ 8:14:05.468 <cleanup> Depleted:"PoliceCap" at [10459,2290] damage=0.48
+ 8:14:05.468 <cleanup> Remove:"PoliceCap" at [10459,2290] damage=0.48
+ 8:14:05.468   Items deleted: 1, of: 1
+ 8:14:27.403 [A2S] received data
+ 8:14:27.403 [A2S] A2S_INFO
+ 8:14:27.403 [A2S] received data
+ 8:14:27.403 [A2S] A2S_PLAYER
+ 8:14:27.403 [A2S] received data
+ 8:14:27.403 [A2S] A2S_RULES
+ 8:14:30.72 ------------------------------------
+ 8:14:30.72   ***  CE Loop took 26.9 (sec)...
+ 8:14:30.72 players: 1, loot: 22767, infected: 100, animals: 153
+ 8:14:30.72 ------------------------------------
+ 8:14:36.196 <cleanup> Depleted:"CanvasPantsMidi_Violet" at [5915,13510] damage=0.24
+ 8:14:36.196 <cleanup> Remove:"CanvasPantsMidi_Violet" at [5915,13510] damage=0.24
+ 8:14:36.196   Items deleted: 1, of: 1
+ 8:14:37.508 <cleanup> Depleted:"GPSReceiver" at [587,11133] damage=0.43
+ 8:14:37.508 <cleanup> Remove:"GPSReceiver" at [587,11133] damage=0.43
+ 8:14:37.508   Items deleted: 1, of: 1
+ 8:14:53.911 CHAR_DEBUG - SAVE
+ 8:14:53.911     player CoS TheD (dpnid = 1159425056)
+ 8:14:53.911     Identity: playerID = 3 , charID = 3
+ 8:14:53.911     Person  : playerID = 3 , charID = 3
+ 8:14:53.911 Saved 1 players ...
+ 8:14:59.488 ------------------------------------
+ 8:14:59.488   ***  CE Loop took 26.9 (sec)...
+ 8:14:59.488 players: 1, loot: 22765, infected: 100, animals: 153
+ 8:14:59.488 ------------------------------------
+ 8:15:23.557 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] CanvasPantsMidi_Violet missing:2 [cnt:1, nom:3, min:1]
+ 8:15:23.557   Adding CanvasPantsMidi_Violet at [13845,13141]
+ 8:15:23.557   Adding CanvasPantsMidi_Violet at [6736,14392]
+ 8:15:23.557   [CE][LootRespawner] (PRIDummy) :: CanvasPantsMidi_Violet respawned:2, tests:2 missing:0
+ 8:15:26.509 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 8:15:28.915 ------------------------------------
+ 8:15:28.915   ***  CE Loop took 26.9 (sec)...
+ 8:15:28.915 players: 1, loot: 22762, infected: 100, animals: 153
+ 8:15:28.915 ------------------------------------
+ 8:15:33.60 <cleanup> Depleted:"Pear" at [12959,7718] damage=0.38
+ 8:15:33.60 <cleanup> Remove:"Pear" at [12959,7718] damage=0.38
+ 8:15:33.60 <cleanup> Depleted:"LactariusMushroom" at [13025,7402] damage=0.60
+ 8:15:33.60 <cleanup> Remove:"LactariusMushroom" at [13025,7402] damage=0.60
+ 8:15:33.60 <cleanup> Depleted:"SaltySticks" at [13563,14069] damage=0.67
+ 8:15:33.60 <cleanup> Remove:"SaltySticks" at [13563,14069] damage=0.67
+ 8:15:33.60 <cleanup> Depleted:"Apple" at [13014,7436] damage=0.60
+ 8:15:33.60 <cleanup> Remove:"Apple" at [13014,7436] damage=0.60
+ 8:15:33.60 <cleanup> Depleted:"Pear" at [12956,7717] damage=0.90
+ 8:15:33.60 <cleanup> Remove:"Pear" at [12956,7717] damage=0.90
+ 8:15:33.60   Items deleted: 5, of: 5
+ 8:15:35.28 <cleanup> Depleted:"SaltySticks" at [6128,3029] damage=0.13
+ 8:15:35.28 <cleanup> Remove:"SaltySticks" at [6128,3029] damage=0.13
+ 8:15:35.28   Items deleted: 1, of: 1
+ 8:15:41.105 [A2S] received data
+ 8:15:41.105 [A2S] A2S_INFO
+ 8:15:41.105 [A2S] received data
+ 8:15:41.105 [A2S] A2S_PLAYER
+ 8:15:41.105 [A2S] received data
+ 8:15:41.105 [A2S] A2S_RULES
+ 8:15:58.319 ------------------------------------
+ 8:15:58.319   ***  CE Loop took 26.9 (sec)...
+ 8:15:58.319 players: 1, loot: 22764, infected: 100, animals: 153
+ 8:15:58.319 ------------------------------------
+ 8:16:02.474 <cleanup> Depleted:"Apple" at [13017,7428] damage=0.60
+ 8:16:02.474 <cleanup> Remove:"Apple" at [13017,7428] damage=0.60
+ 8:16:02.474   Items deleted: 1, of: 1
+ 8:16:02.802 <cleanup> Depleted:"TShirt_Blue" at [12100,6304] damage=0.82
+ 8:16:02.802 <cleanup> Remove:"TShirt_Blue" at [12100,6304] damage=0.82
+ 8:16:02.802   Items deleted: 1, of: 1
+ 8:16:03.130 <cleanup> Depleted:"PoliceVest" at [10459,2269] damage=0.28
+ 8:16:03.130 <cleanup> Remove:"PoliceVest" at [10459,2269] damage=0.28
+ 8:16:03.130   Items deleted: 1, of: 1
+ 8:16:03.459 <cleanup> Depleted:"TShirt_Red" at [9674,10407] damage=0.10
+ 8:16:03.459 <cleanup> Remove:"TShirt_Red" at [9674,10407] damage=0.10
+ 8:16:03.459   Items deleted: 1, of: 1
+ 8:16:05.755 <cleanup> Depleted:"ZmbM_usSoldier_normal_Woodland" at [2197,3303] damage=1.00 DE="InfectedArmy"
+ 8:16:05.755 <cleanup> Remove:"ZmbM_usSoldier_normal_Woodland" at [2197,3303] damage=1.00 DE="InfectedArmy"
+ 8:16:05.755 <cleanup> Depleted:"ZmbM_usSoldier_normal_Desert" at [2181,3341] damage=1.00 DE="InfectedArmy"
+ 8:16:05.755 <cleanup> Remove:"ZmbM_usSoldier_normal_Desert" at [2181,3341] damage=1.00 DE="InfectedArmy"
+ 8:16:05.755   Items deleted: 2, of: 2
+ 8:16:27.734 ------------------------------------
+ 8:16:27.734   ***  CE Loop took 26.9 (sec)...
+ 8:16:27.734 players: 1, loot: 22758, infected: 100, animals: 153
+ 8:16:27.734 ------------------------------------
+ 8:16:31.890 <cleanup> Depleted:"Mag_CZ61_20Rnd" at [13840,13215] damage=0.12
+ 8:16:31.890 <cleanup> Remove:"Mag_CZ61_20Rnd" at [13840,13215] damage=0.12
+ 8:16:31.890   Items deleted: 1, of: 1
+ 8:16:32.874 <cleanup> Depleted:"CanvasPantsMidi_Beige" at [9126,3913] damage=0.23
+ 8:16:32.874 <cleanup> Remove:"CanvasPantsMidi_Beige" at [9126,3913] damage=0.23
+ 8:16:32.874   Items deleted: 1, of: 1
+ 8:16:35.327 [A2S] received data
+ 8:16:35.327 [A2S] A2S_INFO
+ 8:16:35.327 [A2S] received data
+ 8:16:35.327 [A2S] A2S_PLAYER
