@@ -43053,3 +43053,1926 @@ Version 1.25.158593
  3:55:26.420 Idle Mode Active!
  3:55:26.420 ------------------------------------
  3:55:31.779 ------------------------------------
+ 3:55:31.779   ***  CE Loop took 4.9 (sec)...
+ 3:55:31.779 Idle Mode Active!
+ 3:55:31.779 ------------------------------------
+ 3:55:32.326 [A2S] received data
+ 3:55:32.326 [A2S] A2S_INFO
+ 3:55:32.326 [A2S] received data
+ 3:55:32.326 [A2S] A2S_PLAYER
+ 3:55:32.326 [A2S] received data
+ 3:55:32.326 [A2S] A2S_RULES
+ 3:55:37.138 ------------------------------------
+ 3:55:37.138   ***  CE Loop took 4.9 (sec)...
+ 3:55:37.138 Idle Mode Active!
+ 3:55:37.138 ------------------------------------
+ 3:55:37.544 Reloading Userlist ban.txt
+ 3:55:41.246 [A2S] received data
+ 3:55:41.246 [A2S] A2S_INFO
+ 3:55:41.246 [A2S] received data
+ 3:55:41.246 [A2S] A2S_PLAYER
+ 3:55:41.246 [A2S] received data
+ 3:55:41.246 [A2S] A2S_RULES
+ 3:55:42.496 ------------------------------------
+ 3:55:42.496   ***  CE Loop took 4.9 (sec)...
+ 3:55:42.496 Idle Mode Active!
+ 3:55:42.496 ------------------------------------
+ 3:55:47.854 ------------------------------------
+ 3:55:47.854   ***  CE Loop took 4.9 (sec)...
+ 3:55:47.854 Idle Mode Active!
+ 3:55:47.854 ------------------------------------
+ 3:55:53.212 ------------------------------------
+ 3:55:53.212   ***  CE Loop took 4.9 (sec)...
+ 3:55:53.212 Idle Mode Active!
+ 3:55:53.212 ------------------------------------
+ 3:55:58.570 ------------------------------------
+ 3:55:58.570   ***  CE Loop took 4.9 (sec)...
+ 3:55:58.570 Idle Mode Active!
+ 3:55:58.570 ------------------------------------
+ 3:56:03.928 ------------------------------------
+ 3:56:03.928   ***  CE Loop took 4.9 (sec)...
+ 3:56:03.928 Idle Mode Active!
+ 3:56:03.928 ------------------------------------
+ 3:56:09.286 ------------------------------------
+ 3:56:09.286   ***  CE Loop took 4.9 (sec)...
+ 3:56:09.286 Idle Mode Active!
+ 3:56:09.286 ------------------------------------
+ 3:56:14.644 ------------------------------------
+ 3:56:14.644   ***  CE Loop took 4.9 (sec)...
+ 3:56:14.644 Idle Mode Active!
+ 3:56:14.644 ------------------------------------
+ 3:56:20.03 ------------------------------------
+ 3:56:20.03   ***  CE Loop took 4.9 (sec)...
+ 3:56:20.03 Idle Mode Active!
+ 3:56:20.03 ------------------------------------
+ 3:56:25.350 ------------------------------------
+ 3:56:25.350   ***  CE Loop took 4.9 (sec)...
+ 3:56:25.350 Idle Mode Active!
+ 3:56:25.350 ------------------------------------
+ 3:56:30.709 ------------------------------------
+ 3:56:30.709   ***  CE Loop took 4.9 (sec)...
+ 3:56:30.709 Idle Mode Active!
+ 3:56:30.709 ------------------------------------
+ 3:56:36.68 ------------------------------------
+ 3:56:36.68   ***  CE Loop took 4.9 (sec)...
+ 3:56:36.68 Idle Mode Active!
+ 3:56:36.68 ------------------------------------
+ 3:56:41.426 ------------------------------------
+ 3:56:41.426   ***  CE Loop took 4.9 (sec)...
+ 3:56:41.426 Idle Mode Active!
+ 3:56:41.426 ------------------------------------
+ 3:56:46.784 ------------------------------------
+ 3:56:46.784   ***  CE Loop took 4.9 (sec)...
+ 3:56:46.784 Idle Mode Active!
+ 3:56:46.784 ------------------------------------
+ 3:56:52.142 ------------------------------------
+ 3:56:52.142   ***  CE Loop took 4.9 (sec)...
+ 3:56:52.142 Idle Mode Active!
+ 3:56:52.142 ------------------------------------
+ 3:56:55.157 Reloading Userlist priority.txt
+ 3:56:55.157 [Login]: Adding player ExNKBTyMaHe1467 (57594721) to login queue at position 0
+ 3:56:55.157 [LoginMachine]: Add player ExNKBTyMaHe1467 (57594721)
+ 3:56:55.157 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid ) Entering AuthPlayerLoginState
+ 3:56:55.157 Server: SetClientState dpid=57594721 id=0 name=ExNKBTyMaHe1467 CREATED -> CONNECTED
+ 3:56:55.172 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid ) Entering WaitAuthPlayerLoginState
+ 3:56:55.610 Player ExNKBTyMaHe1467 (id=A78044A146C54E07CB0C0E68D1458EFEAA6D13A4) has connected.
+ 3:56:55.625 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid ) Entering WaitPlayerAssignedLoginState
+ 3:56:56.157 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid ) Entering PlayerAssignedLoginState
+ 3:56:56.344 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid A78044A146C54E07CB0C0E68D1458EFEAA6D13A4) Entering DBGetLoginTimeLoginState
+ 3:56:56.375 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid A78044A146C54E07CB0C0E68D1458EFEAA6D13A4) Entering DBWaitLoginTimeLoginState
+ 3:56:57.500 [IdleMode] Leaving OUT
+ 3:56:57.500 ------------------------------------
+ 3:56:57.500   ***  CE Loop took 4.9 (sec)...
+ 3:56:57.500 players: 1, loot: 19847, infected: 88, animals: 160
+ 3:56:57.500 ------------------------------------
+ 3:56:59.390 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid A78044A146C54E07CB0C0E68D1458EFEAA6D13A4) Entering DBGetCharacterLoginState
+ 3:56:59.421 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid A78044A146C54E07CB0C0E68D1458EFEAA6D13A4) Entering CreateNetObjectsLoginState
+ 3:56:59.437 Server: SetClientState dpid=57594721 id=0 name=ExNKBTyMaHe1467 PLAYER ASSIGNED -> MISSION RECEIVED
+ 3:56:59.437 Server: SetClientState dpid=57594721 id=0 name=ExNKBTyMaHe1467 MISSION RECEIVED -> GAME LOADED
+ 3:56:59.437 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid A78044A146C54E07CB0C0E68D1458EFEAA6D13A4) Entering PreloadCamLoginState
+ 3:56:59.453 Login: Player ExNKBTyMaHe1467 (57594721) preloading at: 175.725891 139.329514 4957.255371, yaw: 2.413420, new: 0
+ 3:56:59.453 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid A78044A146C54E07CB0C0E68D1458EFEAA6D13A4) Entering WaitPreloadCamLoginState
+ 3:57:01.983 <cleanup> Depleted:"Pitchfork" at [12191,9671] damage=0.26
+ 3:57:01.983 <cleanup> Remove:"Pitchfork" at [12191,9671] damage=0.26
+ 3:57:01.983 <cleanup> Depleted:"MotoHelmet_White" at [12062,3690] damage=0.54
+ 3:57:01.983 <cleanup> Remove:"MotoHelmet_White" at [12062,3690] damage=0.54
+ 3:57:01.983   Items deleted: 2, of: 2
+ 3:57:02.968 <cleanup> Depleted:"Hammer" at [8536,13121] damage=0.39
+ 3:57:02.968 <cleanup> Remove:"Hammer" at [8536,13121] damage=0.39
+ 3:57:02.968   Items deleted: 1, of: 1
+ 3:57:03.889 [StateMachine]: Player ExNKBTyMaHe1467 (dpnid 57594721 uid A78044A146C54E07CB0C0E68D1458EFEAA6D13A4) Entering GetLoadedCharLoginState
+ 3:57:03.936 <LOAD EXISTING CHAR>:
+    charID 14
+    playerID 14
+    dpnid 57594721
+    uid A78044A146C54E07CB0C0E68D1458EFEAA6D13A4
+ 3:57:04.280 <cleanup> Depleted:"CargoPants_Black" at [2568,6389] damage=0.27
+ 3:57:04.280 <cleanup> Remove:"CargoPants_Black" at [2568,6389] damage=0.27
+ 3:57:04.280   Items deleted: 1, of: 1
+ 3:57:04.936 <cleanup> Outside world:"Animal_CervusElaphusF" at [7380,-313] damage=0.00 DE="AnimalDeer"
+ 3:57:04.936 <cleanup> Remove:"Animal_CervusElaphusF" at [7380,-313] damage=0.00 DE="AnimalDeer"
+ 3:57:04.936 <cleanup> Depleted:"ContaminatedArea_Dynamic" at [10122,5490] damage=0.00 DE="StaticContaminatedArea" id=1082
+ 3:57:04.936 <cleanup> Remove:"ContaminatedArea_Dynamic" at [10122,5490] damage=0.00 DE="StaticContaminatedArea" id=1082
+ 3:57:04.936   Items deleted: 2, of: 2
+ 3:57:04.936   Items batched for deletion: 0, of: 18810
+ 3:57:21.555 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] ChernarusSportShirt missing:10 [cnt:30, nom:40, min:30]
+ 3:57:21.555   Adding ChernarusSportShirt at [10466,2131]
+ 3:57:21.555   Adding ChernarusSportShirt at [7568,12621]
+ 3:57:21.555   Adding ChernarusSportShirt at [11974,9060]
+ 3:57:21.555   Adding ChernarusSportShirt at [3378,12897]
+ 3:57:21.555   Adding ChernarusSportShirt at [7812,3085]
+ 3:57:21.555   Adding ChernarusSportShirt at [11720,14409]
+ 3:57:21.555   Adding ChernarusSportShirt at [13539,13812]
+ 3:57:21.555   Adding ChernarusSportShirt at [6683,2498]
+ 3:57:21.555   Adding ChernarusSportShirt at [13942,13294]
+ 3:57:21.555   Adding ChernarusSportShirt at [8108,12787]
+ 3:57:21.555   [CE][LootRespawner] (PRIDummy) :: ChernarusSportShirt respawned:10, tests:10 missing:0
+ 3:57:21.665 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] DressShoes_Sunburst missing:10 [cnt:10, nom:20, min:10]
+ 3:57:21.665   Adding DressShoes_Sunburst at [6424,2423]
+ 3:57:21.665   Adding DressShoes_Sunburst at [6467,2651]
+ 3:57:21.665   Adding DressShoes_Sunburst at [3432,13062]
+ 3:57:21.665   Adding DressShoes_Sunburst at [2220,3265]
+ 3:57:21.665   Adding DressShoes_Sunburst at [1523,9123]
+ 3:57:21.665   Adding DressShoes_Sunburst at [2409,5268]
+ 3:57:21.665   Adding DressShoes_Sunburst at [2460,5238]
+ 3:57:21.665   Adding DressShoes_Sunburst at [13029,10571]
+ 3:57:21.665   Adding DressShoes_Sunburst at [1687,3837]
+ 3:57:21.665   Adding DressShoes_Sunburst at [2528,5260]
+ 3:57:21.665   [CE][LootRespawner] (PRIDummy) :: DressShoes_Sunburst respawned:10, tests:10 missing:0
+ 3:57:21.774 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Ammo_308Win missing:10 [cnt:40, nom:50, min:30]
+ 3:57:21.774   Adding Ammo_308Win at [8353,5467]
+ 3:57:21.774   Adding Ammo_308Win at [13414,6277]
+ 3:57:21.774   Adding Ammo_308Win at [5887,13610]
+ 3:57:21.774   Adding Ammo_308Win at [1187,11486]
+ 3:57:21.774   Adding Ammo_308Win at [5679,13133]
+ 3:57:21.774   Adding Ammo_308Win at [2652,13456]
+ 3:57:21.774   Adding Ammo_308Win at [592,11178]
+ 3:57:21.774   Adding Ammo_308Win at [10907,12551]
+ 3:57:21.774   Adding Ammo_308Win at [13547,14113]
+ 3:57:21.774   Adding Ammo_308Win at [779,12217]
+ 3:57:21.774   [CE][LootRespawner] (PRIDummy) :: Ammo_308Win respawned:10, tests:10 missing:0
+ 3:57:21.883 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] DarkMotoHelmet_Blue missing:3 [cnt:5, nom:8, min:5]
+ 3:57:21.883   Adding DarkMotoHelmet_Blue at [11945,13840]
+ 3:57:21.883   Adding DarkMotoHelmet_Blue at [3264,3927]
+ 3:57:21.883   Adding DarkMotoHelmet_Blue at [4986,5623]
+ 3:57:21.883   [CE][LootRespawner] (PRIDummy) :: DarkMotoHelmet_Blue respawned:3, tests:3 missing:0
+ 3:57:21.993 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] DuffelBagSmall_Medical missing:3 [cnt:3, nom:6, min:3]
+ 3:57:21.993   Adding DuffelBagSmall_Medical at [2470,5190]
+ 3:57:21.993   Adding DuffelBagSmall_Medical at [4113,10467]
+ 3:57:21.993   Adding DuffelBagSmall_Medical at [4088,11738]
+ 3:57:21.993   [CE][LootRespawner] (PRIDummy) :: DuffelBagSmall_Medical respawned:3, tests:3 missing:0
+ 3:57:22.102 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] AthleticShoes_Black missing:2 [cnt:1, nom:3, min:1]
+ 3:57:22.102   Adding AthleticShoes_Black at [11024,12391]
+ 3:57:22.102   Adding AthleticShoes_Black at [11537,14240]
+ 3:57:22.102   [CE][LootRespawner] (PRIDummy) :: AthleticShoes_Black respawned:2, tests:2 missing:0
+ 3:57:22.211 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] TShirt_Grey missing:2 [cnt:1, nom:3, min:1]
+ 3:57:22.211   Adding TShirt_Grey at [4862,5669]
+ 3:57:22.211   Adding TShirt_Grey at [6387,3122]
+ 3:57:22.211   [CE][LootRespawner] (PRIDummy) :: TShirt_Grey respawned:2, tests:2 missing:0
+ 3:57:26.913 ------------------------------------
+ 3:57:26.913   ***  CE Loop took 26.9 (sec)...
+ 3:57:26.913 players: 1, loot: 19847, infected: 91, animals: 160
+ 3:57:26.913 ------------------------------------
+ 3:57:31.398 <cleanup> Depleted:"AmmoBox_22_50Rnd" at [11642,14637] damage=0.39
+ 3:57:31.398 <cleanup> Remove:"AmmoBox_22_50Rnd" at [11642,14637] damage=0.39
+ 3:57:31.398   Items deleted: 1, of: 1
+ 3:57:31.726 <cleanup> Depleted:"Breeches_Beige" at [10307,2094] damage=0.82
+ 3:57:31.726 <cleanup> Remove:"Breeches_Beige" at [10307,2094] damage=0.82
+ 3:57:31.726 <cleanup> Depleted:"CombinationLock4" at [10830,2534] damage=0.05
+ 3:57:31.726 <cleanup> Remove:"CombinationLock4" at [10830,2534] damage=0.05
+ 3:57:31.726 <cleanup> Depleted:"ChernarusMap" at [10263,3522] damage=0.69
+ 3:57:31.726 <cleanup> Remove:"ChernarusMap" at [10263,3522] damage=0.69
+ 3:57:31.726 <cleanup> Depleted:"SodaCan_Cola" at [11142,12347] damage=0.44
+ 3:57:31.726 <cleanup> Remove:"SodaCan_Cola" at [11142,12347] damage=0.44
+ 3:57:31.726   Items deleted: 4, of: 4
+ 3:57:32.54 <cleanup> Depleted:"CombinationLock4" at [9460,14618] damage=0.34
+ 3:57:32.54 <cleanup> Remove:"CombinationLock4" at [9460,14618] damage=0.34
+ 3:57:32.54 <cleanup> Depleted:"TomatoSeedsPack" at [9579,14727] damage=0.71
+ 3:57:32.54 <cleanup> Remove:"TomatoSeedsPack" at [9579,14727] damage=0.71
+ 3:57:32.54   Items deleted: 2, of: 2
+ 3:57:32.710 <cleanup> Depleted:"HuntingJacket_Brown" at [6798,12983] damage=0.62
+ 3:57:32.710 <cleanup> Remove:"HuntingJacket_Brown" at [6798,12983] damage=0.62
+ 3:57:32.710 <cleanup> Depleted:"LugWrench" at [7418,9097] damage=0.72
+ 3:57:32.710 <cleanup> Remove:"LugWrench" at [7418,9097] damage=0.72
+ 3:57:32.710   Items deleted: 2, of: 2
+ 3:57:33.38 <cleanup> Depleted:"MedicalScrubsShirt_Blue" at [5991,7677] damage=0.38
+ 3:57:33.38 <cleanup> Remove:"MedicalScrubsShirt_Blue" at [5991,7677] damage=0.38
+ 3:57:33.38 <cleanup> Depleted:"AthleticShoes_Grey" at [5841,4807] damage=0.80
+ 3:57:33.38 <cleanup> Remove:"AthleticShoes_Grey" at [5841,4807] damage=0.80
+ 3:57:33.38 <cleanup> Depleted:"Ammo_762x39" at [6131,3029] damage=0.00
+ 3:57:33.38 <cleanup> Remove:"Ammo_762x39" at [6131,3029] damage=0.00
+ 3:57:33.38   Items deleted: 3, of: 3
+ 3:57:33.694 <cleanup> Depleted:"FlatCap_Black" at [2686,5264] damage=0.18
+ 3:57:33.694 <cleanup> Remove:"FlatCap_Black" at [2686,5264] damage=0.18
+ 3:57:33.694 <cleanup> Depleted:"FarmingHoe" at [2866,12443] damage=0.62
+ 3:57:33.694 <cleanup> Remove:"FarmingHoe" at [2866,12443] damage=0.62
+ 3:57:33.694 <cleanup> Depleted:"JumpsuitPants_Red" at [2894,12583] damage=0.50
+ 3:57:33.694 <cleanup> Remove:"JumpsuitPants_Red" at [2894,12583] damage=0.50
+ 3:57:33.694 <cleanup> Depleted:"ChestHolster" at [2708,10076] damage=0.73
+ 3:57:33.694 <cleanup> Remove:"ChestHolster" at [2708,10076] damage=0.73
+ 3:57:33.694 <cleanup> Depleted:"Ammo_12gaSlug" at [2807,12382] damage=0.70
+ 3:57:33.694 <cleanup> Remove:"Ammo_12gaSlug" at [2807,12382] damage=0.70
+ 3:57:33.694   Items deleted: 5, of: 5
+ 3:57:34.23 <cleanup> Depleted:"CamoNet" at [2518,5206] damage=0.28
+ 3:57:34.23 <cleanup> Remove:"CamoNet" at [2518,5206] damage=0.28
+ 3:57:34.23   Items deleted: 1, of: 1
+ 3:57:34.351 <cleanup> Depleted:"BoletusMushroom" at [152,5015] damage=0.60
+ 3:57:34.351 <cleanup> Depleted:"TrackSuitJacket_Black" at [478,5236] damage=0.56
+ 3:57:34.351 <cleanup> Remove:"TrackSuitJacket_Black" at [478,5236] damage=0.56
+ 3:57:34.351 <cleanup> Depleted:"AmmoBox_308Win_20Rnd" at [1166,11450] damage=0.66
+ 3:57:34.351 <cleanup> Remove:"AmmoBox_308Win_20Rnd" at [1166,11450] damage=0.66
+ 3:57:34.351 <cleanup> Depleted:"MiniDress_Pink" at [1055,6684] damage=0.22
+ 3:57:34.351 <cleanup> Remove:"MiniDress_Pink" at [1055,6684] damage=0.22
+ 3:57:34.351 <cleanup> Depleted:"MacrolepiotaMushroom" at [139,5040] damage=0.90
+ 3:57:34.351   Items deleted: 3, of: 5
+ 3:57:37.600 [A2S] received data
+ 3:57:37.600 [A2S] A2S_INFO
+ 3:57:37.600 [A2S] received data
+ 3:57:37.600 [A2S] A2S_PLAYER
+ 3:57:37.600 [A2S] received data
+ 3:57:37.600 [A2S] A2S_RULES
+ 3:57:50.972 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Pitchfork missing:10 [cnt:45, nom:55, min:45]
+ 3:57:50.972   Adding Pitchfork at [9649,1972]
+ 3:57:50.972   Adding Pitchfork at [5896,13626]
+ 3:57:50.972   Adding Pitchfork at [11554,6613]
+ 3:57:50.972   Adding Pitchfork at [11993,8958]
+ 3:57:50.972   Adding Pitchfork at [10578,2252]
+ 3:57:50.972   Adding Pitchfork at [5893,11350]
+ 3:57:50.972   Adding Pitchfork at [8418,12037]
+ 3:57:50.972   Adding Pitchfork at [14019,15052]
+ 3:57:50.972   Adding Pitchfork at [11472,14826]
+ 3:57:50.972   Adding Pitchfork at [10897,12553]
+ 3:57:50.972   [CE][LootRespawner] (PRIDummy) :: Pitchfork respawned:10, tests:10 missing:0
+ 3:57:53.159 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_Jacket_stripes.P3DAttachments'.
+ 3:57:53.159 Warning Message: No entry '.P3DProxies'.
+ 3:57:53.159 Warning Message: No entry '.BoneNames'.
+ 3:57:53.159 Warning Message: Size: '/' not an array
+ 3:57:53.159 Warning Message: Size: '/' not an array
+ 3:57:53.159 Warning Message: Size: '/' not an array
+ 3:57:53.159 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_Jacket_brown.P3DAttachments'.
+ 3:57:53.159 Warning Message: No entry '.P3DProxies'.
+ 3:57:53.159 Warning Message: No entry '.BoneNames'.
+ 3:57:53.159 Warning Message: Size: '/' not an array
+ 3:57:53.159 Warning Message: Size: '/' not an array
+ 3:57:53.159 Warning Message: Size: '/' not an array
+ 3:57:56.330 ------------------------------------
+ 3:57:56.330   ***  CE Loop took 26.9 (sec)...
+ 3:57:56.330 players: 1, loot: 19995, infected: 101, animals: 159
+ 3:57:56.330 ------------------------------------
+ 3:58:00.485 <cleanup> Depleted:"FireplaceIndoor" at [13706,13280] damage=0.00
+ 3:58:00.485 <cleanup> Remove:"FireplaceIndoor" at [13706,13280] damage=0.00
+ 3:58:00.485   Items deleted: 1, of: 1
+ 3:58:00.813 <cleanup> Depleted:"HockeyHelmet_Red" at [12701,9781] damage=0.63
+ 3:58:00.813 <cleanup> Remove:"HockeyHelmet_Red" at [12701,9781] damage=0.63
+ 3:58:00.813 <cleanup> Depleted:"TetracyclineAntibiotics" at [11858,12575] damage=0.33
+ 3:58:00.813 <cleanup> Remove:"TetracyclineAntibiotics" at [11858,12575] damage=0.33
+ 3:58:00.813   Items deleted: 2, of: 2
+ 3:58:01.141 <cleanup> Depleted:"SparkPlug" at [10638,14218] damage=0.08
+ 3:58:01.141 <cleanup> Remove:"SparkPlug" at [10638,14218] damage=0.08
+ 3:58:01.141   Items deleted: 1, of: 1
+ 3:58:01.797 <cleanup> Depleted:"Raincoat_Orange" at [7902,3017] damage=0.82
+ 3:58:01.797 <cleanup> Remove:"Raincoat_Orange" at [7902,3017] damage=0.82
+ 3:58:01.797 <cleanup> Depleted:"B95" at [8710,11627] damage=0.45
+ 3:58:01.797 <cleanup> Remove:"B95" at [8710,11627] damage=0.45
+ 3:58:01.797   Items deleted: 2, of: 2
+ 3:58:02.453 <cleanup> Depleted:"MeatTenderizer" at [6279,12650] damage=0.82
+ 3:58:02.453 <cleanup> Remove:"MeatTenderizer" at [6279,12650] damage=0.82
+ 3:58:02.453   Items deleted: 1, of: 1
+ 3:58:02.781 <cleanup> Depleted:"TacticalBaconCan" at [4550,8298] damage=0.82
+ 3:58:02.781 <cleanup> Remove:"TacticalBaconCan" at [4550,8298] damage=0.82
+ 3:58:02.781 <cleanup> Depleted:"TaloonBag_Green" at [4423,9807] damage=0.45
+ 3:58:02.781 <cleanup> Remove:"TaloonBag_Green" at [4423,9807] damage=0.45
+ 3:58:02.781 <cleanup> Depleted:"CoyoteBag_Green" at [3909,10766] damage=0.46
+ 3:58:02.781 <cleanup> Remove:"CoyoteBag_Green" at [3909,10766] damage=0.46
+ 3:58:02.781 <cleanup> Depleted:"BomberJacket_Olive" at [4976,10060] damage=0.63
+ 3:58:02.781 <cleanup> Remove:"BomberJacket_Olive" at [4976,10060] damage=0.63
+ 3:58:02.781   Items deleted: 4, of: 4
+ 3:58:03.109 <cleanup> Depleted:"Hatchet" at [3052,12574] damage=0.82
+ 3:58:03.109 <cleanup> Remove:"Hatchet" at [3052,12574] damage=0.82
+ 3:58:03.109   Items deleted: 1, of: 1
+ 3:58:03.438 <cleanup> Depleted:"JumpsuitJacket_Red" at [1736,3608] damage=0.22
+ 3:58:03.438 <cleanup> Remove:"JumpsuitJacket_Red" at [1736,3608] damage=0.22
+ 3:58:03.438 <cleanup> Depleted:"WoodAxe" at [1494,10657] damage=0.31
+ 3:58:03.438 <cleanup> Remove:"WoodAxe" at [1494,10657] damage=0.31
+ 3:58:03.438 <cleanup> Depleted:"SmallGasCanister" at [1957,2275] damage=0.81
+ 3:58:03.438 <cleanup> Remove:"SmallGasCanister" at [1957,2275] damage=0.81
+ 3:58:03.438   Items deleted: 3, of: 3
+ 3:58:03.766 <cleanup> Remove:"BoletusMushroom" at [152,5015] damage=0.60
+ 3:58:03.766 <cleanup> Depleted:"ChernarusMap" at [1057,11243] damage=0.07
+ 3:58:03.766 <cleanup> Remove:"ChernarusMap" at [1057,11243] damage=0.07
+ 3:58:03.766 <cleanup> Remove:"MacrolepiotaMushroom" at [139,5040] damage=0.90
+ 3:58:03.766 <cleanup> Depleted:"Bone" at [697,5684] damage=0.30
+ 3:58:03.766 <cleanup> Remove:"Bone" at [697,5684] damage=0.30
+ 3:58:03.766 <cleanup> Depleted:"CivSedanWheel" at [1206,8791] damage=0.53
+ 3:58:03.766 <cleanup> Remove:"CivSedanWheel" at [1206,8791] damage=0.53
+ 3:58:03.766   Items deleted: 5, of: 5
+ 3:58:20.398 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] CamoNet missing:20 [cnt:20, nom:40, min:20]
+ 3:58:20.398   Adding CamoNet at [1500,14037]
+ 3:58:20.398   Adding CamoNet at [4610,10688]
+ 3:58:20.398   Adding CamoNet at [4742,10867]
+ 3:58:20.398   Adding CamoNet at [3909,10768]
+ 3:58:20.398   Adding CamoNet at [4966,10039]
+ 3:58:20.398   Adding CamoNet at [2502,5071]
+ 3:58:20.398   Adding CamoNet at [1146,7218]
+ 3:58:20.398   Adding CamoNet at [1886,13728]
+ 3:58:20.398   Adding CamoNet at [1494,13628]
+ 3:58:20.398   Adding CamoNet at [1534,13587]
+ 3:58:20.398   [CE][LootRespawner] (PRIDummy) :: CamoNet respawned:10, tests:10 missing:10
+ 3:58:20.508 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] MiniDress_Pink missing:10 [cnt:20, nom:30, min:20]
+ 3:58:20.508   Adding MiniDress_Pink at [9419,14741]
+ 3:58:20.508   Adding MiniDress_Pink at [7912,12788]
+ 3:58:20.508   Adding MiniDress_Pink at [12867,15054]
+ 3:58:20.508   Adding MiniDress_Pink at [12894,10163]
+ 3:58:20.508   Adding MiniDress_Pink at [8465,12790]
+ 3:58:20.508   Adding MiniDress_Pink at [7756,3150]
+ 3:58:20.508   Adding MiniDress_Pink at [2647,5269]
+ 3:58:20.508   Adding MiniDress_Pink at [10456,2564]
+ 3:58:20.508   Adding MiniDress_Pink at [3423,12772]
+ 3:58:20.508   Adding MiniDress_Pink at [12108,9124]
+ 3:58:20.508   [CE][LootRespawner] (PRIDummy) :: MiniDress_Pink respawned:10, tests:10 missing:0
+ 3:58:20.617 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] ChestHolster missing:10 [cnt:30, nom:40, min:30]
+ 3:58:20.617   Adding ChestHolster at [2738,5130]
+ 3:58:20.617   Adding ChestHolster at [2468,10975]
+ 3:58:20.617   Adding ChestHolster at [3052,7803]
+ 3:58:20.617   Adding ChestHolster at [1796,5079]
+ 3:58:20.617   Adding ChestHolster at [1589,12032]
+ 3:58:20.617   Adding ChestHolster at [10859,12350]
+ 3:58:20.617   Adding ChestHolster at [2567,10979]
+ 3:58:20.617   Adding ChestHolster at [7784,12554]
+ 3:58:20.617   Adding ChestHolster at [7466,4861]
+ 3:58:20.617   Adding ChestHolster at [6291,7555]
+ 3:58:20.617   [CE][LootRespawner] (PRIDummy) :: ChestHolster respawned:10, tests:10 missing:0
+ 3:58:20.726 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] AmmoBox_308Win_20Rnd missing:5 [cnt:15, nom:20, min:15]
+ 3:58:20.726   Adding AmmoBox_308Win_20Rnd at [1675,4699]
+ 3:58:20.726   Adding AmmoBox_308Win_20Rnd at [1088,6656]
+ 3:58:20.726   Adding AmmoBox_308Win_20Rnd at [13317,2774]
+ 3:58:20.726   Adding AmmoBox_308Win_20Rnd at [1544,12001]
+ 3:58:20.726   Adding AmmoBox_308Win_20Rnd at [8449,13991]
+ 3:58:20.726   [CE][LootRespawner] (PRIDummy) :: AmmoBox_308Win_20Rnd respawned:5, tests:5 missing:0
+ 3:58:22.585 <cleanup> Depleted:"ZmbF_HikerSkinny_Blue" at [267,5325] damage=0.00 DE="InfectedSolitude"
+ 3:58:22.585  DE: InfectedSolitude Zone index: 87
+ 3:58:22.585 <cleanup> Depleted:"ZmbM_HermitSkinny_Red" at [293,5304] damage=0.00 DE="InfectedSolitude"
+ 3:58:22.585  DE: InfectedSolitude Zone index: 87
+ 3:58:22.585   Items batched for deletion: 2, of: 5
+ 3:58:23.351 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 3:58:23.351 [CE][VehicleRespawner] (PRIContaminatedArea) :: Respawning: "StaticContaminatedArea"
+ 3:58:23.366 Warning: No components in dz\structures\roads\decals\decal_damage_long5.p3d:geometry
+ 3:58:24.991 !!! [CE][Point] Removing 439.840393, 5036.918945 from AppleTree1
+ 3:58:25.319   Adding MacrolepiotaMushroom at [338,4905]
+ 3:58:25.319   Adding MacrolepiotaMushroom at [339,4964]
+ 3:58:25.756 ------------------------------------
+ 3:58:25.756   ***  CE Loop took 26.9 (sec)...
+ 3:58:25.756 players: 1, loot: 19987, infected: 101, animals: 159
+ 3:58:25.756 ------------------------------------
+ 3:58:25.897 [A2S] received data
+ 3:58:25.897 [A2S] A2S_INFO
+ 3:58:25.897 [A2S] received data
+ 3:58:25.897 [A2S] A2S_PLAYER
+ 3:58:25.897 [A2S] received data
+ 3:58:25.897 [A2S] A2S_RULES
+ 3:58:29.917 <cleanup> Depleted:"Battery9V" at [13898,13428] damage=0.47
+ 3:58:29.917 <cleanup> Remove:"Battery9V" at [13898,13428] damage=0.47
+ 3:58:29.917 <cleanup> Depleted:"FarmingHoe" at [13531,14157] damage=0.58
+ 3:58:29.917 <cleanup> Remove:"FarmingHoe" at [13531,14157] damage=0.58
+ 3:58:29.917   Items deleted: 2, of: 2
+ 3:58:30.245 <cleanup> Depleted:"CargoPants_Beige" at [11781,14236] damage=0.47
+ 3:58:30.245 <cleanup> Remove:"CargoPants_Beige" at [11781,14236] damage=0.47
+ 3:58:30.245 <cleanup> Depleted:"KitchenKnife" at [11676,14552] damage=0.82
+ 3:58:30.245 <cleanup> Remove:"KitchenKnife" at [11676,14552] damage=0.82
+ 3:58:30.245   Items deleted: 2, of: 2
+ 3:58:30.573 <cleanup> Depleted:"JoggingShoes_White" at [10987,2763] damage=0.08
+ 3:58:30.573 <cleanup> Remove:"JoggingShoes_White" at [10987,2763] damage=0.08
+ 3:58:30.573 <cleanup> Depleted:"Bear_Pink" at [10471,2178] damage=0.82
+ 3:58:30.573 <cleanup> Remove:"Bear_Pink" at [10471,2178] damage=0.82
+ 3:58:30.573   Items deleted: 2, of: 2
+ 3:58:31.229 <cleanup> Depleted:"Shirt_BlueCheck" at [7688,12476] damage=0.59
+ 3:58:31.229 <cleanup> Remove:"Shirt_BlueCheck" at [7688,12476] damage=0.59
+ 3:58:31.229 <cleanup> Depleted:"Pitchfork" at [8001,13066] damage=0.45
+ 3:58:31.229 <cleanup> Remove:"Pitchfork" at [8001,13066] damage=0.45
+ 3:58:31.229 <cleanup> Depleted:"CombinationLock" at [8243,11625] damage=0.25
+ 3:58:31.229 <cleanup> Remove:"CombinationLock" at [8243,11625] damage=0.25
+ 3:58:31.229 <cleanup> Depleted:"Matchbox" at [7772,12732] damage=0.27
+ 3:58:31.229 <cleanup> Remove:"Matchbox" at [7772,12732] damage=0.27
+ 3:58:31.229 <cleanup> Depleted:"HuntingKnife" at [8844,6458] damage=0.75
+ 3:58:31.229 <cleanup> Remove:"HuntingKnife" at [8844,6458] damage=0.75
+ 3:58:31.229   Items deleted: 5, of: 5
+ 3:58:31.557 <cleanup> Depleted:"Pipe" at [6932,3546] damage=0.44
+ 3:58:31.557 <cleanup> Remove:"Pipe" at [6932,3546] damage=0.44
+ 3:58:31.557 <cleanup> Depleted:"TShirt_OrangeWhiteStripes" at [7459,13753] damage=0.80
+ 3:58:31.557 <cleanup> Remove:"TShirt_OrangeWhiteStripes" at [7459,13753] damage=0.80
+ 3:58:31.557   Items deleted: 2, of: 2
+ 3:58:32.541 <cleanup> Depleted:"BeanieHat_Green" at [3824,8952] damage=0.49
+ 3:58:32.541 <cleanup> Remove:"BeanieHat_Green" at [3824,8952] damage=0.49
+ 3:58:32.541 <cleanup> Depleted:"JumpsuitPants_Grey" at [2777,3116] damage=0.82
+ 3:58:32.541 <cleanup> Remove:"JumpsuitPants_Grey" at [2777,3116] damage=0.82
+ 3:58:32.541 <cleanup> Depleted:"SportGlasses_Green" at [3332,15285] damage=0.30
+ 3:58:32.541 <cleanup> Remove:"SportGlasses_Green" at [3332,15285] damage=0.30
+ 3:58:32.541 <cleanup> Depleted:"CZ550" at [3262,11267] damage=0.70
+ 3:58:32.541 <cleanup> Remove:"CZ550" at [3262,11267] damage=0.70
+ 3:58:32.541   Items deleted: 4, of: 4
+ 3:58:32.869 <cleanup> Depleted:"MiniDress_PinkChecker" at [2402,11013] damage=0.43
+ 3:58:32.869 <cleanup> Remove:"MiniDress_PinkChecker" at [2402,11013] damage=0.43
+ 3:58:32.869 <cleanup> Depleted:"HunterPants_Spring" at [1351,9240] damage=0.13
+ 3:58:32.869 <cleanup> Remove:"HunterPants_Spring" at [1351,9240] damage=0.13
+ 3:58:32.869   Items deleted: 2, of: 2
+ 3:58:33.197 <cleanup> Remove:"ZmbF_HikerSkinny_Blue" at [268,5322] damage=0.00 DE="InfectedSolitude"
+ 3:58:33.197 <cleanup> Remove:"ZmbM_HermitSkinny_Red" at [294,5299] damage=0.00 DE="InfectedSolitude"
+ 3:58:33.197 <cleanup> Depleted:"HunterPants_Spring" at [195,11740] damage=0.47
+ 3:58:33.197 <cleanup> Remove:"HunterPants_Spring" at [195,11740] damage=0.47
+ 3:58:33.197   Items deleted: 3, of: 3
+ 3:58:49.818 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] CamoNet missing:10 [cnt:30, nom:40, min:20]
+ 3:58:49.818   Adding CamoNet at [2796,1248]
+ 3:58:49.818   Adding CamoNet at [2572,1291]
+ 3:58:49.818   Adding CamoNet at [2523,5102]
+ 3:58:49.818   Adding CamoNet at [2063,3487]
+ 3:58:49.818   Adding CamoNet at [4149,10394]
+ 3:58:49.818   Adding CamoNet at [2520,5143]
+ 3:58:49.818   Adding CamoNet at [1713,14099]
+ 3:58:49.818   Adding CamoNet at [2435,5120]
+ 3:58:49.818   Adding CamoNet at [1594,14053]
+ 3:58:49.818   Adding CamoNet at [2539,5077]
+ 3:58:49.818   [CE][LootRespawner] (PRIDummy) :: CamoNet respawned:10, tests:10 missing:0
+ 3:58:49.928 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] TaloonBag_Green missing:4 [cnt:10, nom:14, min:10]
+ 3:58:49.928   Adding TaloonBag_Green at [2604,5041]
+ 3:58:49.928   Adding TaloonBag_Green at [2800,5464]
+ 3:58:49.928   Adding TaloonBag_Green at [9421,14739]
+ 3:58:49.928   Adding TaloonBag_Green at [8377,4954]
+ 3:58:49.928   [CE][LootRespawner] (PRIDummy) :: TaloonBag_Green respawned:4, tests:4 missing:0
+ 3:58:55.176 ------------------------------------
+ 3:58:55.176   ***  CE Loop took 26.9 (sec)...
+ 3:58:55.176 players: 1, loot: 20003, infected: 102, animals: 159
+ 3:58:55.176 ------------------------------------
+ 3:58:59.04 <cleanup> Depleted:"Breeches_Black" at [14115,13178] damage=0.82
+ 3:58:59.04 <cleanup> Remove:"Breeches_Black" at [14115,13178] damage=0.82
+ 3:58:59.04   Items deleted: 1, of: 1
+ 3:58:59.660 <cleanup> Depleted:"ManSuit_White" at [11607,14605] damage=0.58
+ 3:58:59.660 <cleanup> Remove:"ManSuit_White" at [11607,14605] damage=0.58
+ 3:58:59.660 <cleanup> Depleted:"DisinfectantSpray" at [12082,9007] damage=0.01
+ 3:58:59.660 <cleanup> Remove:"DisinfectantSpray" at [12082,9007] damage=0.01
+ 3:58:59.660   Items deleted: 2, of: 2
+ 3:59:00.316 <cleanup> Depleted:"Bandana_BlackPattern" at [9650,6478] damage=0.80
+ 3:59:00.316 <cleanup> Remove:"Bandana_BlackPattern" at [9650,6478] damage=0.80
+ 3:59:00.316 <cleanup> Depleted:"MotoHelmet_Green" at [9348,2044] damage=0.09
+ 3:59:00.316 <cleanup> Remove:"MotoHelmet_Green" at [9348,2044] damage=0.09
+ 3:59:00.316 <cleanup> Depleted:"CarBattery" at [9398,14683] damage=0.35
+ 3:59:00.316 <cleanup> Remove:"CarBattery" at [9398,14683] damage=0.35
+ 3:59:00.316   Items deleted: 3, of: 3
+ 3:59:00.644 <cleanup> Depleted:"NailBox" at [8017,12723] damage=0.46
+ 3:59:00.644 <cleanup> Remove:"NailBox" at [8017,12723] damage=0.46
+ 3:59:00.644 <cleanup> Depleted:"Ammo_12gaSlug" at [7791,5274] damage=0.30
+ 3:59:00.644 <cleanup> Remove:"Ammo_12gaSlug" at [7791,5274] damage=0.30
+ 3:59:00.644 <cleanup> Depleted:"ConstructionHelmet_Lime" at [7864,3140] damage=0.76
+ 3:59:00.644 <cleanup> Remove:"ConstructionHelmet_Lime" at [7864,3140] damage=0.76
+ 3:59:00.644 <cleanup> Depleted:"Ammo_12gaRubberSlug" at [7804,5133] damage=0.70
+ 3:59:00.644 <cleanup> Remove:"Ammo_12gaRubberSlug" at [7804,5133] damage=0.70
+ 3:59:00.644   Items deleted: 4, of: 4
+ 3:59:01.956 <cleanup> Depleted:"PrisonerCap" at [2799,1256] damage=0.82
+ 3:59:01.956 <cleanup> Remove:"PrisonerCap" at [2799,1256] damage=0.82
+ 3:59:01.956   Items deleted: 1, of: 1
+ 3:59:02.284 <cleanup> Depleted:"CombinationLock" at [2231,5229] damage=0.28
+ 3:59:02.284 <cleanup> Remove:"CombinationLock" at [2231,5229] damage=0.28
+ 3:59:02.284 <cleanup> Depleted:"HunterPants_Brown" at [1429,9297] damage=0.82
+ 3:59:02.284 <cleanup> Remove:"HunterPants_Brown" at [1429,9297] damage=0.82
+ 3:59:02.284   Items deleted: 2, of: 2
+ 3:59:02.612 <cleanup> Depleted:"MacrolepiotaMushroom" at [145,4863] damage=0.90
+ 3:59:02.612 <cleanup> Remove:"MacrolepiotaMushroom" at [145,4863] damage=0.90
+ 3:59:02.612   Items deleted: 1, of: 1
+ 3:59:19.15 CHAR_DEBUG - SAVE
+ 3:59:19.15     player ExNKBTyMaHe1467 (dpnid = 57594721)
+ 3:59:19.15     Identity: playerID = 14 , charID = 14
+ 3:59:19.15     Person  : playerID = 14 , charID = 14
+ 3:59:19.15 Saved 1 players ...
+ 3:59:19.233 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] CZ550 missing:2 [cnt:3, nom:5, min:3]
+ 3:59:19.233   Adding CZ550 at [6919,11431]
+ 3:59:19.233   Adding CZ550 at [3262,11267]
+ 3:59:19.233   [CE][LootRespawner] (PRIDummy) :: CZ550 respawned:2, tests:2 missing:0
+ 3:59:19.343 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] TShirt_OrangeWhiteStripes missing:2 [cnt:1, nom:3, min:1]
+ 3:59:19.343   Adding TShirt_OrangeWhiteStripes at [5689,13065]
+ 3:59:19.343   Adding TShirt_OrangeWhiteStripes at [12325,9538]
+ 3:59:19.343   [CE][LootRespawner] (PRIDummy) :: TShirt_OrangeWhiteStripes respawned:2, tests:2 missing:0
+ 3:59:21.433 <cleanup> Depleted:"ZmbM_HikerSkinny_Green" at [543,5274] damage=0.00 DE="InfectedSolitude"
+ 3:59:21.433  DE: InfectedSolitude Zone index: 86
+ 3:59:21.433   Items batched for deletion: 1, of: 22
+ 3:59:21.433 <cleanup> Depleted:"ZmbM_HikerSkinny_Green" at [387,5153] damage=0.00 DE="InfectedSolitude"
+ 3:59:21.433  DE: InfectedSolitude Zone index: 105
+ 3:59:21.433 <cleanup> Depleted:"ZmbM_HermitSkinny_Green" at [378,5164] damage=0.00 DE="InfectedSolitude"
+ 3:59:21.433  DE: InfectedSolitude Zone index: 105
+ 3:59:21.433 <cleanup> Depleted:"ZmbM_HermitSkinny_Red" at [436,5173] damage=0.00 DE="InfectedSolitude"
+ 3:59:21.433  DE: InfectedSolitude Zone index: 105
+ 3:59:21.433   Items batched for deletion: 3, of: 3
+ 3:59:24.604 ------------------------------------
+ 3:59:24.604   ***  CE Loop took 26.9 (sec)...
+ 3:59:24.604 players: 1, loot: 19994, infected: 100, animals: 159
+ 3:59:24.604 ------------------------------------
+ 3:59:24.948 [A2S] received data
+ 3:59:24.948 [A2S] A2S_INFO
+ 3:59:24.948 [A2S] received data
+ 3:59:24.948 [A2S] A2S_PLAYER
+ 3:59:24.948 [A2S] received data
+ 3:59:24.948 [A2S] A2S_RULES
+ 3:59:28.755 <cleanup> Depleted:"Chemlight_Blue" at [13051,8191] damage=0.49
+ 3:59:28.755 <cleanup> Remove:"Chemlight_Blue" at [13051,8191] damage=0.49
+ 3:59:28.755   Items deleted: 1, of: 1
+ 3:59:29.83 <cleanup> Depleted:"Izh18Shotgun" at [12125,9114] damage=0.82
+ 3:59:29.83 <cleanup> Remove:"Izh18Shotgun" at [12125,9114] damage=0.82
+ 3:59:29.83 <cleanup> Depleted:"BurlapSack" at [12759,6164] damage=0.43
+ 3:59:29.83 <cleanup> Remove:"BurlapSack" at [12759,6164] damage=0.43
+ 3:59:29.83   Items deleted: 2, of: 2
+ 3:59:29.411 <cleanup> Depleted:"Sneakers_Gray" at [11364,14331] damage=0.27
+ 3:59:29.411 <cleanup> Remove:"Sneakers_Gray" at [11364,14331] damage=0.27
+ 3:59:29.411 <cleanup> Depleted:"TrackSuitPants_Black" at [11143,6522] damage=0.62
+ 3:59:29.411 <cleanup> Remove:"TrackSuitPants_Black" at [11143,6522] damage=0.62
+ 3:59:29.411   Items deleted: 2, of: 2
+ 3:59:29.739 <cleanup> Depleted:"Thermometer" at [9478,8733] damage=0.27
+ 3:59:29.739 <cleanup> Remove:"Thermometer" at [9478,8733] damage=0.27
+ 3:59:29.739   Items deleted: 1, of: 1
+ 3:59:30.68 <cleanup> Depleted:"TomatoSeedsPack" at [8483,12674] damage=0.82
+ 3:59:30.68 <cleanup> Remove:"TomatoSeedsPack" at [8483,12674] damage=0.82
+ 3:59:30.68   Items deleted: 1, of: 1
+ 3:59:30.396 <cleanup> Depleted:"HockeyHelmet_White" at [6578,2564] damage=0.18
+ 3:59:30.396 <cleanup> Remove:"HockeyHelmet_White" at [6578,2564] damage=0.18
+ 3:59:30.396 <cleanup> Depleted:"FlatCap_BrownCheck" at [6568,2527] damage=0.55
+ 3:59:30.396 <cleanup> Remove:"FlatCap_BrownCheck" at [6568,2527] damage=0.55
+ 3:59:30.396 <cleanup> Depleted:"Jeans_Black" at [6762,2668] damage=0.58
+ 3:59:30.396 <cleanup> Remove:"Jeans_Black" at [6762,2668] damage=0.58
+ 3:59:30.396   Items deleted: 3, of: 3
+ 3:59:30.724 <cleanup> Depleted:"WaterBottle" at [5829,4029] damage=0.31
+ 3:59:30.724 <cleanup> Remove:"WaterBottle" at [5829,4029] damage=0.31
+ 3:59:30.724 <cleanup> Depleted:"BeanieHat_Pink" at [6340,7453] damage=0.14
+ 3:59:30.724 <cleanup> Remove:"BeanieHat_Pink" at [6340,7453] damage=0.14
+ 3:59:30.724   Items deleted: 2, of: 2
+ 3:59:31.52 <cleanup> Depleted:"Ammo_556x45" at [4490,9809] damage=0.70
+ 3:59:31.52 <cleanup> Remove:"Ammo_556x45" at [4490,9809] damage=0.70
+ 3:59:31.52   Items deleted: 1, of: 1
+ 3:59:31.380 <cleanup> Depleted:"ManSuit_White" at [2693,5357] damage=0.61
+ 3:59:31.380 <cleanup> Remove:"ManSuit_White" at [2693,5357] damage=0.61
+ 3:59:31.380 <cleanup> Depleted:"Sneakers_Gray" at [3001,7484] damage=0.58
+ 3:59:31.380 <cleanup> Remove:"Sneakers_Gray" at [3001,7484] damage=0.58
+ 3:59:31.380 <cleanup> Depleted:"HatchbackTrunk_BlueRust" at [3084,12644] damage=0.27
+ 3:59:31.380 <cleanup> Remove:"HatchbackTrunk_BlueRust" at [3084,12644] damage=0.27
+ 3:59:31.380   Items deleted: 3, of: 3
+ 3:59:31.708 <cleanup> Depleted:"Tripod" at [1875,3910] damage=0.32
+ 3:59:31.708 <cleanup> Remove:"Tripod" at [1875,3910] damage=0.32
+ 3:59:31.708 <cleanup> Depleted:"HockeyHelmet_Black" at [1913,2215] damage=0.37
+ 3:59:31.708 <cleanup> Remove:"HockeyHelmet_Black" at [1913,2215] damage=0.37
+ 3:59:31.708 <cleanup> Depleted:"ZmijovkaCap_Red" at [1950,7350] damage=0.57
+ 3:59:31.708 <cleanup> Remove:"ZmijovkaCap_Red" at [1950,7350] damage=0.57
+ 3:59:31.708   Items deleted: 3, of: 3
+ 3:59:32.37 <cleanup> Remove:"ZmbM_HikerSkinny_Green" at [385,5155] damage=0.00 DE="InfectedSolitude"
+ 3:59:32.37 <cleanup> Remove:"ZmbM_HermitSkinny_Green" at [379,5163] damage=0.00 DE="InfectedSolitude"
+ 3:59:32.37 <cleanup> Remove:"ZmbM_HermitSkinny_Red" at [437,5172] damage=0.00 DE="InfectedSolitude"
+ 3:59:32.37 <cleanup> Remove:"ZmbM_HikerSkinny_Green" at [543,5274] damage=0.00 DE="InfectedSolitude"
+ 3:59:32.37 <cleanup> Depleted:"MacrolepiotaMushroom" at [155,5015] damage=0.38
+ 3:59:32.37 <cleanup> Remove:"MacrolepiotaMushroom" at [155,5015] damage=0.38
+ 3:59:32.37   Items deleted: 5, of: 5
+ 3:59:48.658 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] MotoHelmet_Green missing:5 [cnt:10, nom:15, min:10]
+ 3:59:48.658   Adding MotoHelmet_Green at [13023,10232]
+ 3:59:48.658   Adding MotoHelmet_Green at [10818,2348]
+ 3:59:48.658   Adding MotoHelmet_Green at [10397,9854]
+ 3:59:48.658   Adding MotoHelmet_Green at [10851,2328]
+ 3:59:48.658   Adding MotoHelmet_Green at [6258,2941]
+ 3:59:48.658   [CE][LootRespawner] (PRIDummy) :: MotoHelmet_Green respawned:5, tests:5 missing:0
+ 3:59:48.767 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Breeches_Black missing:5 [cnt:20, nom:25, min:20]
+ 3:59:48.767   Adding Breeches_Black at [2648,9958]
+ 3:59:48.767   Adding Breeches_Black at [11415,12249]
+ 3:59:48.767   Adding Breeches_Black at [4933,2430]
+ 3:59:48.767   Adding Breeches_Black at [12085,9009]
+ 3:59:48.767   Adding Breeches_Black at [6573,2500]
+ 3:59:48.767   [CE][LootRespawner] (PRIDummy) :: Breeches_Black respawned:5, tests:5 missing:0
+ 3:59:48.845   Adding Grenade_ChemGas at [5058,9857]
+ 3:59:48.845   Adding Grenade_ChemGas at [5050,9855]
+ 3:59:48.845   Adding Grenade_ChemGas at [5037,9872]
+ 3:59:48.845 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 3:59:48.877 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] PrisonerCap missing:2 [cnt:3, nom:5, min:3]
+ 3:59:48.877   Adding PrisonerCap at [2764,1296]
+ 3:59:48.877   Adding PrisonerCap at [2810,1245]
+ 3:59:48.877   [CE][LootRespawner] (PRIDummy) :: PrisonerCap respawned:2, tests:2 missing:0
+ 3:59:50.845 <cleanup> Depleted:"ZmbM_Jacket_stripes" at [311,4659] damage=0.00 DE="InfectedVillage"
+ 3:59:50.845  DE: InfectedVillage Zone index: 49
+ 3:59:50.845 <cleanup> Depleted:"ZmbF_VillagerOld_Green" at [341,4641] damage=0.00 DE="InfectedVillage"
+ 3:59:50.845  DE: InfectedVillage Zone index: 49
+ 3:59:50.845 <cleanup> Depleted:"ZmbM_JoggerSkinny_Blue" at [340,4597] damage=0.00 DE="InfectedVillage"
+ 3:59:50.845  DE: InfectedVillage Zone index: 49
+ 3:59:50.845 <cleanup> Depleted:"ZmbF_VillagerOld_Green" at [322,4595] damage=0.00 DE="InfectedVillage"
+ 3:59:50.845  DE: InfectedVillage Zone index: 49
+ 3:59:50.845 <cleanup> Depleted:"ZmbM_Jacket_brown" at [315,4612] damage=0.00 DE="InfectedVillage"
+ 3:59:50.845  DE: InfectedVillage Zone index: 49
+ 3:59:50.845 <cleanup> Depleted:"ZmbM_FarmerFat_Brown" at [319,4620] damage=0.00 DE="InfectedVillage"
+ 3:59:50.845  DE: InfectedVillage Zone index: 49
+ 3:59:50.845 <cleanup> Depleted:"ZmbM_Jacket_brown" at [327,4623] damage=0.00 DE="InfectedVillage"
+ 3:59:50.845  DE: InfectedVillage Zone index: 49
+ 3:59:50.845 <cleanup> Depleted:"ZmbF_MilkMaidOld_Beige" at [298,4600] damage=0.00 DE="InfectedVillage"
+ 3:59:50.845  DE: InfectedVillage Zone index: 49
+ 3:59:50.845   Items batched for deletion: 8, of: 8
+ 3:59:51.610 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 3:59:53.579   Adding MacrolepiotaMushroom at [327,4047]
+ 3:59:53.579   Adding MacrolepiotaMushroom at [219,4048]
+ 3:59:54.16 ------------------------------------
+ 3:59:54.16   ***  CE Loop took 26.9 (sec)...
+ 3:59:54.16 players: 1, loot: 19984, infected: 100, animals: 159
+ 3:59:54.16 ------------------------------------
+ 3:59:58.500 <cleanup> Depleted:"Ammo_380" at [12684,4373] damage=0.50
+ 3:59:58.500 <cleanup> Remove:"Ammo_380" at [12684,4373] damage=0.50
+ 3:59:58.500   Items deleted: 1, of: 1
+ 3:59:58.828 <cleanup> Depleted:"TrackSuitPants_LightBlue" at [10327,1903] damage=0.16
+ 3:59:58.828 <cleanup> Remove:"TrackSuitPants_LightBlue" at [10327,1903] damage=0.16
+ 3:59:58.828 <cleanup> Depleted:"BomberJacket_SkyBlue" at [11281,6564] damage=0.82
+ 3:59:58.828 <cleanup> Remove:"BomberJacket_SkyBlue" at [11281,6564] damage=0.82
+ 3:59:58.828   Items deleted: 2, of: 2
+ 3:59:59.156 <cleanup> Depleted:"Chainmail" at [10168,12079] damage=0.82
+ 3:59:59.156 <cleanup> Remove:"Chainmail" at [10168,12079] damage=0.82
+ 3:59:59.156 <cleanup> Depleted:"Rope" at [9140,14504] damage=0.38
+ 3:59:59.156 <cleanup> Remove:"Rope" at [9140,14504] damage=0.38
+ 3:59:59.156   Items deleted: 2, of: 2
+ 3:59:59.484 <cleanup> Depleted:"ChernarusMap" at [7736,12715] damage=0.77
+ 3:59:59.484 <cleanup> Remove:"ChernarusMap" at [7736,12715] damage=0.77
+ 3:59:59.484 <cleanup> Depleted:"KitchenTimer" at [8678,2433] damage=0.28
+ 3:59:59.484 <cleanup> Remove:"KitchenTimer" at [8678,2433] damage=0.28
+ 3:59:59.484 <cleanup> Depleted:"PressVest_Blue" at [8177,12704] damage=0.43
+ 3:59:59.484 <cleanup> Remove:"PressVest_Blue" at [8177,12704] damage=0.43
+ 3:59:59.484   Items deleted: 3, of: 3
+ 3:59:59.812 <cleanup> Depleted:"WomanSuit_DarkGrey" at [6748,2707] damage=0.82
+ 3:59:59.812 <cleanup> Remove:"WomanSuit_DarkGrey" at [6748,2707] damage=0.82
+ 3:59:59.812 <cleanup> Depleted:"BaseballCap_CMMG_Pink" at [6468,2657] damage=0.52
+ 3:59:59.812 <cleanup> Remove:"BaseballCap_CMMG_Pink" at [6468,2657] damage=0.52
+ 3:59:59.812   Items deleted: 2, of: 2
+ 4:00:00.140 <cleanup> Depleted:"QuiltedJacket_Grey" at [5659,3003] damage=0.26
+ 4:00:00.140 <cleanup> Remove:"QuiltedJacket_Grey" at [5659,3003] damage=0.26
+ 4:00:00.140   Items deleted: 1, of: 1
+ 4:00:00.468 <cleanup> Depleted:"HockeyHelmet_Black" at [4798,6826] damage=0.20
+ 4:00:00.468 <cleanup> Remove:"HockeyHelmet_Black" at [4798,6826] damage=0.20
+ 4:00:00.468 <cleanup> Depleted:"UKAssVest_Black" at [3991,11800] damage=0.75
+ 4:00:00.468 <cleanup> Remove:"UKAssVest_Black" at [3991,11800] damage=0.75
+ 4:00:00.468   Items deleted: 2, of: 2
+ 4:00:00.796 <cleanup> Depleted:"Broom" at [3640,8609] damage=0.30
+ 4:00:00.796 <cleanup> Remove:"Broom" at [3640,8609] damage=0.30
+ 4:00:00.796 <cleanup> Depleted:"Machete" at [2820,5368] damage=0.78
+ 4:00:00.796 <cleanup> Remove:"Machete" at [2820,5368] damage=0.78
+ 4:00:00.796 <cleanup> Depleted:"FirstAidKit" at [2752,5199] damage=0.59
+ 4:00:00.796 <cleanup> Remove:"FirstAidKit" at [2752,5199] damage=0.59
+ 4:00:00.796 <cleanup> Depleted:"FryingPan" at [2620,5204] damage=0.12
+ 4:00:00.796 <cleanup> Remove:"FryingPan" at [2620,5204] damage=0.12
+ 4:00:00.796 <cleanup> Depleted:"ParamedicJacket_Green" at [3455,13161] damage=0.40
+ 4:00:00.796 <cleanup> Remove:"ParamedicJacket_Green" at [3455,13161] damage=0.40
+ 4:00:00.796   Items deleted: 5, of: 5
+ 4:00:01.124 <cleanup> Depleted:"NailBox" at [2518,5299] damage=0.63
+ 4:00:01.124 <cleanup> Remove:"NailBox" at [2518,5299] damage=0.63
+ 4:00:01.124   Items deleted: 1, of: 1
+ 4:00:01.452 <cleanup> Remove:"ZmbM_Jacket_stripes" at [309,4658] damage=0.00 DE="InfectedVillage"
+ 4:00:01.452 <cleanup> Remove:"ZmbF_VillagerOld_Green" at [341,4639] damage=0.00 DE="InfectedVillage"
+ 4:00:01.452 <cleanup> Remove:"ZmbM_JoggerSkinny_Blue" at [343,4597] damage=0.00 DE="InfectedVillage"
+ 4:00:01.452 <cleanup> Remove:"ZmbF_VillagerOld_Green" at [323,4594] damage=0.00 DE="InfectedVillage"
+ 4:00:01.452 <cleanup> Remove:"ZmbM_Jacket_brown" at [317,4614] damage=0.00 DE="InfectedVillage"
+ 4:00:01.452 <cleanup> Remove:"ZmbM_FarmerFat_Brown" at [316,4621] damage=0.00 DE="InfectedVillage"
+ 4:00:01.452 <cleanup> Remove:"ZmbM_Jacket_brown" at [329,4621] damage=0.00 DE="InfectedVillage"
+ 4:00:01.452 <cleanup> Remove:"ZmbF_MilkMaidOld_Beige" at [297,4600] damage=0.00 DE="InfectedVillage"
+ 4:00:01.452 <cleanup> Ruined Lifetime:"Animal_UrsusArctos" at [269,4116] damage=1.00 DE="AnimalBear"
+ 4:00:01.452 <cleanup> Depleted:"ZmbM_PatrolNormal_Flat" at [2136,3329] damage=1.00 DE="InfectedArmy"
+ 4:00:01.452 <cleanup> Remove:"ZmbM_PatrolNormal_Flat" at [2136,3329] damage=1.00 DE="InfectedArmy"
+ 4:00:01.452 <cleanup> Depleted:"ZmbM_PatrolNormal_Flat" at [2141,3345] damage=1.00 DE="InfectedArmy"
+ 4:00:01.452 <cleanup> Remove:"ZmbM_PatrolNormal_Flat" at [2141,3345] damage=1.00 DE="InfectedArmy"
+ 4:00:01.452 <cleanup> Depleted:"MacrolepiotaMushroom" at [212,4867] damage=0.90
+ 4:00:01.452 <cleanup> Remove:"MacrolepiotaMushroom" at [212,4867] damage=0.90
+ 4:00:01.452   Items deleted: 11, of: 11
+ 4:00:07.170   Adding BearPelt at [268,4117]
+ 4:00:07.170   Adding BearPelt at [269,4116]
+ 4:00:07.170   Adding BearSteakMeat at [269,4116]
+ 4:00:07.170   Adding BearSteakMeat at [269,4116]
+ 4:00:07.170   Adding BearSteakMeat at [269,4116]
+ 4:00:07.170   Adding BearSteakMeat at [268,4117]
+ 4:00:07.170   Adding BearSteakMeat at [269,4117]
+ 4:00:07.170   Adding BearSteakMeat at [269,4117]
+ 4:00:07.170   Adding BearSteakMeat at [269,4117]
+ 4:00:07.170   Adding BearSteakMeat at [268,4117]
+ 4:00:07.170   Adding BearSteakMeat at [269,4116]
+ 4:00:07.170   Adding BearSteakMeat at [268,4116]
+ 4:00:07.170   Adding BearSteakMeat at [269,4116]
+ 4:00:07.170   Adding BearSteakMeat at [269,4117]
+ 4:00:07.170   Adding BearSteakMeat at [268,4117]
+ 4:00:07.185   Adding BearSteakMeat at [269,4116]
+ 4:00:07.185   Adding BearSteakMeat at [268,4116]
+ 4:00:07.185   Adding BearSteakMeat at [268,4117]
+ 4:00:07.185   Adding Lard at [269,4116]
+ 4:00:07.185   Adding Lard at [268,4117]
+ 4:00:07.185   Adding Guts at [269,4116]
+ 4:00:07.185   Adding Guts at [268,4116]
+ 4:00:07.185   Adding Guts at [269,4116]
+ 4:00:07.185   Adding Guts at [268,4116]
+ 4:00:07.185   Adding Bone at [268,4116]
+ 4:00:07.185   Adding Bone at [268,4116]
+ 4:00:07.185   Adding Bone at [268,4116]
+ 4:00:07.185   Adding Bone at [269,4117]
+ 4:00:07.185   Adding Bone at [268,4116]
+ 4:00:18.74 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] TomatoSeedsPack missing:5 [cnt:25, nom:30, min:25]
+ 4:00:18.74   Adding TomatoSeedsPack at [12963,14486]
+ 4:00:18.74   Adding TomatoSeedsPack at [9497,8902]
+ 4:00:18.74   Adding TomatoSeedsPack at [6253,12718]
+ 4:00:18.74   Adding TomatoSeedsPack at [3264,12961]
+ 4:00:18.74   Adding TomatoSeedsPack at [12134,13512]
+ 4:00:18.74   [CE][LootRespawner] (PRIDummy) :: TomatoSeedsPack respawned:5, tests:5 missing:0
+ 4:00:18.183 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] BeanieHat_Pink missing:4 [cnt:11, nom:15, min:11]
+ 4:00:18.183   Adding BeanieHat_Pink at [1225,11969]
+ 4:00:18.183   Adding BeanieHat_Pink at [5165,15044]
+ 4:00:18.183   Adding BeanieHat_Pink at [13858,2886]
+ 4:00:18.183   Adding BeanieHat_Pink at [10084,5535]
+ 4:00:18.183   [CE][LootRespawner] (PRIDummy) :: BeanieHat_Pink respawned:4, tests:4 missing:0
+ 4:00:23.442 ------------------------------------
+ 4:00:23.442   ***  CE Loop took 26.9 (sec)...
+ 4:00:23.442 players: 1, loot: 19926, infected: 98, animals: 159
+ 4:00:23.442 ------------------------------------
+ 4:00:27.270   Adding BearSteakMeat at [274,4112]
+ 4:00:27.598 <cleanup> Depleted:"Izh18Shotgun" at [13268,14809] damage=0.48
+ 4:00:27.598 <cleanup> Remove:"Izh18Shotgun" at [13268,14809] damage=0.48
+ 4:00:27.598 <cleanup> Depleted:"SlacksPants_LightGrey" at [13371,6610] damage=0.45
+ 4:00:27.598 <cleanup> Remove:"SlacksPants_LightGrey" at [13371,6610] damage=0.45
+ 4:00:27.598 <cleanup> Depleted:"JumpsuitPants_Blue" at [12873,10005] damage=0.71
+ 4:00:27.598 <cleanup> Remove:"JumpsuitPants_Blue" at [12873,10005] damage=0.71
+ 4:00:27.598   Items deleted: 3, of: 3
+ 4:00:27.926 <cleanup> Depleted:"Mag_CZ527_5rnd" at [12126,13905] damage=0.14
+ 4:00:27.926 <cleanup> Remove:"Mag_CZ527_5rnd" at [12126,13905] damage=0.14
+ 4:00:27.926 <cleanup> Depleted:"SkateHelmet_Red" at [12030,7278] damage=0.33
+ 4:00:27.926 <cleanup> Remove:"SkateHelmet_Red" at [12030,7278] damage=0.33
+ 4:00:27.926 <cleanup> Depleted:"Ammo_FlareRed" at [12541,3360] damage=0.50
+ 4:00:27.926 <cleanup> Remove:"Ammo_FlareRed" at [12541,3360] damage=0.50
+ 4:00:27.926 <cleanup> Depleted:"Ammo_12gaSlug" at [11947,9304] damage=0.70
+ 4:00:27.926 <cleanup> Remove:"Ammo_12gaSlug" at [11947,9304] damage=0.70
+ 4:00:27.926   Items deleted: 4, of: 4
+ 4:00:28.82   Adding BearSteakMeat at [274,4112]
+ 4:00:28.254 <cleanup> Depleted:"MeatTenderizer" at [10587,8020] damage=0.06
+ 4:00:28.254 <cleanup> Remove:"MeatTenderizer" at [10587,8020] damage=0.06
+ 4:00:28.254 <cleanup> Depleted:"Breeches_Green" at [11163,14425] damage=0.78
+ 4:00:28.254 <cleanup> Remove:"Breeches_Green" at [11163,14425] damage=0.78
+ 4:00:28.254 <cleanup> Depleted:"WomanSuit_Blue" at [10469,2230] damage=0.40
+ 4:00:28.254 <cleanup> Remove:"WomanSuit_Blue" at [10469,2230] damage=0.40
+ 4:00:28.254 <cleanup> Depleted:"ChildBag_Blue" at [11233,6597] damage=0.33
+ 4:00:28.254 <cleanup> Remove:"ChildBag_Blue" at [11233,6597] damage=0.33
+ 4:00:28.254 <cleanup> Depleted:"OrienteeringCompass" at [11484,6595] damage=0.67
+ 4:00:28.254 <cleanup> Remove:"OrienteeringCompass" at [11484,6595] damage=0.67
+ 4:00:28.254   Items deleted: 5, of: 5
+ 4:00:28.582 <cleanup> Depleted:"Shovel" at [9992,10380] damage=0.37
+ 4:00:28.582 <cleanup> Remove:"Shovel" at [9992,10380] damage=0.37
+ 4:00:28.582   Items deleted: 1, of: 1
+ 4:00:28.879   Adding BearSteakMeat at [274,4112]
+ 4:00:29.238 <cleanup> Depleted:"CanvasPants_Beige" at [6578,6257] damage=0.03
+ 4:00:29.238 <cleanup> Remove:"CanvasPants_Beige" at [6578,6257] damage=0.03
+ 4:00:29.238   Items deleted: 1, of: 1
+ 4:00:29.566 <cleanup> Depleted:"WoolCoat_Beige" at [5930,10349] damage=0.82
+ 4:00:29.566 <cleanup> Remove:"WoolCoat_Beige" at [5930,10349] damage=0.82
+ 4:00:29.566 <cleanup> Depleted:"SmallGasCanister" at [6395,2910] damage=0.00
+ 4:00:29.566 <cleanup> Remove:"SmallGasCanister" at [6395,2910] damage=0.00
+ 4:00:29.566   Items deleted: 2, of: 2
+ 4:00:29.613   Adding BearSteakMeat at [274,4112]
+ 4:00:29.896 <cleanup> Depleted:"HeadlightH7_Box" at [4613,4365] damage=0.11
+ 4:00:29.896 <cleanup> Remove:"HeadlightH7_Box" at [4613,4365] damage=0.11
+ 4:00:29.896 <cleanup> Depleted:"CanvasPantsMidi_Blue" at [4529,2615] damage=0.58
+ 4:00:29.896 <cleanup> Remove:"CanvasPantsMidi_Blue" at [4529,2615] damage=0.58
+ 4:00:29.896 <cleanup> Depleted:"M4_T3NRDSOptic" at [4728,10547] damage=0.81
+ 4:00:29.896 <cleanup> Remove:"M4_T3NRDSOptic" at [4728,10547] damage=0.81
+ 4:00:29.896 <cleanup> Depleted:"Mag_Saiga_8Rnd" at [4577,10532] damage=0.60
+ 4:00:29.896 <cleanup> Remove:"Mag_Saiga_8Rnd" at [4577,10532] damage=0.60
+ 4:00:29.896 <cleanup> Depleted:"Ammo_762x39" at [4438,2371] damage=0.00
+ 4:00:29.896 <cleanup> Remove:"Ammo_762x39" at [4438,2371] damage=0.00
+ 4:00:29.896 <cleanup> Depleted:"Izh18" at [4494,6401] damage=0.82
+ 4:00:29.896 <cleanup> Remove:"Izh18" at [4494,6401] damage=0.82
+ 4:00:29.896 <cleanup> Depleted:"Mag_MP5_30Rnd" at [5034,9846] damage=0.03
+ 4:00:29.896 <cleanup> Remove:"Mag_MP5_30Rnd" at [5034,9846] damage=0.03
+ 4:00:29.896 <cleanup> Depleted:"BDUJacket" at [4575,10557] damage=0.80
+ 4:00:29.896 <cleanup> Remove:"BDUJacket" at [4575,10557] damage=0.80
+ 4:00:29.896   Items deleted: 8, of: 8
+ 4:00:30.224 <cleanup> Depleted:"XmasLights" at [3660,8920] damage=0.47
+ 4:00:30.224 <cleanup> Remove:"XmasLights" at [3660,8920] damage=0.47
+ 4:00:30.224   Items deleted: 1, of: 1
+ 4:00:30.348   Adding BearSteakMeat at [274,4112]
+ 4:00:30.552 <cleanup> Depleted:"BomberJacket_Black" at [2443,10979] damage=0.22
+ 4:00:30.552 <cleanup> Remove:"BomberJacket_Black" at [2443,10979] damage=0.22
+ 4:00:30.552   Items deleted: 1, of: 1
+ 4:00:30.880 <cleanup> Depleted:"StaticObj_Misc_SupplyBox2_DE" at [4426,10227] damage=0.00 DE="StaticAirplaneCrate" id=1094
+ 4:00:30.880 <cleanup> Remove:"StaticObj_Misc_SupplyBox2_DE" at [4426,10227] damage=0.00 DE="StaticAirplaneCrate" id=1094
+ 4:00:30.880 <cleanup> Depleted:"StaticObj_Misc_SupplyBox3_DE" at [4424,10228] damage=0.00 DE="StaticAirplaneCrate" id=1096
+ 4:00:30.880 <cleanup> Remove:"StaticObj_Misc_SupplyBox3_DE" at [4424,10228] damage=0.00 DE="StaticAirplaneCrate" id=1096
+ 4:00:30.880 <cleanup> Depleted:"StaticObj_Misc_SupplyBox3_DE" at [4716,10332] damage=0.00 DE="StaticAirplaneCrate" id=1098
+ 4:00:30.880 <cleanup> Remove:"StaticObj_Misc_SupplyBox3_DE" at [4716,10332] damage=0.00 DE="StaticAirplaneCrate" id=1098
+ 4:00:30.880 <cleanup> Depleted:"StaticObj_Misc_SupplyBox2_DE" at [4711,10333] damage=0.00 DE="StaticAirplaneCrate" id=1090
+ 4:00:30.880 <cleanup> Remove:"StaticObj_Misc_SupplyBox2_DE" at [4711,10333] damage=0.00 DE="StaticAirplaneCrate" id=1090
+ 4:00:30.880 <cleanup> Depleted:"StaticObj_Misc_SupplyBox2_DE" at [4411,10243] damage=0.00 DE="StaticAirplaneCrate" id=1092
+ 4:00:30.880 <cleanup> Remove:"StaticObj_Misc_SupplyBox2_DE" at [4411,10243] damage=0.00 DE="StaticAirplaneCrate" id=1092
+ 4:00:30.880 <cleanup> Depleted:"StaticObj_Misc_SupplyBox1_DE" at [4420,10240] damage=0.00 DE="StaticAirplaneCrate" id=1097
+ 4:00:30.880 <cleanup> Remove:"StaticObj_Misc_SupplyBox1_DE" at [4420,10240] damage=0.00 DE="StaticAirplaneCrate" id=1097
+ 4:00:30.880 <cleanup> Depleted:"StaticObj_Misc_SupplyBox1_DE" at [4407,10241] damage=0.00 DE="StaticAirplaneCrate" id=1095
+ 4:00:30.880 <cleanup> Remove:"StaticObj_Misc_SupplyBox1_DE" at [4407,10241] damage=0.00 DE="StaticAirplaneCrate" id=1095
+ 4:00:30.880 <cleanup> Depleted:"StaticObj_Misc_SupplyBox1_DE" at [4720,10318] damage=0.00 DE="StaticAirplaneCrate" id=1091
+ 4:00:30.880 <cleanup> Remove:"StaticObj_Misc_SupplyBox1_DE" at [4720,10318] damage=0.00 DE="StaticAirplaneCrate" id=1091
+ 4:00:30.880 <cleanup> Depleted:"StaticObj_Misc_SupplyBox2_DE" at [4427,10226] damage=0.00 DE="StaticAirplaneCrate" id=1093
+ 4:00:30.880 <cleanup> Remove:"StaticObj_Misc_SupplyBox2_DE" at [4427,10226] damage=0.00 DE="StaticAirplaneCrate" id=1093
+ 4:00:30.880 <cleanup> Depleted:"BoletusMushroom" at [199,4898] damage=0.90
+ 4:00:30.880 <cleanup> Remove:"BoletusMushroom" at [199,4898] damage=0.90
+ 4:00:30.880 <cleanup> Depleted:"Whetstone" at [1150,12312] damage=0.70
+ 4:00:30.880 <cleanup> Remove:"Whetstone" at [1150,12312] damage=0.70
+ 4:00:30.880   Items deleted: 11, of: 11
+ 4:00:30.880   Items batched for deletion: 4, of: 18808
+ 4:00:30.895   Items batched for deletion: 4, of: 18808
+ 4:00:30.895   Items batched for deletion: 4, of: 18808
+ 4:00:30.895   Items batched for deletion: 4, of: 18808
+ 4:00:30.911   Items batched for deletion: 4, of: 18808
+ 4:00:30.911   Items batched for deletion: 4, of: 18808
+ 4:00:30.911   Items batched for deletion: 4, of: 18808
+ 4:00:30.911   Items batched for deletion: 4, of: 18808
+ 4:00:30.926   Items batched for deletion: 4, of: 18808
+ 4:00:31.67   Adding BearSteakMeat at [274,4112]
+ 4:00:31.895   Adding Lockpick at [274,4112]
+ 4:00:37.628   Adding BearSteakMeat at [274,4112]
+ 4:00:38.472   Adding BearSteakMeat at [274,4112]
+ 4:00:39.300   Adding BearSteakMeat at [274,4112]
+ 4:00:40.143   Adding BearSteakMeat at [274,4112]
+ 4:00:40.909   Adding BearSteakMeat at [274,4112]
+ 4:00:41.705   Adding BearSteakMeat at [274,4112]
+ 4:00:43.814   Adding BearSteakMeat at [274,4112]
+ 4:00:45.689 Reloading Userlist ban.txt
+ 4:00:47.501 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] ParamedicJacket_Green missing:4 [cnt:3, nom:7, min:3]
+ 4:00:47.501   Adding ParamedicJacket_Green at [3760,9013]
+ 4:00:47.501   Adding ParamedicJacket_Green at [3462,13172]
+ 4:00:47.501   Adding ParamedicJacket_Green at [3646,14861]
+ 4:00:47.501   Adding ParamedicJacket_Green at [2744,5182]
+ 4:00:47.501   [CE][LootRespawner] (PRIDummy) :: ParamedicJacket_Green respawned:4, tests:4 missing:0
+ 4:00:47.610 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Chainmail missing:1 [cnt:1, nom:2, min:1]
+ 4:00:47.610   Adding Chainmail at [1429,9298]
+ 4:00:47.610   [CE][LootRespawner] (PRIDummy) :: Chainmail respawned:1, tests:1 missing:0
+ 4:00:52.281 [A2S] received data
+ 4:00:52.281 [A2S] A2S_INFO
+ 4:00:52.281 [A2S] received data
+ 4:00:52.281 [A2S] A2S_PLAYER
+ 4:00:52.281 [A2S] received data
+ 4:00:52.281 [A2S] A2S_RULES
+ 4:00:52.859 ------------------------------------
+ 4:00:52.859   ***  CE Loop took 26.9 (sec)...
+ 4:00:52.859 players: 1, loot: 19937, infected: 90, animals: 159
+ 4:00:52.859 ------------------------------------
+ 4:00:55.780 [A2S] received data
+ 4:00:55.780 [A2S] A2S_INFO
+ 4:00:55.780 [A2S] received data
+ 4:00:55.780 [A2S] A2S_PLAYER
+ 4:00:55.780 [A2S] received data
+ 4:00:55.780 [A2S] A2S_RULES
+ 4:00:57.342 <cleanup> Depleted:"Hatchback_02_Wheel" at [12100,9704] damage=0.30
+ 4:00:57.342 <cleanup> Remove:"Hatchback_02_Wheel" at [12100,9704] damage=0.30
+ 4:00:57.342 <cleanup> Depleted:"PoliceJacketOrel" at [12032,3622] damage=0.06
+ 4:00:57.342 <cleanup> Remove:"PoliceJacketOrel" at [12032,3622] damage=0.06
+ 4:00:57.342 <cleanup> Depleted:"SlacksPants_Khaki" at [12321,9714] damage=0.70
+ 4:00:57.342 <cleanup> Remove:"SlacksPants_Khaki" at [12321,9714] damage=0.70
+ 4:00:57.342 <cleanup> Depleted:"SalineBag" at [11898,12535] damage=0.67
+ 4:00:57.342 <cleanup> Remove:"SalineBag" at [11898,12535] damage=0.67
+ 4:00:57.342   Items deleted: 4, of: 4
+ 4:00:57.670 <cleanup> Depleted:"BoonieHat_Olive" at [11202,12274] damage=0.41
+ 4:00:57.670 <cleanup> Remove:"BoonieHat_Olive" at [11202,12274] damage=0.41
+ 4:00:57.670 <cleanup> Depleted:"Ammo_9x19" at [11475,14840] damage=0.30
+ 4:00:57.670 <cleanup> Remove:"Ammo_9x19" at [11475,14840] damage=0.30
+ 4:00:57.670 <cleanup> Depleted:"Ushanka_Blue" at [11225,5409] damage=0.70
+ 4:00:57.670 <cleanup> Remove:"Ushanka_Blue" at [11225,5409] damage=0.70
+ 4:00:57.670 <cleanup> Depleted:"Battery9V" at [11034,12515] damage=0.16
+ 4:00:57.670 <cleanup> Remove:"Battery9V" at [11034,12515] damage=0.16
+ 4:00:57.670   Items deleted: 4, of: 4
+ 4:00:58.327 <cleanup> Depleted:"Jeans_Black" at [7687,12714] damage=0.52
+ 4:00:58.327 <cleanup> Remove:"Jeans_Black" at [7687,12714] damage=0.52
+ 4:00:58.327   Items deleted: 1, of: 1
+ 4:00:58.655 <cleanup> Depleted:"Rope" at [6910,3532] damage=0.82
+ 4:00:58.655 <cleanup> Remove:"Rope" at [6910,3532] damage=0.82
+ 4:00:58.655 <cleanup> Depleted:"Pitchfork" at [7406,12657] damage=0.53
+ 4:00:58.655 <cleanup> Remove:"Pitchfork" at [7406,12657] damage=0.53
+ 4:00:58.655   Items deleted: 2, of: 2
+ 4:00:58.983 <cleanup> Depleted:"HikingBoots_Black" at [5927,13490] damage=0.82
+ 4:00:58.983 <cleanup> Remove:"HikingBoots_Black" at [5927,13490] damage=0.82
+ 4:00:58.983 <cleanup> Depleted:"Ammo_762x54" at [6027,10338] damage=0.30
+ 4:00:58.983 <cleanup> Remove:"Ammo_762x54" at [6027,10338] damage=0.30
+ 4:00:58.983   Items deleted: 2, of: 2
+ 4:00:59.311 <cleanup> Remove:"AmmoBox_762x39Tracer_20Rnd" at [4711,10333] damage=0.82 DE="StaticAirplaneCrate" id=1090
+ 4:00:59.311 <cleanup> Remove:"M68Optic" at [4411,10244] damage=0.05 DE="StaticAirplaneCrate" id=1092
+ 4:00:59.311 <cleanup> Remove:"MedicalScrubsHat_Blue" at [4425,10229] damage=0.44 DE="StaticAirplaneCrate" id=1096
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Cola" at [4720,10319] damage=0.22 DE="StaticAirplaneCrate" id=1091
+ 4:00:59.311 <cleanup> Remove:"Mag_VSS_10Rnd" at [4428,10226] damage=0.82 DE="StaticAirplaneCrate" id=1093
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Kvass" at [4720,10318] damage=0.36 DE="StaticAirplaneCrate" id=1091
+ 4:00:59.311 <cleanup> Remove:"Canteen" at [4420,10239] damage=0.03 DE="StaticAirplaneCrate" id=1097
+ 4:00:59.311 <cleanup> Remove:"M4_MPHndgrd" at [4712,10333] damage=0.49 DE="StaticAirplaneCrate" id=1090
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Kvass" at [4419,10240] damage=0.48 DE="StaticAirplaneCrate" id=1097
+ 4:00:59.311 <cleanup> Remove:"Fal_OeBttstck" at [4711,10332] damage=0.82 DE="StaticAirplaneCrate" id=1090
+ 4:00:59.311 <cleanup> Remove:"Mag_MP5_15Rnd" at [4411,10243] damage=0.30 DE="StaticAirplaneCrate" id=1092
+ 4:00:59.311 <cleanup> Remove:"Mag_Saiga_Drum20Rnd" at [4426,10226] damage=0.59 DE="StaticAirplaneCrate" id=1094
+ 4:00:59.311 <cleanup> Remove:"PP19" at [4426,10226] damage=0.82 DE="StaticAirplaneCrate" id=1093
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Spite" at [4718,10319] damage=0.14 DE="StaticAirplaneCrate" id=1091
+ 4:00:59.311 <cleanup> Remove:"NBCPantsYellow" at [4717,10331] damage=0.14 DE="StaticAirplaneCrate" id=1098
+ 4:00:59.311 <cleanup> Remove:"AmmoBox_45ACP_25rnd" at [4425,10226] damage=0.62 DE="StaticAirplaneCrate" id=1094
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Pipsi" at [4407,10241] damage=0.36 DE="StaticAirplaneCrate" id=1095
+ 4:00:59.311 <cleanup> Remove:"MP5K" at [4410,10243] damage=0.78 DE="StaticAirplaneCrate" id=1092
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Kvass" at [4408,10240] damage=0.55 DE="StaticAirplaneCrate" id=1095
+ 4:00:59.311 <cleanup> Remove:"NBCHoodYellow" at [4424,10228] damage=0.07 DE="StaticAirplaneCrate" id=1096
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Spite" at [4421,10240] damage=0.81 DE="StaticAirplaneCrate" id=1097
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Fronta" at [4721,10318] damage=0.39 DE="StaticAirplaneCrate" id=1091
+ 4:00:59.311 <cleanup> Remove:"AmmoBox_9x19_25rnd" at [4425,10227] damage=0.14 DE="StaticAirplaneCrate" id=1094
+ 4:00:59.311 <cleanup> Remove:"WaterBottle" at [4717,10332] damage=0.32 DE="StaticAirplaneCrate" id=1098
+ 4:00:59.311 <cleanup> Remove:"NioshFaceMask" at [4715,10333] damage=0.59 DE="StaticAirplaneCrate" id=1098
+ 4:00:59.311 <cleanup> Remove:"NBCBootsYellow" at [4424,10227] damage=0.19 DE="StaticAirplaneCrate" id=1096
+ 4:00:59.311 <cleanup> Remove:"Ammo_40mm_Smoke_White" at [4712,10332] damage=0.30 DE="StaticAirplaneCrate" id=1090
+ 4:00:59.311 <cleanup> Remove:"Mag_PP19_64Rnd" at [4427,10227] damage=0.44 DE="StaticAirplaneCrate" id=1094
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Pipsi" at [4420,10239] damage=0.40 DE="StaticAirplaneCrate" id=1097
+ 4:00:59.311 <cleanup> Remove:"MedicalScrubsHat_Blue" at [4716,10333] damage=0.26 DE="StaticAirplaneCrate" id=1098
+ 4:00:59.311 <cleanup> Remove:"NVGoggles" at [4428,10225] damage=0.32 DE="StaticAirplaneCrate" id=1093
+ 4:00:59.311 <cleanup> Remove:"NBCGlovesYellow" at [4425,10228] damage=0.01 DE="StaticAirplaneCrate" id=1096
+ 4:00:59.311 <cleanup> Remove:"Mag_STANAG_60Rnd" at [4427,10226] damage=0.42 DE="StaticAirplaneCrate" id=1093
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Fronta" at [4409,10241] damage=0.70 DE="StaticAirplaneCrate" id=1095
+ 4:00:59.311 <cleanup> Remove:"SodaCan_Cola" at [4407,10240] damage=0.61 DE="StaticAirplaneCrate" id=1095
+ 4:00:59.311 <cleanup> Remove:"AmmoBox_308WinTracer_20Rnd" at [4411,10243] damage=0.69 DE="StaticAirplaneCrate" id=1092
+ 4:00:59.311   Items deleted: 36, of: 36
+ 4:00:59.639 <cleanup> Depleted:"Ammo_12gaPellets" at [3507,4965] damage=0.70
+ 4:00:59.639 <cleanup> Remove:"Ammo_12gaPellets" at [3507,4965] damage=0.70
+ 4:00:59.639   Items deleted: 1, of: 1
+ 4:00:59.967 <cleanup> Depleted:"SkateHelmet_Gray" at [1493,9083] damage=0.29
+ 4:00:59.967 <cleanup> Remove:"SkateHelmet_Gray" at [1493,9083] damage=0.29
+ 4:00:59.967 <cleanup> Depleted:"CanOpener" at [1696,3869] damage=0.33
+ 4:00:59.967 <cleanup> Remove:"CanOpener" at [1696,3869] damage=0.33
+ 4:00:59.967   Items deleted: 2, of: 2
+ 4:01:16.916 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] WoolCoat_Beige missing:4 [cnt:10, nom:14, min:10]
+ 4:01:16.916   Adding WoolCoat_Beige at [5857,4721]
+ 4:01:16.916   Adding WoolCoat_Beige at [3611,2446]
+ 4:01:16.916   Adding WoolCoat_Beige at [922,8945]
+ 4:01:16.916   Adding WoolCoat_Beige at [5944,13604]
+ 4:01:16.916   [CE][LootRespawner] (PRIDummy) :: WoolCoat_Beige respawned:4, tests:4 missing:0
+ 4:01:17.25 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Mag_MP5_30Rnd missing:3 [cnt:6, nom:9, min:6]
+ 4:01:17.25   Adding Mag_MP5_30Rnd at [4577,10556]
+ 4:01:17.25   Adding Mag_MP5_30Rnd at [2539,5187]
+ 4:01:17.25   Adding Mag_MP5_30Rnd at [4453,9769]
+ 4:01:17.25   [CE][LootRespawner] (PRIDummy) :: Mag_MP5_30Rnd respawned:3, tests:3 missing:0
+ 4:01:17.135 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Mag_Saiga_8Rnd missing:3 [cnt:2, nom:5, min:2]
+ 4:01:17.135   Adding Mag_Saiga_8Rnd at [7894,14701]
+ 4:01:17.135   Adding Mag_Saiga_8Rnd at [7721,14853]
+ 4:01:17.135   Adding Mag_Saiga_8Rnd at [7831,14821]
+ 4:01:17.135   [CE][LootRespawner] (PRIDummy) :: Mag_Saiga_8Rnd respawned:3, tests:3 missing:0
+ 4:01:17.244 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] CanvasPantsMidi_Blue missing:2 [cnt:1, nom:3, min:1]
+ 4:01:17.244   Adding CanvasPantsMidi_Blue at [10040,10375]
+ 4:01:17.244   Adding CanvasPantsMidi_Blue at [9140,14484]
+ 4:01:17.244   [CE][LootRespawner] (PRIDummy) :: CanvasPantsMidi_Blue respawned:2, tests:2 missing:0
+ 4:01:19.540 [CE][Links] found 358 total links between groups, of 284
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 4:01:19.540   Adding ParamedicJacket_Green at [4427,10226]
+ 4:01:19.540   Adding NBCPantsYellow at [4428,10225]
+ 4:01:19.540   Adding MedicalScrubsHat_White at [4428,10225]
+ 4:01:19.540   Adding WaterBottle at [4428,10226]
+ 4:01:19.540 [CE][VehicleRespawner] (PRIAirplaneCrate) :: Respawning: "StaticAirplaneCrate"
+ 4:01:19.540 [CE][Links] found 364 total links between groups, of 285
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+ 4:01:19.540   Adding WaterBottle at [4712,10332]
+ 4:01:19.540   Adding SodaCan_Spite at [4714,10332]
+ 4:01:19.540   Adding SodaCan_Kvass at [4713,10332]
+ 4:01:19.540   Adding SodaCan_Fronta at [4714,10333]
+ 4:01:19.540 [CE][VehicleRespawner] (PRIAirplaneCrate) :: Respawning: "StaticAirplaneCrate"
+ 4:01:19.540 [CE][Links] found 382 total links between groups, of 286
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+ 4:01:19.540   Adding SurgicalGloves_White at [4410,10242]
+ 4:01:19.540   Adding SurgicalGloves_Blue at [4409,10241]
+ 4:01:19.540   Adding NBCGlovesYellow at [4410,10241]
+ 4:01:19.540   Adding MedicalScrubsHat_Blue at [4409,10241]
+ 4:01:19.540 [CE][VehicleRespawner] (PRIAirplaneCrate) :: Respawning: "StaticAirplaneCrate"
+ 4:01:19.540 [CE][Links] found 394 total links between groups, of 287
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 4, deloot: 2, containermaxsum: 4
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 4:01:19.540   Adding NBCHoodYellow at [4425,10227]
+ 4:01:19.540   Adding Thermometer at [4426,10227]
+ 4:01:19.540   Adding SurgicalGloves_White at [4425,10227]
+ 4:01:19.540   Adding SurgicalGloves_Blue at [4425,10227]
+ 4:01:19.540 [CE][VehicleRespawner] (PRIAirplaneCrate) :: Respawning: "StaticAirplaneCrate"
+ 4:01:19.540 [CE][Links] found 400 total links between groups, of 288
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 4:01:19.540 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+ 4:01:19.540   Adding MedicalScrubsHat_Blue at [4418,10225]
+ 4:01:19.556   Adding NBCGlovesYellow at [4418,10226]
+ 4:01:19.556   Adding ParamedicJacket_Green at [4418,10226]
+ 4:01:19.556   Adding MedicalScrubsHat_Green at [4417,10226]
+ 4:01:19.556 [CE][VehicleRespawner] (PRIAirplaneCrate) :: Respawning: "StaticAirplaneCrate"
+ 4:01:19.556 [CE][Links] found 420 total links between groups, of 289
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 4:01:19.556   Adding Mag_Saiga_Drum20Rnd at [4408,10243]
+ 4:01:19.556   Adding AmmoBox_9x39_20Rnd at [4410,10243]
+ 4:01:19.556   Adding MP5K at [4409,10243]
+ 4:01:19.556   Adding Mag_MP5_30Rnd at [4408,10242]
+ 4:01:19.556 [CE][VehicleRespawner] (PRIAirplaneCrate) :: Respawning: "StaticAirplaneCrate"
+ 4:01:19.556 [CE][Links] found 428 total links between groups, of 290
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+ 4:01:19.556   Adding Mag_STANAG_60Rnd at [4420,10243]
+ 4:01:19.556   Adding Mag_FAMAS_25Rnd at [4421,10242]
+ 4:01:19.556   Adding AmmoBox_45ACP_25rnd at [4419,10243]
+ 4:01:19.556   Adding AmmoBox_762x54Tracer_20Rnd at [4420,10244]
+ 4:01:19.556 [CE][VehicleRespawner] (PRIAirplaneCrate) :: Respawning: "StaticAirplaneCrate"
+ 4:01:19.556 [CE][Links] found 442 total links between groups, of 291
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+ 4:01:19.556   Adding WaterBottle at [4409,10241]
+ 4:01:19.556   Adding SodaCan_Kvass at [4408,10239]
+ 4:01:19.556   Adding SodaCan_Pipsi at [4410,10239]
+ 4:01:19.556   Adding SodaCan_Spite at [4408,10240]
+ 4:01:19.556 [CE][VehicleRespawner] (PRIAirplaneCrate) :: Respawning: "StaticAirplaneCrate"
+ 4:01:19.556 [CE][Links] found 446 total links between groups, of 292
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 4:01:19.556 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 4:01:19.556   Adding Fal_FoldingBttstck at [4413,10225]
+ 4:01:19.556   Adding Mag_MP5_30Rnd at [4412,10226]
+ 4:01:19.556   Adding AmmoBox_762x54Tracer_20Rnd at [4411,10225]
+ 4:01:19.556   Adding AK_PlasticHndgrd at [4412,10224]
+ 4:01:19.556 [CE][VehicleRespawner] (PRIAirplaneCrate) :: Respawning: "StaticAirplaneCrate"
+ 4:01:19.868 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 4:01:21.836   Adding BoletusMushroom at [279,4027]
+ 4:01:21.836   Adding BoletusMushroom at [194,4065]
+ 4:01:22.274 ------------------------------------
+ 4:01:22.274   ***  CE Loop took 26.9 (sec)...
+ 4:01:22.274 players: 1, loot: 19915, infected: 90, animals: 159
+ 4:01:22.274 ------------------------------------
+ 4:01:26.429 <cleanup> Depleted:"Wellies_Black" at [13743,14135] damage=0.30
+ 4:01:26.429 <cleanup> Remove:"Wellies_Black" at [13743,14135] damage=0.30
+ 4:01:26.429   Items deleted: 1, of: 1
+ 4:01:26.757 <cleanup> Depleted:"BomberJacket_Grey" at [12253,6286] damage=0.46
+ 4:01:26.757 <cleanup> Remove:"BomberJacket_Grey" at [12253,6286] damage=0.46
+ 4:01:26.757 <cleanup> Depleted:"BaseballCap_CMMG_Pink" at [11594,14117] damage=0.76
+ 4:01:26.757 <cleanup> Remove:"BaseballCap_CMMG_Pink" at [11594,14117] damage=0.76
+ 4:01:26.757 <cleanup> Depleted:"Derringer_Grey" at [12047,9069] damage=0.82
+ 4:01:26.757 <cleanup> Remove:"Derringer_Grey" at [12047,9069] damage=0.82
+ 4:01:26.757   Items deleted: 3, of: 3
+ 4:01:27.85 <cleanup> Depleted:"TShirt_White" at [10303,9832] damage=0.28
+ 4:01:27.85 <cleanup> Remove:"TShirt_White" at [10303,9832] damage=0.28
+ 4:01:27.85 <cleanup> Depleted:"Mp133Shotgun" at [11486,14480] damage=0.32
+ 4:01:27.85 <cleanup> Remove:"Mp133Shotgun" at [11486,14480] damage=0.32
+ 4:01:27.85   Items deleted: 2, of: 2
+ 4:01:27.413 <cleanup> Depleted:"MotoHelmet_Black" at [9310,13844] damage=0.00
+ 4:01:27.413 <cleanup> Remove:"MotoHelmet_Black" at [9310,13844] damage=0.00
+ 4:01:27.413   Items deleted: 1, of: 1
+ 4:01:28.397 <cleanup> Depleted:"Binoculars" at [6157,5686] damage=0.05
+ 4:01:28.397 <cleanup> Remove:"Binoculars" at [6157,5686] damage=0.05
+ 4:01:28.397 <cleanup> Depleted:"Raincoat_Orange" at [6110,7680] damage=0.55
+ 4:01:28.397 <cleanup> Remove:"Raincoat_Orange" at [6110,7680] damage=0.55
+ 4:01:28.397   Items deleted: 2, of: 2
+ 4:01:28.725 <cleanup> Depleted:"MilitaryBoots_Beige" at [4134,11060] damage=0.37
+ 4:01:28.725 <cleanup> Remove:"MilitaryBoots_Beige" at [4134,11060] damage=0.37
+ 4:01:28.725   Items deleted: 1, of: 1
+ 4:01:29.53 <cleanup> Depleted:"FlatCap_Blue" at [3698,13127] damage=0.68
+ 4:01:29.53 <cleanup> Remove:"FlatCap_Blue" at [3698,13127] damage=0.68
+ 4:01:29.53 <cleanup> Depleted:"Shirt_GreenCheck" at [2873,12427] damage=0.63
+ 4:01:29.53 <cleanup> Remove:"Shirt_GreenCheck" at [2873,12427] damage=0.63
+ 4:01:29.53   Items deleted: 2, of: 2
+ 4:01:29.710 <cleanup> Depleted:"SewingKit" at [1161,9972] damage=0.42
+ 4:01:29.710 <cleanup> Remove:"SewingKit" at [1161,9972] damage=0.42
+ 4:01:29.710 <cleanup> Depleted:"BoletusMushroom" at [197,4907] damage=0.60
+ 4:01:29.710 <cleanup> Remove:"BoletusMushroom" at [197,4907] damage=0.60
+ 4:01:29.710   Items deleted: 2, of: 2
+ 4:01:46.113 CHAR_DEBUG - SAVE
+ 4:01:46.113     player ExNKBTyMaHe1467 (dpnid = 57594721)
+ 4:01:46.113     Identity: playerID = 14 , charID = 14
+ 4:01:46.113     Person  : playerID = 14 , charID = 14
+ 4:01:46.113 Saved 1 players ...
+ 4:01:46.332 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Ammo_40mm_Smoke_White missing:7 [cnt:8, nom:15, min:8]
+ 4:01:46.332   Adding Ammo_40mm_Smoke_White at [7933,14629]
+ 4:01:46.332   Adding Ammo_40mm_Smoke_White at [10443,5963]
+ 4:01:46.332   Adding Ammo_40mm_Smoke_White at [9573,11824]
+ 4:01:46.332   Adding Ammo_40mm_Smoke_White at [10450,9146]
+ 4:01:46.332   Adding Ammo_40mm_Smoke_White at [4886,2476]
+ 4:01:46.332   Adding Ammo_40mm_Smoke_White at [10225,4004]
+ 4:01:46.332   Adding Ammo_40mm_Smoke_White at [10934,13407]
+ 4:01:46.332   [CE][LootRespawner] (PRIDummy) :: Ammo_40mm_Smoke_White respawned:7, tests:7 missing:0
+ 4:01:46.441 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] SodaCan_Kvass missing:4 [cnt:16, nom:20, min:16]
+ 4:01:46.441   Adding SodaCan_Kvass at [10532,9725]
+ 4:01:46.441   Adding SodaCan_Kvass at [2952,7706]
+ 4:01:46.441   Adding SodaCan_Kvass at [3313,14925]
+ 4:01:46.441   Adding SodaCan_Kvass at [8419,6628]
+ 4:01:46.441   [CE][LootRespawner] (PRIDummy) :: SodaCan_Kvass respawned:4, tests:4 missing:0
+ 4:01:46.551 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Mag_PP19_64Rnd missing:3 [cnt:9, nom:12, min:9]
+ 4:01:46.551   Adding Mag_PP19_64Rnd at [4211,11021]
+ 4:01:46.551   Adding Mag_PP19_64Rnd at [4733,10543]
+ 4:01:46.551   Adding Mag_PP19_64Rnd at [4202,11054]
+ 4:01:46.551   [CE][LootRespawner] (PRIDummy) :: Mag_PP19_64Rnd respawned:3, tests:3 missing:0
+ 4:01:51.690 ------------------------------------
+ 4:01:51.690   ***  CE Loop took 26.9 (sec)...
+ 4:01:51.690 players: 1, loot: 19964, infected: 90, animals: 159
+ 4:01:51.690 ------------------------------------
+ 4:01:55.846 <cleanup> Depleted:"HandSaw" at [12858,9684] damage=0.47
+ 4:01:55.846 <cleanup> Remove:"HandSaw" at [12858,9684] damage=0.47
+ 4:01:55.846   Items deleted: 1, of: 1
+ 4:01:56.174 <cleanup> Depleted:"WinterCoif_Blue" at [12229,3492] damage=0.36
+ 4:01:56.174 <cleanup> Remove:"WinterCoif_Blue" at [12229,3492] damage=0.36
+ 4:01:56.174   Items deleted: 1, of: 1
+ 4:01:56.502 <cleanup> Depleted:"KukriKnife" at [10783,12418] damage=0.42
+ 4:01:56.502 <cleanup> Remove:"KukriKnife" at [10783,12418] damage=0.42
+ 4:01:56.502 <cleanup> Depleted:"Jeans_Blue" at [11505,14652] damage=0.82
+ 4:01:56.502 <cleanup> Remove:"Jeans_Blue" at [11505,14652] damage=0.82
+ 4:01:56.502   Items deleted: 2, of: 2
+ 4:01:56.830 <cleanup> Depleted:"Flashlight" at [9508,8855] damage=0.82
+ 4:01:56.830 <cleanup> Remove:"Flashlight" at [9508,8855] damage=0.82
+ 4:01:56.830 <cleanup> Depleted:"MetalWire" at [10137,1902] damage=0.69
+ 4:01:56.830 <cleanup> Remove:"MetalWire" at [10137,1902] damage=0.69
+ 4:01:56.830 <cleanup> Depleted:"Matchbox" at [9123,3833] damage=0.67
+ 4:01:56.830 <cleanup> Remove:"Matchbox" at [9123,3833] damage=0.67
+ 4:01:56.830 <cleanup> Depleted:"MakarovIJ70" at [10112,1880] damage=0.42
+ 4:01:56.830 <cleanup> Remove:"MakarovIJ70" at [10112,1880] damage=0.42
+ 4:01:56.830   Items deleted: 4, of: 4
+ 4:01:57.158 <cleanup> Depleted:"DressShoes_Sunburst" at [8036,12800] damage=0.28
+ 4:01:57.158 <cleanup> Remove:"DressShoes_Sunburst" at [8036,12800] damage=0.28
+ 4:01:57.158   Items deleted: 1, of: 1
+ 4:01:57.486 <cleanup> Depleted:"Crowbar" at [7663,4899] damage=0.60
+ 4:01:57.486 <cleanup> Remove:"Crowbar" at [7663,4899] damage=0.60
+ 4:01:57.486   Items deleted: 1, of: 1
+ 4:01:57.814 <cleanup> Depleted:"Hoodie_Grey" at [6102,3360] damage=0.35
+ 4:01:57.814 <cleanup> Remove:"Hoodie_Grey" at [6102,3360] damage=0.35
+ 4:01:57.814 <cleanup> Depleted:"NBCHoodYellow" at [6292,2726] damage=0.35
+ 4:01:57.814 <cleanup> Remove:"NBCHoodYellow" at [6292,2726] damage=0.35
+ 4:01:57.814   Items deleted: 2, of: 2
+ 4:01:58.142 <cleanup> Depleted:"MeatTenderizer" at [5006,5589] damage=0.74
+ 4:01:58.142 <cleanup> Remove:"MeatTenderizer" at [5006,5589] damage=0.74
+ 4:01:58.142 <cleanup> Depleted:"ConstructionHelmet_Orange" at [4099,2201] damage=0.49
+ 4:01:58.142 <cleanup> Remove:"ConstructionHelmet_Orange" at [4099,2201] damage=0.49
+ 4:01:58.142 <cleanup> Depleted:"Rope" at [4401,4691] damage=0.82
+ 4:01:58.142 <cleanup> Remove:"Rope" at [4401,4691] damage=0.82
+ 4:01:58.142 <cleanup> Depleted:"Crowbar" at [4937,2440] damage=0.82
+ 4:01:58.142 <cleanup> Remove:"Crowbar" at [4937,2440] damage=0.82
+ 4:01:58.142   Items deleted: 4, of: 4
+ 4:01:58.470 <cleanup> Depleted:"Hatchback_02_Trunk_BlackRust" at [3598,13112] damage=0.82
+ 4:01:58.470 <cleanup> Remove:"Hatchback_02_Trunk_BlackRust" at [3598,13112] damage=0.82
+ 4:01:58.470 <cleanup> Depleted:"CanOpener" at [3086,13181] damage=0.51
+ 4:01:58.470 <cleanup> Remove:"CanOpener" at [3086,13181] damage=0.51
+ 4:01:58.470 <cleanup> Depleted:"SmallGasCanister" at [3173,5205] damage=0.82
+ 4:01:58.470 <cleanup> Remove:"SmallGasCanister" at [3173,5205] damage=0.82
+ 4:01:58.470 <cleanup> Depleted:"FlatCap_Red" at [2816,5281] damage=0.12
+ 4:01:58.470 <cleanup> Remove:"FlatCap_Red" at [2816,5281] damage=0.12
+ 4:01:58.470   Items deleted: 4, of: 4
+ 4:01:58.798 <cleanup> Depleted:"Shirt_PlaneBlack" at [2461,6387] damage=0.49
+ 4:01:58.798 <cleanup> Remove:"Shirt_PlaneBlack" at [2461,6387] damage=0.49
+ 4:01:58.798 <cleanup> Depleted:"Ammo_22" at [2260,11057] damage=0.70
+ 4:01:58.798 <cleanup> Remove:"Ammo_22" at [2260,11057] damage=0.70
+ 4:01:58.798   Items deleted: 2, of: 2
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [9858,4635] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [9858,4635] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [6416,7978] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [6416,7978] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [7118,14502] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [7118,14502] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Depleted:"Land_Wreck_offroad02_aban1_DE" at [3031,9975] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.126 <cleanup> Remove:"Land_Wreck_offroad02_aban1_DE" at [3031,9975] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Uaz_DE" at [9815,4687] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Uaz_DE" at [9815,4687] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [3002,9970] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [3002,9970] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [9815,4688] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [9815,4688] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Ural_DE" at [9853,4645] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Ural_DE" at [9853,4645] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"Land_wreck_truck01_aban2_green_DE" at [7046,14497] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"Land_wreck_truck01_aban2_green_DE" at [7046,14497] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Uaz_DE" at [6421,8002] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Uaz_DE" at [6421,8002] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [7040,14481] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [7040,14481] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [7054,14478] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [7054,14478] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Ruined Lifetime:"ZmbM_SoldierNormal" at [2148,3316] damage=1.00 DE="InfectedArmy"
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [9834,4668] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [9834,4668] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [6422,8015] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [6422,8015] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Ruined Lifetime:"ZmbM_usSoldier_normal_Woodland" at [2192,3338] damage=1.00 DE="InfectedArmy"
+ 4:01:59.126 <cleanup> Depleted:"Land_wreck_truck01_aban1_green_DE" at [9834,4667] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"Land_wreck_truck01_aban1_green_DE" at [9834,4667] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"Land_wreck_truck01_aban2_green_DE" at [9844,4659] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"Land_wreck_truck01_aban2_green_DE" at [9844,4659] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Outside world:"Animal_CervusElaphusF" at [-4381,23791] damage=0.00 DE="AnimalDeer"
+ 4:01:59.126 <cleanup> Remove:"Animal_CervusElaphusF" at [-4381,23791] damage=0.00 DE="AnimalDeer"
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [7060,14460] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [7060,14460] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [336,3041] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [6413,7993] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [6413,7993] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_BRDM_DE" at [6427,8027] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_BRDM_DE" at [6427,8027] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [6426,8028] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [6426,8028] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Depleted:"Land_Wreck_offroad02_aban1_DE" at [6416,7977] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Remove:"Land_Wreck_offroad02_aban1_DE" at [6416,7977] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Ural_DE" at [6421,8014] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Ural_DE" at [6421,8014] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_BMP2_DE" at [6411,7993] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_BMP2_DE" at [6411,7993] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_BRDM_DE" at [332,3061] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_BMP1_NoPlacement_DE" at [3011,9971] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_BMP1_NoPlacement_DE" at [3011,9971] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Uaz_DE" at [7049,14490] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Uaz_DE" at [7049,14490] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"Land_Wreck_V3S_DE" at [9823,4678] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"Land_Wreck_V3S_DE" at [9823,4678] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [338,3031] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Outside world:"Animal_CervusElaphus" at [-3948,22947] damage=0.00 DE="AnimalDeer"
+ 4:01:59.126 <cleanup> Remove:"Animal_CervusElaphus" at [-3948,22947] damage=0.00 DE="AnimalDeer"
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [3009,9972] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [3009,9972] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_T72_Chassis_DE" at [7049,14461] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_T72_Chassis_DE" at [7049,14461] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [327,3038] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [7058,14493] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [7058,14493] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [334,3014] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [7070,14488] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [7070,14488] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [332,3060] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [9824,4678] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [9824,4678] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [6421,8003] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [6421,8003] damage=0.00 DE="StaticMilitaryConvoy" id=1101
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Uaz_DE" at [326,3038] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Depleted:"Land_wreck_truck01_aban1_green_DE" at [7058,14493] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"Land_wreck_truck01_aban1_green_DE" at [7058,14493] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_BMP2_DE" at [7028,14488] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_BMP2_DE" at [7028,14488] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_BMP1_NoPlacement_DE" at [7099,14511] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_BMP1_NoPlacement_DE" at [7099,14511] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 Removing assigned zone of spawner SECArmy
+ 4:01:59.126 <cleanup> Outside world:"Animal_CervusElaphusF" at [-4119,23005] damage=0.00 DE="AnimalDeer"
+ 4:01:59.126 <cleanup> Remove:"Animal_CervusElaphusF" at [-4119,23005] damage=0.00 DE="AnimalDeer"
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Ural_DE" at [335,3042] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Depleted:"Land_wreck_truck01_aban1_green_DE" at [338,3020] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [338,3020] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [9853,4645] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [9853,4645] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Depleted:"Land_wreck_truck01_aban2_green_DE" at [334,3014] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [7061,14487] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [7061,14487] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [9844,4658] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [9844,4658] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.126 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [3031,9975] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.126 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [3031,9975] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.142 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [7114,14506] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.142 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [7114,14506] damage=0.00 DE="StaticMilitaryConvoy" id=1100
+ 4:01:59.142 <cleanup> Depleted:"StaticObj_Wreck_Decal_Small2_DE" at [3026,9984] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.142 <cleanup> Remove:"StaticObj_Wreck_Decal_Small2_DE" at [3026,9984] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.142 <cleanup> Depleted:"StaticObj_Wreck_Ural_DE" at [3027,9984] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.142 <cleanup> Remove:"StaticObj_Wreck_Ural_DE" at [3027,9984] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.142 Removing assigned zone of spawner SECArmy
+ 4:01:59.142 <cleanup> Depleted:"Land_Wreck_offroad02_aban2_DE" at [9857,4635] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.142 <cleanup> Remove:"Land_Wreck_offroad02_aban2_DE" at [9857,4635] damage=0.00 DE="StaticMilitaryConvoy" id=1099
+ 4:01:59.142 Removing assigned zone of spawner SECArmy
+ 4:01:59.142 <cleanup> Depleted:"StaticObj_Wreck_BMP2_DE" at [3048,9987] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.142 <cleanup> Remove:"StaticObj_Wreck_BMP2_DE" at [3048,9987] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:01:59.142 Removing assigned zone of spawner SECArmy
+ 4:01:59.142 <cleanup> Depleted:"Land_Wreck_V3S_DE" at [337,3033] damage=0.00 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"AliceBag_Green" at [331,3062] damage=0.29 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"JungleBoots_Green" at [334,3040] damage=0.82 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"MacrolepiotaMushroom" at [338,4905] damage=0.60
+ 4:01:59.142 <cleanup> Remove:"MacrolepiotaMushroom" at [338,4905] damage=0.60
+ 4:01:59.142 <cleanup> Depleted:"TortillaBag" at [325,3037] damage=0.34 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"KashtanOptic" at [334,3015] damage=0.07 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"GhillieTop_Mossy" at [328,3039] damage=0.40 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"HighCapacityVest_Olive" at [338,3023] damage=0.10 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"Mag_Saiga_Drum20Rnd" at [335,3042] damage=0.82 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"GhillieHood_Mossy" at [335,3017] damage=0.82 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"CargoPants_Blue" at [1261,6375] damage=0.79
+ 4:01:59.142 <cleanup> Remove:"CargoPants_Blue" at [1261,6375] damage=0.79
+ 4:01:59.142 <cleanup> Depleted:"BoonieHat_NavyBlue" at [336,3022] damage=0.06 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"BalaclavaMask_Green" at [336,3035] damage=0.14 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"GhillieBushrag_Mossy" at [339,3035] damage=0.18 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142 <cleanup> Depleted:"AmmoBox_545x39_20Rnd" at [334,3059] damage=0.04 DE="StaticMilitaryConvoy" id=1102
+ 4:01:59.142   Items deleted: 49, of: 73
+ 4:01:59.142   Items batched for deletion: 8, of: 18747
+ 4:01:59.142   Items batched for deletion: 12, of: 18747
+ 4:01:59.157   Items batched for deletion: 8, of: 18747
+ 4:01:59.157   Items batched for deletion: 8, of: 18747
+ 4:01:59.157   Items batched for deletion: 13, of: 18747
+ 4:01:59.157   Items batched for deletion: 8, of: 18747
+ 4:01:59.157   Items batched for deletion: 12, of: 18747
+ 4:01:59.157   Items batched for deletion: 13, of: 18747
+ 4:01:59.157   Items batched for deletion: 12, of: 18747
+ 4:01:59.173   Items batched for deletion: 13, of: 18747
+ 4:01:59.173   Items batched for deletion: 13, of: 18747
+ 4:01:59.173   Items batched for deletion: 13, of: 18747
+ 4:01:59.173   Items batched for deletion: 10, of: 18747
+ 4:01:59.173   Items batched for deletion: 12, of: 18747
+ 4:01:59.188   Items batched for deletion: 13, of: 18747
+ 4:01:59.188   Items batched for deletion: 13, of: 18747
+ 4:01:59.188   Items batched for deletion: 13, of: 18747
+ 4:01:59.188   Items batched for deletion: 8, of: 18747
+ 4:01:59.188   Items batched for deletion: 12, of: 18747
+ 4:01:59.188   Items batched for deletion: 13, of: 18747
+ 4:01:59.204   Items batched for deletion: 8, of: 18747
+ 4:01:59.204   Items batched for deletion: 10, of: 18747
+ 4:01:59.204   Items batched for deletion: 10, of: 18747
+ 4:01:59.204   Items batched for deletion: 10, of: 18747
+ 4:01:59.204   Items batched for deletion: 10, of: 18747
+ 4:01:59.204   Items batched for deletion: 10, of: 18747
+ 4:01:59.220   Items batched for deletion: 10, of: 18747
+ 4:01:59.220   Items batched for deletion: 13, of: 18747
+ 4:01:59.220   Items batched for deletion: 12, of: 18747
+ 4:01:59.220   Items batched for deletion: 12, of: 18747
+ 4:01:59.220   Items batched for deletion: 10, of: 18747
+ 4:01:59.220   Items batched for deletion: 12, of: 18747
+ 4:01:59.235   Items batched for deletion: 13, of: 18747
+ 4:01:59.235   Items batched for deletion: 13, of: 18747
+ 4:01:59.235   Items batched for deletion: 10, of: 18747
+ 4:01:59.235   Items batched for deletion: 13, of: 18747
+ 4:01:59.235   Items batched for deletion: 12, of: 18747
+ 4:01:59.235   Items batched for deletion: 12, of: 18747
+ 4:01:59.235   Items batched for deletion: 8, of: 18747
+ 4:01:59.251   Items batched for deletion: 12, of: 18747
+ 4:01:59.251   Items batched for deletion: 8, of: 18747
+ 4:01:59.251   Items batched for deletion: 13, of: 18747
+ 4:01:59.251   Items batched for deletion: 10, of: 18747
+ 4:01:59.251   Items batched for deletion: 12, of: 18747
+ 4:02:15.778 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] FlatCap_Blue missing:6 [cnt:19, nom:25, min:19]
+ 4:02:15.778   Adding FlatCap_Blue at [6468,2655]
+ 4:02:15.778   Adding FlatCap_Blue at [2817,5283]
+ 4:02:15.778   Adding FlatCap_Blue at [10786,12413]
+ 4:02:15.778   Adding FlatCap_Blue at [11596,14117]
+ 4:02:15.778   Adding FlatCap_Blue at [11201,12274]
+ 4:02:15.778   Adding FlatCap_Blue at [6744,2709]
+ 4:02:15.778   [CE][LootRespawner] (PRIDummy) :: FlatCap_Blue respawned:6, tests:6 missing:0
+ 4:02:15.888 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Derringer_Grey missing:5 [cnt:15, nom:20, min:15]
+ 4:02:15.888   Adding Derringer_Grey at [14070,13211]
+ 4:02:15.888   Adding Derringer_Grey at [6634,2310]
+ 4:02:15.888   Adding Derringer_Grey at [9585,6816]
+ 4:02:15.888   Adding Derringer_Grey at [10647,8039]
+ 4:02:15.888   Adding Derringer_Grey at [6512,2441]
+ 4:02:15.888   [CE][LootRespawner] (PRIDummy) :: Derringer_Grey respawned:5, tests:5 missing:0
+ 4:02:15.997 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] MotoHelmet_Black missing:5 [cnt:10, nom:15, min:10]
+ 4:02:15.997   Adding MotoHelmet_Black at [8161,12674]
+ 4:02:15.997   Adding MotoHelmet_Black at [3084,12644]
+ 4:02:15.997   Adding MotoHelmet_Black at [6626,2683]
+ 4:02:15.997   Adding MotoHelmet_Black at [10742,14298]
+ 4:02:15.997   Adding MotoHelmet_Black at [8114,12636]
+ 4:02:15.997   [CE][LootRespawner] (PRIDummy) :: MotoHelmet_Black respawned:5, tests:5 missing:0
+ 4:02:16.106 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] TShirt_White missing:2 [cnt:1, nom:3, min:1]
+ 4:02:16.106   Adding TShirt_White at [11333,15246]
+ 4:02:16.106   Adding TShirt_White at [12959,14467]
+ 4:02:16.106   [CE][LootRespawner] (PRIDummy) :: TShirt_White respawned:2, tests:2 missing:0
+ 4:02:20.481 [A2S] received data
+ 4:02:20.481 [A2S] A2S_INFO
+ 4:02:20.481 [A2S] received data
+ 4:02:20.481 [A2S] A2S_PLAYER
+ 4:02:20.481 [A2S] received data
+ 4:02:20.481 [A2S] A2S_RULES
+ 4:02:21.121 ------------------------------------
+ 4:02:21.121   ***  CE Loop took 26.9 (sec)...
+ 4:02:21.121 players: 1, loot: 19962, infected: 90, animals: 162
+ 4:02:21.121 ------------------------------------
+ 4:02:25.605 <cleanup> Depleted:"Bandana_Greenpattern" at [12077,13700] damage=0.61
+ 4:02:25.605 <cleanup> Remove:"Bandana_Greenpattern" at [12077,13700] damage=0.61
+ 4:02:25.605 <cleanup> Depleted:"KitchenKnife" at [11530,14574] damage=0.82
+ 4:02:25.605 <cleanup> Remove:"KitchenKnife" at [11530,14574] damage=0.82
+ 4:02:25.605 <cleanup> Depleted:"Izh18" at [12624,9507] damage=0.06
+ 4:02:25.605 <cleanup> Remove:"Izh18" at [12624,9507] damage=0.06
+ 4:02:25.605   Items deleted: 3, of: 3
+ 4:02:25.933 <cleanup> Depleted:"HikingBoots_Brown" at [10619,2358] damage=0.82
+ 4:02:25.933 <cleanup> Remove:"HikingBoots_Brown" at [10619,2358] damage=0.82
+ 4:02:25.933   Items deleted: 1, of: 1
+ 4:02:26.261 <cleanup> Remove:"Ammo_40mm_Smoke_Black" at [9852,4648] damage=0.50 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Remove:"M9A1_Bayonet" at [9855,4637] damage=0.45 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Remove:"TTSKOPants" at [9822,4679] damage=0.76 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Depleted:"Cleaver" at [9454,13738] damage=0.20
+ 4:02:26.261 <cleanup> Remove:"Cleaver" at [9454,13738] damage=0.20
+ 4:02:26.261 <cleanup> Remove:"GhillieTop_Mossy" at [9817,4686] damage=0.49 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Depleted:"Pajka" at [10171,2487] damage=0.40
+ 4:02:26.261 <cleanup> Remove:"Pajka" at [10171,2487] damage=0.40
+ 4:02:26.261 <cleanup> Remove:"OfficerHat" at [9814,4688] damage=0.53 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Remove:"GhillieTop_Mossy" at [9853,4646] damage=0.76 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Remove:"AliceBag_Black" at [9857,4638] damage=0.81 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Remove:"MilitaryBeret_CDF" at [9833,4668] damage=0.82 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Remove:"AliceBag_Green" at [9834,4668] damage=0.13 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Remove:"GhillieHood_Mossy" at [9842,4659] damage=0.53 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Remove:"GorkaPants_Flat" at [9844,4659] damage=0.57 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261 <cleanup> Remove:"GhillieBushrag_Mossy" at [9822,4677] damage=0.22 DE="StaticMilitaryConvoy" id=1099
+ 4:02:26.261   Items deleted: 14, of: 14
+ 4:02:26.917 <cleanup> Remove:"AliceBag_Camo" at [6427,8025] damage=0.31 DE="StaticMilitaryConvoy" id=1101
+ 4:02:26.917 <cleanup> Remove:"GhillieBushrag_Mossy" at [7050,14491] damage=0.43 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"Mag_AKM_Drum75Rnd" at [6409,7994] damage=0.73 DE="StaticMilitaryConvoy" id=1101
+ 4:02:26.917 <cleanup> Remove:"VSS" at [7050,14464] damage=0.74 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"CombatBoots_Beige" at [7057,14496] damage=0.15 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"AmmoBox_556x45Tracer_20Rnd" at [6424,8027] damage=0.69 DE="StaticMilitaryConvoy" id=1101
+ 4:02:26.917 <cleanup> Remove:"GhillieAtt_Mossy" at [7057,14494] damage=0.63 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"Mag_UMP_25Rnd" at [7049,14499] damage=0.82 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"GhillieSuit_Mossy" at [7046,14500] damage=0.06 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"MilitaryBoots_Brown" at [6416,7978] damage=0.11 DE="StaticMilitaryConvoy" id=1101
+ 4:02:26.917 <cleanup> Remove:"M14" at [7045,14461] damage=0.82 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"WoolGlovesFingerless_Green" at [7049,14490] damage=0.80 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"GhillieHood_Mossy" at [6423,8003] damage=0.82 DE="StaticMilitaryConvoy" id=1101
+ 4:02:26.917 <cleanup> Remove:"ASVAL" at [7097,14512] damage=0.20 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"Mag_AKM_Drum75Rnd" at [7030,14488] damage=0.46 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"AugShort" at [7098,14507] damage=0.30 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.917 <cleanup> Remove:"MP5k_StockBttstck" at [6421,8016] damage=0.05 DE="StaticMilitaryConvoy" id=1101
+ 4:02:26.917 <cleanup> Remove:"Mag_M14_10Rnd" at [6414,7993] damage=0.52 DE="StaticMilitaryConvoy" id=1101
+ 4:02:26.917 <cleanup> Remove:"GorkaEJacket_Summer" at [6421,8000] damage=0.59 DE="StaticMilitaryConvoy" id=1101
+ 4:02:26.917 <cleanup> Remove:"AliceBag_Green" at [6421,8017] damage=0.22 DE="StaticMilitaryConvoy" id=1101
+ 4:02:26.917 <cleanup> Depleted:"CivSedanDoors_BackLeft_WhiteRust" at [6476,2263] damage=0.19
+ 4:02:26.917 <cleanup> Remove:"CivSedanDoors_BackLeft_WhiteRust" at [6476,2263] damage=0.19
+ 4:02:26.917 <cleanup> Remove:"AmmoBox" at [6417,7975] damage=0.63 DE="StaticMilitaryConvoy" id=1101
+ 4:02:26.932 <cleanup> Remove:"Ammo_40mm_Smoke_Black" at [7051,14464] damage=0.30 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.932 <cleanup> Remove:"AmmoBox_556x45_20Rnd" at [7032,14489] damage=0.10 DE="StaticMilitaryConvoy" id=1100
+ 4:02:26.932   Items deleted: 24, of: 24
+ 4:02:27.245 <cleanup> Depleted:"FlatCap_BlackCheck" at [6083,7740] damage=0.69
+ 4:02:27.245 <cleanup> Remove:"FlatCap_BlackCheck" at [6083,7740] damage=0.69
+ 4:02:27.245   Items deleted: 1, of: 1
+ 4:02:27.573 <cleanup> Depleted:"Izh43Shotgun" at [4530,2612] damage=0.82
+ 4:02:27.573 <cleanup> Remove:"Izh43Shotgun" at [4530,2612] damage=0.82
+ 4:02:27.573 <cleanup> Depleted:"FieldShovel" at [3980,11778] damage=0.61
+ 4:02:27.573 <cleanup> Remove:"FieldShovel" at [3980,11778] damage=0.61
+ 4:02:27.573   Items deleted: 2, of: 2
+ 4:02:27.901 <cleanup> Remove:"FAL" at [3031,9978] damage=0.45 DE="StaticMilitaryConvoy" id=1103
+ 4:02:27.901 <cleanup> Depleted:"SlacksPants_DarkGrey" at [2908,5490] damage=0.06
+ 4:02:27.901 <cleanup> Remove:"SlacksPants_DarkGrey" at [2908,5490] damage=0.06
+ 4:02:27.901 <cleanup> Depleted:"BaseballBat" at [2697,12374] damage=0.82
+ 4:02:27.901 <cleanup> Remove:"BaseballBat" at [2697,12374] damage=0.82
+ 4:02:27.901 <cleanup> Remove:"AK_FoldingBttstck" at [3012,9974] damage=0.82 DE="StaticMilitaryConvoy" id=1103
+ 4:02:27.901 <cleanup> Remove:"Ammo_Flare" at [3052,9986] damage=0.00 DE="StaticMilitaryConvoy" id=1103
+ 4:02:27.901 <cleanup> Remove:"Colt1911" at [3030,9983] damage=0.04 DE="StaticMilitaryConvoy" id=1103
+ 4:02:27.901 <cleanup> Remove:"M14" at [3009,9969] damage=0.61 DE="StaticMilitaryConvoy" id=1103
+ 4:02:27.901 <cleanup> Remove:"GorkaPants_Flat" at [3031,9972] damage=0.06 DE="StaticMilitaryConvoy" id=1103
+ 4:02:27.901 <cleanup> Remove:"NVGoggles" at [3048,9984] damage=0.04 DE="StaticMilitaryConvoy" id=1103
+ 4:02:27.901 <cleanup> Depleted:"CarBattery" at [3728,8962] damage=0.35
+ 4:02:27.901 <cleanup> Remove:"CarBattery" at [3728,8962] damage=0.35
+ 4:02:27.901 <cleanup> Remove:"GhillieAtt_Mossy" at [3029,9986] damage=0.02 DE="StaticMilitaryConvoy" id=1103
+ 4:02:27.901   Items deleted: 11, of: 11
+ 4:02:28.229 <cleanup> Depleted:"WorkingBoots_Brown" at [1562,12044] damage=0.44
+ 4:02:28.229 <cleanup> Remove:"WorkingBoots_Brown" at [1562,12044] damage=0.44
+ 4:02:28.229   Items deleted: 1, of: 1
+ 4:02:28.557   Items deleted: 0, of: 24
+ 4:02:45.171 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Hoodie_Grey missing:10 [cnt:25, nom:35, min:25]
+ 4:02:45.171   Adding Hoodie_Grey at [8134,3184]
+ 4:02:45.171   Adding Hoodie_Grey at [11663,14809]
+ 4:02:45.171   Adding Hoodie_Grey at [12633,8749]
+ 4:02:45.171   Adding Hoodie_Grey at [6391,2349]
+ 4:02:45.171   Adding Hoodie_Grey at [13946,13535]
+ 4:02:45.171   Adding Hoodie_Grey at [12856,15130]
+ 4:02:45.171   Adding Hoodie_Grey at [13921,15033]
+ 4:02:45.171   Adding Hoodie_Grey at [12233,9188]
+ 4:02:45.171   Adding Hoodie_Grey at [12663,9757]
+ 4:02:45.171   Adding Hoodie_Grey at [12191,9625]
+ 4:02:45.171   [CE][LootRespawner] (PRIDummy) :: Hoodie_Grey respawned:10, tests:10 missing:0
+ 4:02:45.281 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Hatchback_02_Trunk_BlackRust missing:3 [cnt:7, nom:10, min:7]
+ 4:02:45.281   Adding Hatchback_02_Trunk_BlackRust at [13528,13821]
+ 4:02:45.281   Adding Hatchback_02_Trunk_BlackRust at [6268,2869]
+ 4:02:45.281   Adding Hatchback_02_Trunk_BlackRust at [12734,9440]
+ 4:02:45.281   [CE][LootRespawner] (PRIDummy) :: Hatchback_02_Trunk_BlackRust respawned:3, tests:3 missing:3
+ 4:02:48.124 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 4:02:50.92   Adding BoletusMushroom at [327,3640]
+ 4:02:50.92   Adding MacrolepiotaMushroom at [430,3615]
+ 4:02:50.92   Adding MacrolepiotaMushroom at [389,3591]
+ 4:02:50.530 ------------------------------------
+ 4:02:50.530   ***  CE Loop took 26.9 (sec)...
+ 4:02:50.530 players: 1, loot: 19956, infected: 90, animals: 159
+ 4:02:50.530 ------------------------------------
+ 4:02:55.13 <cleanup> Depleted:"FlatCap_BrownCheck" at [11581,14577] damage=0.04
+ 4:02:55.13 <cleanup> Remove:"FlatCap_BrownCheck" at [11581,14577] damage=0.04
+ 4:02:55.13   Items deleted: 1, of: 1
+ 4:02:55.341 <cleanup> Depleted:"Matchbox" at [11359,14333] damage=0.07
+ 4:02:55.341 <cleanup> Remove:"Matchbox" at [11359,14333] damage=0.07
+ 4:02:55.341   Items deleted: 1, of: 1
+ 4:02:55.669 <cleanup> Depleted:"TrackSuitPants_LightBlue" at [9923,1852] damage=0.19
+ 4:02:55.669 <cleanup> Remove:"TrackSuitPants_LightBlue" at [9923,1852] damage=0.19
+ 4:02:55.669 <cleanup> Depleted:"Chemlight_Green" at [9958,10387] damage=0.78
+ 4:02:55.669 <cleanup> Remove:"Chemlight_Green" at [9958,10387] damage=0.78
+ 4:02:55.669   Items deleted: 2, of: 2
+ 4:02:55.997 <cleanup> Depleted:"PortableGasLamp" at [7998,12518] damage=0.82
+ 4:02:55.997 <cleanup> Remove:"PortableGasLamp" at [7998,12518] damage=0.82
+ 4:02:55.997 <cleanup> Depleted:"HockeyHelmet_White" at [8114,12640] damage=0.57
+ 4:02:55.997 <cleanup> Remove:"HockeyHelmet_White" at [8114,12640] damage=0.57
+ 4:02:55.997   Items deleted: 2, of: 2
+ 4:02:56.325 <cleanup> Depleted:"Headtorch_Black" at [7588,13364] damage=0.15
+ 4:02:56.325 <cleanup> Remove:"Headtorch_Black" at [7588,13364] damage=0.15
+ 4:02:56.325   Items deleted: 1, of: 1
+ 4:02:56.653 <cleanup> Depleted:"Glock19" at [6201,2918] damage=0.52
+ 4:02:56.653 <cleanup> Remove:"Glock19" at [6201,2918] damage=0.52
+ 4:02:56.653   Items deleted: 1, of: 1
+ 4:02:56.981 <cleanup> Depleted:"Bandana_RedPattern" at [4525,6443] damage=0.82
+ 4:02:56.981 <cleanup> Remove:"Bandana_RedPattern" at [4525,6443] damage=0.82
+ 4:02:56.981 <cleanup> Depleted:"CargoPants_Grey" at [4122,8889] damage=0.82
+ 4:02:56.981 <cleanup> Remove:"CargoPants_Grey" at [4122,8889] damage=0.82
+ 4:02:56.981   Items deleted: 2, of: 2
+ 4:02:57.309 <cleanup> Depleted:"P1" at [3341,15271] damage=0.55
+ 4:02:57.309 <cleanup> Remove:"P1" at [3341,15271] damage=0.55
+ 4:02:57.309 <cleanup> Depleted:"UKAssVest_Camo" at [3612,2238] damage=0.82
+ 4:02:57.309 <cleanup> Remove:"UKAssVest_Camo" at [3612,2238] damage=0.82
+ 4:02:57.309 <cleanup> Depleted:"Glock19" at [2732,5381] damage=0.26
+ 4:02:57.309 <cleanup> Remove:"Glock19" at [2732,5381] damage=0.26
+ 4:02:57.309 <cleanup> Depleted:"Ammo_762x54" at [2729,9905] damage=0.50
+ 4:02:57.309 <cleanup> Remove:"Ammo_762x54" at [2729,9905] damage=0.50
+ 4:02:57.309 <cleanup> Depleted:"PoliceVest" at [2777,1238] damage=0.82
+ 4:02:57.309 <cleanup> Remove:"PoliceVest" at [2777,1238] damage=0.82
+ 4:02:57.309   Items deleted: 5, of: 5
+ 4:02:57.637 <cleanup> Depleted:"TShirt_Grey" at [2263,11058] damage=0.82
+ 4:02:57.637 <cleanup> Remove:"TShirt_Grey" at [2263,11058] damage=0.82
+ 4:02:57.637 <cleanup> Depleted:"Ammo_22" at [2225,5255] damage=0.70
+ 4:02:57.637 <cleanup> Remove:"Ammo_22" at [2225,5255] damage=0.70
+ 4:02:57.637   Items deleted: 2, of: 2
+ 4:02:57.965 <cleanup> Depleted:"ContaminatedArea_Dynamic" at [8175,12754] damage=0.00 DE="StaticContaminatedArea" id=1088
+ 4:02:57.965 <cleanup> Remove:"ContaminatedArea_Dynamic" at [8175,12754] damage=0.00 DE="StaticContaminatedArea" id=1088
+ 4:02:57.965 <cleanup> Depleted:"ContaminatedArea_Dynamic" at [4432,10868] damage=0.00 DE="StaticContaminatedArea" id=1089
+ 4:02:57.965 <cleanup> Remove:"ContaminatedArea_Dynamic" at [4432,10868] damage=0.00 DE="StaticContaminatedArea" id=1089
+ 4:02:57.965 <cleanup> Depleted:"Hook" at [448,1537] damage=0.82
+ 4:02:57.965 <cleanup> Remove:"Hook" at [448,1537] damage=0.82
+ 4:02:57.965   Items deleted: 3, of: 27
+ 4:02:57.965   Items batched for deletion: 0, of: 18705
+ 4:02:57.965   Items batched for deletion: 0, of: 18705
+ 4:03:14.586 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Izh43Shotgun missing:10 [cnt:40, nom:50, min:40]
+ 4:03:14.586   Adding Izh43Shotgun at [10183,2225]
+ 4:03:14.586   Adding Izh43Shotgun at [10655,8151]
+ 4:03:14.586   Adding Izh43Shotgun at [12198,3491]
+ 4:03:14.586   Adding Izh43Shotgun at [11567,12426]
+ 4:03:14.586   Adding Izh43Shotgun at [12965,10195]
+ 4:03:14.586   Adding Izh43Shotgun at [10156,2271]
+ 4:03:14.586   Adding Izh43Shotgun at [12384,14351]
+ 4:03:14.586   Adding Izh43Shotgun at [11181,14353]
+ 4:03:14.586   Adding Izh43Shotgun at [9964,5476]
+ 4:03:14.602   Adding Izh43Shotgun at [11123,12335]
+ 4:03:14.602   [CE][LootRespawner] (PRIDummy) :: Izh43Shotgun respawned:10, tests:10 missing:0
+ 4:03:14.696 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Izh18 missing:10 [cnt:50, nom:60, min:50]
+ 4:03:14.696   Adding Izh18 at [4526,2618]
+ 4:03:14.696   Adding Izh18 at [8770,11658]
+ 4:03:14.696   Adding Izh18 at [3194,3988]
+ 4:03:14.696   Adding Izh18 at [4934,5651]
+ 4:03:14.696   Adding Izh18 at [8485,12078]
+ 4:03:14.696   Adding Izh18 at [9678,6758]
+ 4:03:14.696   Adding Izh18 at [5849,3932]
+ 4:03:14.696   Adding Izh18 at [11369,5489]
+ 4:03:14.696   Adding Izh18 at [10155,2097]
+ 4:03:14.696   Adding Izh18 at [9483,8888]
+ 4:03:14.696   [CE][LootRespawner] (PRIDummy) :: Izh18 respawned:10, tests:10 missing:0
+ 4:03:19.945 ------------------------------------
+ 4:03:19.945   ***  CE Loop took 26.9 (sec)...
+ 4:03:19.945 players: 1, loot: 19894, infected: 90, animals: 159
+ 4:03:19.945 ------------------------------------
+ 4:03:23.765 <cleanup> Depleted:"Hook" at [15152,13845] damage=0.28
+ 4:03:23.765 <cleanup> Remove:"Hook" at [15152,13845] damage=0.28
+ 4:03:23.765   Items deleted: 1, of: 1
+ 4:03:24.93 <cleanup> Depleted:"DisinfectantAlcohol" at [13534,13817] damage=0.51
+ 4:03:24.93 <cleanup> Remove:"DisinfectantAlcohol" at [13534,13817] damage=0.51
+ 4:03:24.93 <cleanup> Depleted:"MeatTenderizer" at [14009,15052] damage=0.57
+ 4:03:24.93 <cleanup> Remove:"MeatTenderizer" at [14009,15052] damage=0.57
+ 4:03:24.93 <cleanup> Depleted:"Marmalade" at [12939,6722] damage=0.34
+ 4:03:24.93 <cleanup> Remove:"Marmalade" at [12939,6722] damage=0.34
+ 4:03:24.93   Items deleted: 3, of: 3
+ 4:03:24.421 <cleanup> Depleted:"Ammo_762x39" at [12019,13880] damage=0.50
+ 4:03:24.421 <cleanup> Remove:"Ammo_762x39" at [12019,13880] damage=0.50
+ 4:03:24.421   Items deleted: 1, of: 1
+ 4:03:24.749 <cleanup> Depleted:"BomberJacket_SkyBlue" at [11490,14866] damage=0.79
+ 4:03:24.749 <cleanup> Remove:"BomberJacket_SkyBlue" at [11490,14866] damage=0.79
+ 4:03:24.749   Items deleted: 1, of: 1
+ 4:03:25.77 <cleanup> Depleted:"TrackSuitPants_Blue" at [9894,8706] damage=0.36
+ 4:03:25.77 <cleanup> Remove:"TrackSuitPants_Blue" at [9894,8706] damage=0.36
+ 4:03:25.77   Items deleted: 1, of: 1
+ 4:03:25.405 <cleanup> Depleted:"CivSedanHood_WhiteRust" at [8387,2476] damage=0.82
+ 4:03:25.405 <cleanup> Remove:"CivSedanHood_WhiteRust" at [8387,2476] damage=0.82
+ 4:03:25.405   Items deleted: 1, of: 1
+ 4:03:25.733 <cleanup> Depleted:"BomberJacket_Maroon" at [7522,5189] damage=0.72
+ 4:03:25.733 <cleanup> Remove:"BomberJacket_Maroon" at [7522,5189] damage=0.72
+ 4:03:25.733   Items deleted: 1, of: 1
+ 4:03:26.61 <cleanup> Depleted:"SardinesCan" at [6280,2475] damage=0.60
+ 4:03:26.61 <cleanup> Remove:"SardinesCan" at [6280,2475] damage=0.60
+ 4:03:26.61 <cleanup> Depleted:"BaseballCap_Blue" at [5201,8567] damage=0.50
+ 4:03:26.61 <cleanup> Remove:"BaseballCap_Blue" at [5201,8567] damage=0.50
+ 4:03:26.61   Items deleted: 2, of: 2
+ 4:03:26.389 <cleanup> Depleted:"UKAssVest_Camo" at [4853,2598] damage=0.82
+ 4:03:26.389 <cleanup> Remove:"UKAssVest_Camo" at [4853,2598] damage=0.82
+ 4:03:26.389   Items deleted: 1, of: 1
+ 4:03:26.717 <cleanup> Depleted:"Battery9V" at [2934,7764] damage=0.70
+ 4:03:26.717 <cleanup> Remove:"Battery9V" at [2934,7764] damage=0.70
+ 4:03:26.717 <cleanup> Depleted:"Ammo_9x19" at [2942,12445] damage=0.70
+ 4:03:26.717 <cleanup> Remove:"Ammo_9x19" at [2942,12445] damage=0.70
+ 4:03:26.717   Items deleted: 2, of: 2
+ 4:03:27.45 <cleanup> Depleted:"AK_WoodHndgrd" at [1532,14078] damage=0.82
+ 4:03:27.45 <cleanup> Remove:"AK_WoodHndgrd" at [1532,14078] damage=0.82
+ 4:03:27.45   Items deleted: 1, of: 1
+ 4:03:27.373 <cleanup> Depleted:"SparkPlug" at [475,11080] damage=0.30
+ 4:03:27.373 <cleanup> Remove:"SparkPlug" at [475,11080] damage=0.30
+ 4:03:27.373   Items deleted: 1, of: 25
+ 4:03:43.999 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] FlatCap_BrownCheck missing:6 [cnt:19, nom:25, min:19]
+ 4:03:43.999   Adding FlatCap_BrownCheck at [3667,9005]
+ 4:03:43.999   Adding FlatCap_BrownCheck at [10012,10352]
+ 4:03:43.999   Adding FlatCap_BrownCheck at [6690,2414]
+ 4:03:43.999   Adding FlatCap_BrownCheck at [11670,14555]
+ 4:03:43.999   Adding FlatCap_BrownCheck at [8177,12700]
+ 4:03:43.999   Adding FlatCap_BrownCheck at [6082,7742]
+ 4:03:43.999   [CE][LootRespawner] (PRIDummy) :: FlatCap_BrownCheck respawned:6, tests:6 missing:0
+ 4:03:44.109 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] UKAssVest_Camo missing:2 [cnt:3, nom:5, min:3]
+ 4:03:44.109   Adding UKAssVest_Camo at [3991,11800]
+ 4:03:44.109   Adding UKAssVest_Camo at [4857,2600]
+ 4:03:44.109   [CE][LootRespawner] (PRIDummy) :: UKAssVest_Camo respawned:2, tests:3 missing:0
+ 4:03:44.624 [A2S] received data
+ 4:03:44.624 [A2S] A2S_INFO
+ 4:03:44.624 [A2S] received data
+ 4:03:44.624 [A2S] A2S_PLAYER
+ 4:03:44.624 [A2S] received data
+ 4:03:44.624 [A2S] A2S_RULES
+ 4:03:46.186 <cleanup> Depleted:"ZmbM_HermitSkinny_Green" at [258,3789] damage=0.00 DE="InfectedSolitude"
+ 4:03:46.186  DE: InfectedSolitude Zone index: 106
+ 4:03:46.186 <cleanup> Depleted:"ZmbM_HermitSkinny_Green" at [243,3765] damage=0.00 DE="InfectedSolitude"
+ 4:03:46.186  DE: InfectedSolitude Zone index: 106
+ 4:03:46.186   Items batched for deletion: 2, of: 2
+ 4:03:49.358 ------------------------------------
+ 4:03:49.358   ***  CE Loop took 26.9 (sec)...
+ 4:03:49.358 players: 1, loot: 19895, infected: 96, animals: 159
+ 4:03:49.358 ------------------------------------
+ 4:03:53.513 <cleanup> Depleted:"LugWrench" at [12994,10277] damage=0.52
+ 4:03:53.513 <cleanup> Remove:"LugWrench" at [12994,10277] damage=0.52
+ 4:03:53.513   Items deleted: 1, of: 1
+ 4:03:53.841 <cleanup> Depleted:"Ammo_380" at [12163,10903] damage=0.70
+ 4:03:53.841 <cleanup> Remove:"Ammo_380" at [12163,10903] damage=0.70
+ 4:03:53.841 <cleanup> Depleted:"PoliceJacketOrel" at [12051,3594] damage=0.05
+ 4:03:53.841 <cleanup> Remove:"PoliceJacketOrel" at [12051,3594] damage=0.05
+ 4:03:53.841   Items deleted: 2, of: 2
+ 4:03:54.169 <cleanup> Depleted:"HipPack_Green" at [11127,12250] damage=0.74
+ 4:03:54.169 <cleanup> Remove:"HipPack_Green" at [11127,12250] damage=0.74
+ 4:03:54.169   Items deleted: 1, of: 1
+ 4:03:54.497 <cleanup> Depleted:"Thermometer" at [10024,2187] damage=0.12
+ 4:03:54.497 <cleanup> Remove:"Thermometer" at [10024,2187] damage=0.12
+ 4:03:54.497 <cleanup> Depleted:"DressShoes_White" at [10053,2089] damage=0.47
+ 4:03:54.497 <cleanup> Remove:"DressShoes_White" at [10053,2089] damage=0.47
+ 4:03:54.497 <cleanup> Depleted:"TShirt_White" at [9276,13453] damage=0.19
+ 4:03:54.497 <cleanup> Remove:"TShirt_White" at [9276,13453] damage=0.19
+ 4:03:54.497   Items deleted: 3, of: 3
+ 4:03:54.825 <cleanup> Depleted:"Ammo_12gaSlug" at [7868,3017] damage=0.50
+ 4:03:54.825 <cleanup> Remove:"Ammo_12gaSlug" at [7868,3017] damage=0.50
+ 4:03:54.825   Items deleted: 1, of: 1
+ 4:03:55.153 <cleanup> Depleted:"HatchbackDoors_CoDriver_GreenRust" at [6515,3665] damage=0.41
+ 4:03:55.153 <cleanup> Remove:"HatchbackDoors_CoDriver_GreenRust" at [6515,3665] damage=0.41
+ 4:03:55.153 <cleanup> Depleted:"NylonKnifeSheath" at [7528,13468] damage=0.34
+ 4:03:55.153 <cleanup> Remove:"NylonKnifeSheath" at [7528,13468] damage=0.34
+ 4:03:55.153 <cleanup> Depleted:"RadarCap_Red" at [6477,2264] damage=0.82
+ 4:03:55.153 <cleanup> Remove:"RadarCap_Red" at [6477,2264] damage=0.82
+ 4:03:55.153 <cleanup> Depleted:"BaseballCap_Red" at [7152,7683] damage=0.13
+ 4:03:55.153 <cleanup> Remove:"BaseballCap_Red" at [7152,7683] damage=0.13
+ 4:03:55.153 <cleanup> Depleted:"SlacksPants_Khaki" at [6686,2628] damage=0.02
+ 4:03:55.153 <cleanup> Remove:"SlacksPants_Khaki" at [6686,2628] damage=0.02
+ 4:03:55.153   Items deleted: 5, of: 5
+ 4:03:55.481 <cleanup> Depleted:"RadarCap_Black" at [6185,2187] damage=0.80
+ 4:03:55.481 <cleanup> Remove:"RadarCap_Black" at [6185,2187] damage=0.80
+ 4:03:55.481   Items deleted: 1, of: 1
+ 4:03:55.809 <cleanup> Depleted:"PP19_Bttstck" at [4536,9708] damage=0.60
+ 4:03:55.809 <cleanup> Remove:"PP19_Bttstck" at [4536,9708] damage=0.60
+ 4:03:55.809 <cleanup> Depleted:"BallisticHelmet_UN" at [4473,9645] damage=0.33
+ 4:03:55.809 <cleanup> Remove:"BallisticHelmet_UN" at [4473,9645] damage=0.33
+ 4:03:55.809   Items deleted: 2, of: 2
+ 4:03:56.137 <cleanup> Depleted:"FarmingHoe" at [3320,12988] damage=0.54
+ 4:03:56.137 <cleanup> Remove:"FarmingHoe" at [3320,12988] damage=0.54
+ 4:03:56.137 <cleanup> Depleted:"CZ61" at [2799,1256] damage=0.82
+ 4:03:56.137 <cleanup> Remove:"CZ61" at [2799,1256] damage=0.82
+ 4:03:56.137   Items deleted: 2, of: 2
+ 4:03:56.465 <cleanup> Depleted:"Ammo_308WinTracer" at [1497,13614] damage=0.00
+ 4:03:56.465 <cleanup> Remove:"Ammo_308WinTracer" at [1497,13614] damage=0.00
+ 4:03:56.465   Items deleted: 1, of: 1
+ 4:03:56.793 <cleanup> Remove:"ZmbM_HermitSkinny_Green" at [257,3789] damage=0.00 DE="InfectedSolitude"
+ 4:03:56.793 <cleanup> Remove:"ZmbM_HermitSkinny_Green" at [245,3764] damage=0.00 DE="InfectedSolitude"
+ 4:03:56.793 <cleanup> Depleted:"MacrolepiotaMushroom" at [339,4964] damage=0.76
+ 4:03:56.793 <cleanup> Remove:"MacrolepiotaMushroom" at [339,4964] damage=0.76
+ 4:03:56.793 <cleanup> Depleted:"OrienteeringCompass" at [1155,12051] damage=0.18
+ 4:03:56.793 <cleanup> Remove:"OrienteeringCompass" at [1155,12051] damage=0.18
+ 4:03:56.793 <cleanup> Depleted:"MacrolepiotaMushroom" at [219,4048] damage=0.60
+ 4:03:56.793 <cleanup> Remove:"MacrolepiotaMushroom" at [219,4048] damage=0.60
+ 4:03:56.793   Items deleted: 5, of: 29
+ 4:04:13.196 CHAR_DEBUG - SAVE
+ 4:04:13.196     player ExNKBTyMaHe1467 (dpnid = 57594721)
+ 4:04:13.196     Identity: playerID = 14 , charID = 14
+ 4:04:13.196     Person  : playerID = 14 , charID = 14
+ 4:04:13.196 Saved 1 players ...
+ 4:04:13.415 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] MeatTenderizer missing:10 [cnt:60, nom:70, min:60]
+ 4:04:13.415   Adding MeatTenderizer at [12980,9686]
+ 4:04:13.415   Adding MeatTenderizer at [5658,3005]
+ 4:04:13.415   Adding MeatTenderizer at [2755,9520]
+ 4:04:13.415   Adding MeatTenderizer at [6043,3168]
+ 4:04:13.415   Adding MeatTenderizer at [1961,7210]
+ 4:04:13.415   Adding MeatTenderizer at [6531,3104]
+ 4:04:13.415   Adding MeatTenderizer at [10133,2316]
+ 4:04:13.415   Adding MeatTenderizer at [4799,6827]
+ 4:04:13.415   Adding MeatTenderizer at [12336,9080]
+ 4:04:13.415   Adding MeatTenderizer at [7519,5187]
+ 4:04:13.415   [CE][LootRespawner] (PRIDummy) :: MeatTenderizer respawned:10, tests:10 missing:0
+ 4:04:13.524 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] SardinesCan missing:5 [cnt:15, nom:20, min:15]
+ 4:04:13.524   Adding SardinesCan at [6670,2673]
+ 4:04:13.524   Adding SardinesCan at [6012,3227]
+ 4:04:13.524   Adding SardinesCan at [7567,5102]
+ 4:04:13.524   Adding SardinesCan at [12987,14567]
+ 4:04:13.524   Adding SardinesCan at [6477,2264]
+ 4:04:13.524   [CE][LootRespawner] (PRIDummy) :: SardinesCan respawned:5, tests:5 missing:0
+ 4:04:13.633 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] BomberJacket_Maroon missing:5 [cnt:10, nom:15, min:10]
+ 4:04:13.633   Adding BomberJacket_Maroon at [2033,2279]
+ 4:04:13.633   Adding BomberJacket_Maroon at [12186,13750]
+ 4:04:13.633   Adding BomberJacket_Maroon at [3269,3931]
+ 4:04:13.633   Adding BomberJacket_Maroon at [9449,13696]
+ 4:04:13.633   Adding BomberJacket_Maroon at [10719,5327]
+ 4:04:13.633   [CE][LootRespawner] (PRIDummy) :: BomberJacket_Maroon respawned:5, tests:5 missing:0
+ 4:04:13.743 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] CivSedanHood_WhiteRust missing:3 [cnt:7, nom:10, min:7]
+ 4:04:13.743   Adding CivSedanHood_WhiteRust at [3366,13027]
+ 4:04:13.743   Adding CivSedanHood_WhiteRust at [12458,9570]
+ 4:04:13.743   Adding CivSedanHood_WhiteRust at [1418,11937]
+ 4:04:13.743   [CE][LootRespawner] (PRIDummy) :: CivSedanHood_WhiteRust respawned:3, tests:3 missing:3
+ 4:04:16.367 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 4:04:16.367 [CE][VehicleRespawner] (PRIContaminatedArea) :: Respawning: "StaticContaminatedArea"
+ 4:04:18.335   Adding MacrolepiotaMushroom at [285,3051]
+ 4:04:18.335   Adding BoletusMushroom at [297,3057]
+ 4:04:18.335   Adding MacrolepiotaMushroom at [288,3166]
+ 4:04:18.773 ------------------------------------
+ 4:04:18.773   ***  CE Loop took 26.9 (sec)...
+ 4:04:18.773 players: 1, loot: 19891, infected: 96, animals: 159
+ 4:04:18.773 ------------------------------------
+ 4:04:21.151 [A2S] received data
+ 4:04:21.151 [A2S] A2S_INFO
+ 4:04:21.151 [A2S] received data
+ 4:04:21.151 [A2S] A2S_PLAYER
+ 4:04:21.151 [A2S] received data
+ 4:04:21.151 [A2S] A2S_RULES
+ 4:04:23.260 <cleanup> Depleted:"ShortJeans_Black" at [11765,14326] damage=0.82
+ 4:04:23.260 <cleanup> Remove:"ShortJeans_Black" at [11765,14326] damage=0.82
+ 4:04:23.260 <cleanup> Depleted:"Epinephrine" at [12797,10067] damage=0.47
+ 4:04:23.260 <cleanup> Remove:"Epinephrine" at [12797,10067] damage=0.47
+ 4:04:23.260 <cleanup> Depleted:"PolicePantsOrel" at [12061,3613] damage=0.23
+ 4:04:23.260 <cleanup> Remove:"PolicePantsOrel" at [12061,3613] damage=0.23
+ 4:04:23.260   Items deleted: 3, of: 3
+ 4:04:23.588 <cleanup> Depleted:"Ammo_HuntingBolt" at [11248,4270] damage=0.00
+ 4:04:23.588 <cleanup> Remove:"Ammo_HuntingBolt" at [11248,4270] damage=0.00
+ 4:04:23.588 <cleanup> Depleted:"CanvasPantsMidi_Red" at [10545,9765] damage=0.06
+ 4:04:23.588 <cleanup> Remove:"CanvasPantsMidi_Red" at [10545,9765] damage=0.06
+ 4:04:23.588   Items deleted: 2, of: 2
+ 4:04:23.916 <cleanup> Depleted:"Pliers" at [10019,2157] damage=0.77
+ 4:04:23.916 <cleanup> Remove:"Pliers" at [10019,2157] damage=0.77
+ 4:04:23.916   Items deleted: 1, of: 1
+ 4:04:24.244 <cleanup> Depleted:"LugWrench" at [8026,2910] damage=0.71
+ 4:04:24.244 <cleanup> Remove:"LugWrench" at [8026,2910] damage=0.71
+ 4:04:24.244   Items deleted: 1, of: 1
+ 4:04:24.572 <cleanup> Depleted:"Jeans_Black" at [6404,2290] damage=0.82
+ 4:04:24.572 <cleanup> Remove:"Jeans_Black" at [6404,2290] damage=0.82
+ 4:04:24.572 <cleanup> Depleted:"BaseballCap_CMMG_Pink" at [6508,2322] damage=0.78
+ 4:04:24.572 <cleanup> Remove:"BaseballCap_CMMG_Pink" at [6508,2322] damage=0.78
+ 4:04:24.572 <cleanup> Depleted:"MotoHelmet_Green" at [6951,3526] damage=0.55
+ 4:04:24.572 <cleanup> Remove:"MotoHelmet_Green" at [6951,3526] damage=0.55
+ 4:04:24.572   Items deleted: 3, of: 3
+ 4:04:24.901 <cleanup> Depleted:"Ammo_380" at [5966,13497] damage=0.70
+ 4:04:24.901 <cleanup> Remove:"Ammo_380" at [5966,13497] damage=0.70
+ 4:04:24.901   Items deleted: 1, of: 1
+ 4:04:25.229 <cleanup> Depleted:"ArmyPouch_Camo" at [4024,11787] damage=0.53
+ 4:04:25.229 <cleanup> Remove:"ArmyPouch_Camo" at [4024,11787] damage=0.53
+ 4:04:25.229 <cleanup> Depleted:"Hook" at [4142,2176] damage=0.52
+ 4:04:25.229 <cleanup> Remove:"Hook" at [4142,2176] damage=0.52
+ 4:04:25.229   Items deleted: 2, of: 2
+ 4:04:26.213   Items deleted: 0, of: 24
+ 4:04:42.841 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] RadarCap_Black missing:4 [cnt:8, nom:12, min:8]
+ 4:04:42.841   Adding RadarCap_Black at [9074,3436]
+ 4:04:42.841   Adding RadarCap_Black at [12095,9031]
+ 4:04:42.841   Adding RadarCap_Black at [4873,5729]
+ 4:04:42.841   Adding RadarCap_Black at [7432,2769]
+ 4:04:42.841   [CE][LootRespawner] (PRIDummy) :: RadarCap_Black respawned:4, tests:4 missing:0
+ 4:04:42.951 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] BallisticHelmet_UN missing:2 [cnt:2, nom:4, min:2]
+ 4:04:42.951   Adding BallisticHelmet_UN at [4547,8299]
+ 4:04:42.951   Adding BallisticHelmet_UN at [4473,9645]
+ 4:04:42.951   [CE][LootRespawner] (PRIDummy) :: BallisticHelmet_UN respawned:2, tests:2 missing:0
+ 4:04:48.199 ------------------------------------
+ 4:04:48.199   ***  CE Loop took 26.9 (sec)...
+ 4:04:48.199 players: 1, loot: 19894, infected: 94, animals: 159
+ 4:04:48.199 ------------------------------------
+ 4:04:52.355 <cleanup> Depleted:"Hook" at [12871,9935] damage=0.06
+ 4:04:52.355 <cleanup> Remove:"Hook" at [12871,9935] damage=0.06
+ 4:04:52.355   Items deleted: 1, of: 1
+ 4:04:52.683 <cleanup> Depleted:"CombinationLock4" at [12744,9710] damage=0.13
+ 4:04:52.683 <cleanup> Remove:"CombinationLock4" at [12744,9710] damage=0.13
+ 4:04:52.683   Items deleted: 1, of: 1
+ 4:04:53.11 <cleanup> Depleted:"MiniDress_WhiteChecker" at [10927,6676] damage=0.44
+ 4:04:53.11 <cleanup> Remove:"MiniDress_WhiteChecker" at [10927,6676] damage=0.44
+ 4:04:53.11   Items deleted: 1, of: 1
+ 4:04:53.667 <cleanup> Depleted:"MetalWire" at [8197,12230] damage=0.15
+ 4:04:53.667 <cleanup> Remove:"MetalWire" at [8197,12230] damage=0.15
+ 4:04:53.667 <cleanup> Depleted:"HuntingKnife" at [8173,8569] damage=0.05
+ 4:04:53.667 <cleanup> Remove:"HuntingKnife" at [8173,8569] damage=0.05
+ 4:04:53.667 <cleanup> Depleted:"HandSaw" at [8083,12834] damage=0.33
+ 4:04:53.667 <cleanup> Remove:"HandSaw" at [8083,12834] damage=0.33
+ 4:04:53.667   Items deleted: 3, of: 3
+ 4:04:53.995 <cleanup> Depleted:"JumpsuitPants_Grey" at [6484,2913] damage=0.70
+ 4:04:53.995 <cleanup> Remove:"JumpsuitPants_Grey" at [6484,2913] damage=0.70
+ 4:04:53.995 <cleanup> Depleted:"HikingBootsLow_Beige" at [6829,2676] damage=0.80
+ 4:04:53.995 <cleanup> Remove:"HikingBootsLow_Beige" at [6829,2676] damage=0.80
+ 4:04:53.995 <cleanup> Depleted:"ThickFramesGlasses" at [6827,2674] damage=0.57
+ 4:04:53.995 <cleanup> Remove:"ThickFramesGlasses" at [6827,2674] damage=0.57
+ 4:04:53.995   Items deleted: 3, of: 3
+ 4:04:54.651 <cleanup> Depleted:"Breeches_Red" at [3966,14873] damage=0.24
+ 4:04:54.651 <cleanup> Remove:"Breeches_Red" at [3966,14873] damage=0.24
+ 4:04:54.651 <cleanup> Depleted:"Matchbox" at [3869,13008] damage=0.12
+ 4:04:54.651 <cleanup> Remove:"Matchbox" at [3869,13008] damage=0.12
+ 4:04:54.651   Items deleted: 2, of: 2
+ 4:04:54.979 <cleanup> Depleted:"CanvasPants_Violet" at [3341,13247] damage=0.82
+ 4:04:54.979 <cleanup> Remove:"CanvasPants_Violet" at [3341,13247] damage=0.82
+ 4:04:54.979 <cleanup> Depleted:"Ushanka_Green" at [2740,5078] damage=0.38
+ 4:04:54.979 <cleanup> Remove:"Ushanka_Green" at [2740,5078] damage=0.38
+ 4:04:54.979 <cleanup> Depleted:"Bandana_PolkaPattern" at [3261,12910] damage=0.75
+ 4:04:54.979 <cleanup> Remove:"Bandana_PolkaPattern" at [3261,12910] damage=0.75
+ 4:04:54.979   Items deleted: 3, of: 3
+ 4:04:55.635 <cleanup> Ruined Lifetime:"ZmbM_usSoldier_normal_Desert" at [326,3020] damage=1.00 DE="StaticMilitaryConvoy"
+ 4:04:55.635 <cleanup> Ruined Lifetime:"ZmbM_SoldierNormal" at [324,3019] damage=1.00 DE="StaticMilitaryConvoy"
+ 4:04:55.635 <cleanup> Ruined Lifetime:"ZmbM_PatrolNormal_Flat" at [331,3022] damage=1.00 DE="StaticMilitaryConvoy"
+ 4:04:55.635 <cleanup> Ruined Lifetime:"ZmbM_PatrolNormal_Flat" at [328,3045] damage=1.00 DE="StaticMilitaryConvoy"
+ 4:04:55.635   Items deleted: 0, of: 24
+ 4:05:12.251 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Hook missing:10 [cnt:40, nom:50, min:40]
+ 4:05:12.251   Adding Hook at [15196,13833]
+ 4:05:12.251 Warning: No components in dz\water\ponds\moss\pond_small_05_moss.p3d:geometry
+ 4:05:12.251 Warning: No components in dz\water\ponds\moss\pond_small_18_moss.p3d:geometry
+ 4:05:12.251 Warning: No components in dz\water\ponds\moss\pond_big_33_01_moss.p3d:geometry
+ 4:05:12.251 Warning: No components in dz\water\ponds\moss\pond_big_33_02_moss.p3d:geometry
+ 4:05:12.251   Adding Hook at [3935,2209]
+ 4:05:12.251   Adding Hook at [7639,2943]
+ 4:05:12.251   Adding Hook at [11825,12572]
+ 4:05:12.251   Adding Hook at [15217,13825]
+ 4:05:12.251   Adding Hook at [12785,9958]
+ 4:05:12.251   Adding Hook at [7904,3019]
+ 4:05:12.251   Adding Hook at [14192,12223]
+ 4:05:12.251   Adding Hook at [6375,2873]
+ 4:05:12.251   Adding Hook at [12963,9564]
+ 4:05:12.251   [CE][LootRespawner] (PRIDummy) :: Hook respawned:10, tests:10 missing:0
+ 4:05:12.360 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Jeans_Black missing:10 [cnt:10, nom:20, min:10]
+ 4:05:12.360   Adding Jeans_Black at [3001,7483]
+ 4:05:12.360   Adding Jeans_Black at [2693,5357]
+ 4:05:12.360   Adding Jeans_Black at [3697,13128]
+ 4:05:12.360   Adding Jeans_Black at [6789,2540]
+ 4:05:12.360   Adding Jeans_Black at [11588,14610]
+ 4:05:12.360   Adding Jeans_Black at [11366,14330]
+ 4:05:12.360   Adding Jeans_Black at [13372,6610]
+ 4:05:12.360   Adding Jeans_Black at [10475,2234]
+ 4:05:12.360   Adding Jeans_Black at [11232,6597]
+ 4:05:12.360   Adding Jeans_Black at [12321,9714]
+ 4:05:12.360   [CE][LootRespawner] (PRIDummy) :: Jeans_Black respawned:10, tests:10 missing:0
+ 4:05:12.470 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Ammo_HuntingBolt missing:7 [cnt:18, nom:25, min:18]
+ 4:05:12.470   Adding Ammo_HuntingBolt at [11416,10656]
+ 4:05:12.470   Adding Ammo_HuntingBolt at [4827,3317]
+ 4:05:12.470   Adding Ammo_HuntingBolt at [425,9849]
+ 4:05:12.470   Adding Ammo_HuntingBolt at [4315,14287]
+ 4:05:12.470   Adding Ammo_HuntingBolt at [1071,6594]
+ 4:05:12.470   Adding Ammo_HuntingBolt at [6860,11496]
+ 4:05:12.470   Adding Ammo_HuntingBolt at [1088,6647]
+ 4:05:12.470   [CE][LootRespawner] (PRIDummy) :: Ammo_HuntingBolt respawned:7, tests:7 missing:0
+ 4:05:14.547 <cleanup> Depleted:"ZmbM_PatrolNormal_Autumn" at [263,3044] damage=0.00 DE="StaticMilitaryConvoy"
+ 4:05:14.547  DE: StaticMilitaryConvoy Zone index: 3
+ 4:05:14.547   Items batched for deletion: 1, of: 1
+ 4:05:14.547 <cleanup> Depleted:"ZmbM_SoldierNormal" at [324,3019] damage=1.00 DE="StaticMilitaryConvoy"
+ 4:05:14.547  DE: StaticMilitaryConvoy Zone index: 4
+ 4:05:14.547   Items batched for deletion: 1, of: 71
+ 4:05:14.547 <cleanup> Depleted:"ZmbM_PatrolNormal_Autumn" at [322,3012] damage=0.00 DE="StaticMilitaryConvoy"
+ 4:05:14.547  DE: StaticMilitaryConvoy Zone index: 5
+ 4:05:14.547   Items batched for deletion: 1, of: 2
+ 4:05:17.609 ------------------------------------
+ 4:05:17.609   ***  CE Loop took 26.9 (sec)...
+ 4:05:17.609 players: 1, loot: 19887, infected: 94, animals: 159
+ 4:05:17.609 ------------------------------------
+ 4:05:21.442 <cleanup> Depleted:"PoliceVest" at [14109,13278] damage=0.34
+ 4:05:21.442 <cleanup> Remove:"PoliceVest" at [14109,13278] damage=0.34
+ 4:05:21.442   Items deleted: 1, of: 1
+ 4:05:22.98 <cleanup> Depleted:"BloodTestKit" at [11894,12557] damage=0.55
+ 4:05:22.98 <cleanup> Remove:"BloodTestKit" at [11894,12557] damage=0.55
+ 4:05:22.98 <cleanup> Depleted:"Pickaxe" at [12172,13749] damage=0.19
+ 4:05:22.98 <cleanup> Remove:"Pickaxe" at [12172,13749] damage=0.19
+ 4:05:22.98   Items deleted: 2, of: 2
+ 4:05:22.754 <cleanup> Depleted:"Machete" at [9617,8781] damage=0.65
+ 4:05:22.754 <cleanup> Remove:"Machete" at [9617,8781] damage=0.65
+ 4:05:22.754 <cleanup> Depleted:"SlacksPants_DarkGrey" at [10071,1877] damage=0.64
+ 4:05:22.754 <cleanup> Remove:"SlacksPants_DarkGrey" at [10071,1877] damage=0.64
+ 4:05:22.754   Items deleted: 2, of: 2
+ 4:05:23.82 <cleanup> Depleted:"ShortJeans_Blue" at [8023,12693] damage=0.82
+ 4:05:23.82 <cleanup> Remove:"ShortJeans_Blue" at [8023,12693] damage=0.82
+ 4:05:23.82 <cleanup> Depleted:"Hook" at [7988,2996] damage=0.75
+ 4:05:23.82 <cleanup> Remove:"Hook" at [7988,2996] damage=0.75
+ 4:05:23.82   Items deleted: 2, of: 2
+ 4:05:23.410 <cleanup> Depleted:"ParamedicJacket_Blue" at [7058,4308] damage=0.24
+ 4:05:23.410 <cleanup> Remove:"ParamedicJacket_Blue" at [7058,4308] damage=0.24
+ 4:05:23.410   Items deleted: 1, of: 1
+ 4:05:23.738 <cleanup> Depleted:"Chemlight_Red" at [6351,2667] damage=0.73
+ 4:05:23.738 <cleanup> Remove:"Chemlight_Red" at [6351,2667] damage=0.73
+ 4:05:23.738 <cleanup> Depleted:"Shirt_BlueCheckBright" at [5434,3809] damage=0.63
+ 4:05:23.738 <cleanup> Remove:"Shirt_BlueCheckBright" at [5434,3809] damage=0.63
+ 4:05:23.738   Items deleted: 2, of: 2
+ 4:05:24.66 <cleanup> Depleted:"Hammer" at [4116,8972] damage=0.35
+ 4:05:24.66 <cleanup> Remove:"Hammer" at [4116,8972] damage=0.35
+ 4:05:24.66 <cleanup> Depleted:"DarkMotoHelmet_Black" at [4352,6403] damage=0.72
+ 4:05:24.66 <cleanup> Remove:"DarkMotoHelmet_Black" at [4352,6403] damage=0.72
+ 4:05:24.66   Items deleted: 2, of: 2
+ 4:05:24.723 <cleanup> Depleted:"TShirt_RedBlackStripes" at [2005,7039] damage=0.64
+ 4:05:24.723 <cleanup> Remove:"TShirt_RedBlackStripes" at [2005,7039] damage=0.64
